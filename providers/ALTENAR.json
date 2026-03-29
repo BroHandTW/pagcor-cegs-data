@@ -1,0 +1,736 @@
+{
+  "provider": "ALTENAR",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/ALTENAR.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 91,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "3X3 BASKETBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 2,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ALPINE SKIING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 3,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "AMERICAN FOOTBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 4,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ARCHERY",
+      "game_id": "99",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 5,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ARTISTIC SWIMMING",
+      "game_id": "178",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 6,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ATHLETICS",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 7,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "AUSSIE RULES",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 8,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BADMINTON",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 9,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BANDY",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 10,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BASEBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 11,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BASKETBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 12,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BEACH SOCCER",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 13,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BEACH VOLLEY",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 14,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BIATHLON",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 15,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BOBSLEIGH",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 16,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BOWLS",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 17,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BOXING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 18,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BREAKING",
+      "game_id": "176",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 19,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CANOEING",
+      "game_id": "135",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 20,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CHESS",
+      "game_id": "161",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 21,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CRICKET",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 22,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CROSS COUNTRY SKIING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 23,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CURLING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 24,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CYCLING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 25,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "DARTS",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 26,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "DIVING",
+      "game_id": "137",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 27,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "EQUESTRIAN",
+      "game_id": "127",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 28,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FENCING",
+      "game_id": "95",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 29,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FIELD HOCKEY",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 30,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FIGURE SKATING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 31,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FINANCIAL BETS",
+      "game_id": "144",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 32,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FLOORBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 33,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FREESTYLE SKIING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 34,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FUTSAL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 35,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "GAELIC FOOTBALL",
+      "game_id": "116",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 36,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "GAELIC HURLING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 37,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "GOLF",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 38,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "GREYHOUNDS",
+      "game_id": "100",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 39,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "GYMNASTICS",
+      "game_id": "139",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 40,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "HANDBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 41,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "HORSE RACING",
+      "game_id": "165",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 42,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ICE HOCKEY",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 43,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "JUDO",
+      "game_id": "141",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 44,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "KABADDI",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 45,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "LACROSSE",
+      "game_id": "151",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 46,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "LUGE",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 47,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MARATHON SWIMMING",
+      "game_id": "133",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 48,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MMA",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 49,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MODERN PENTATHLON",
+      "game_id": "142",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 50,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MOTORSPORT",
+      "game_id": "103",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 51,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "NORDIC COMBINED",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 52,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "OLYMPICS",
+      "game_id": "125",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 53,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "PADEL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 54,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "PESAPALLO",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 55,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "PICKLEBALL",
+      "game_id": "173",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 56,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ROWING",
+      "game_id": "130",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 57,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "RUGBY",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 58,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "RUGBY LEAGUE",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 59,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SAILING",
+      "game_id": "111",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 60,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SHOOTING",
+      "game_id": "140",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 61,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SHORT FOOTBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 62,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SHORT TRACK SPEED SKATING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 63,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SKATEBOARDING",
+      "game_id": "128",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 64,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SKELETON",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 65,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SKI JUMPING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 66,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SNOOKER",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 67,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SNOWBOARDING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 68,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SOCCER",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 69,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SOFTBALL",
+      "game_id": "123",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 70,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SPECIALS",
+      "game_id": "90",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 71,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SPEED SKATING",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 72,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SQUASH",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 73,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SURFING",
+      "game_id": "129",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 74,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SWIMMING",
+      "game_id": "126",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 75,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TABLE TENNIS",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 76,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TAEKWONDO",
+      "game_id": "136",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 77,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TENNIS",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 78,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TRIATHLON",
+      "game_id": "131",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 79,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "V-DASHINGDERBY (KIRON)",
+      "game_id": "22",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 80,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "VIRTUAL FOOTBALL CUP - WORLD (LEAP)",
+      "game_id": "36",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 81,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "VIRTUAL FOOTBALL LEAGUE (LEAP)",
+      "game_id": "34",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 82,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "V-KIRONFOOTBALL (KIRON)",
+      "game_id": "32",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 83,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "V-MOTORRACING (KIRON)",
+      "game_id": "24",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 84,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "VOLLEYBALL",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 85,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "V-PLATINUMHOUNDS (KIRON)",
+      "game_id": "23",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 86,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "V-PRERECDOGS (KIRON)",
+      "game_id": "25",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 87,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "V-PRERECHORSES (KIRON)",
+      "game_id": "26",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "RNG-BASED"
+    },
+    {
+      "no": 88,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "WATERPOLO",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 89,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "WEIGHTLIFTING",
+      "game_id": "132",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 90,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "WINTERSPORTS",
+      "game_id": "",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    },
+    {
+      "no": 91,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "WRESTLING",
+      "game_id": "138",
+      "game_version": "ALTENAR SPORTSBOOK V2.0",
+      "game_type": "LIVE"
+    }
+  ]
+}

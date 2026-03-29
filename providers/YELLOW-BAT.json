@@ -1,0 +1,416 @@
+{
+  "provider": "YELLOW BAT (YB)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/YELLOW-BAT.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 51,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "ATLANTIS",
+      "game_id": "3004",
+      "game_version": "93536794",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 2,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BEASTY BINGO",
+      "game_id": "3006",
+      "game_version": "07e44e5e",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 3,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BINGO BINGO",
+      "game_id": "3003",
+      "game_version": "4e20ff3b",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 4,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BINGO BONANZA",
+      "game_id": "3005",
+      "game_version": "80cc98dc",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 5,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "EZ BINGO",
+      "game_id": "3011",
+      "game_version": "cc2d022c",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 6,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "HEAT BINGO",
+      "game_id": "3008",
+      "game_version": "a17e77d6",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 7,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "JOY BINGO",
+      "game_id": "3010",
+      "game_version": "a1cdccc0",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 8,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "LIGHTNING BINGO",
+      "game_id": "3009",
+      "game_version": "3df508a1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 9,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "MONEY BINGO",
+      "game_id": "3007",
+      "game_version": "71cf4055",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 10,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "OPEN SESAME",
+      "game_id": "3002",
+      "game_version": "dc837141",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 11,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "SUPER 30 BINGO",
+      "game_id": "3012",
+      "game_version": "a81fcf46",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 12,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "WIN CAI SHEN",
+      "game_id": "3001",
+      "game_version": "6d1aa331",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOM BOOM MARMOT",
+      "game_id": "1024",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASINO FANTASY",
+      "game_id": "1005",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY COLOR",
+      "game_id": "4001",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY MONEY",
+      "game_id": "1041",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND MINES",
+      "game_id": "4002",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON GEMS",
+      "game_id": "1046",
+      "game_version": "443154e5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON GEMS SUPER BUY",
+      "game_id": "1052",
+      "game_version": "dd1050ed",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON GEMS WHEEL",
+      "game_id": "1051",
+      "game_version": "4b7a800c",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGONOVA",
+      "game_id": "1001",
+      "game_version": "74cf11f0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FA FA DRAGON",
+      "game_id": "1012",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FANCY EGYPT",
+      "game_id": "1016",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE CAT",
+      "game_id": "1019",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE TREASURE",
+      "game_id": "1003",
+      "game_version": "9c54d0eb",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE X ACE",
+      "game_id": "1053",
+      "game_version": "3e21db8a",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GLADIATOR",
+      "game_id": "1011",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GLADIATOR TREASURE LINK",
+      "game_id": "1021",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN AZTEC",
+      "game_id": "1026",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN AZTEC (MEGA)",
+      "game_id": "1037",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN BUNNY",
+      "game_id": "1018",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING ARTHUR GOLD",
+      "game_id": "1025",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHT OF APOLLO",
+      "game_id": "1047",
+      "game_version": "54036857",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY MEOW",
+      "game_id": "1040",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY STAR",
+      "game_id": "1014",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC LAMP",
+      "game_id": "1010",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGICAL ALCHEMIST",
+      "game_id": "1049",
+      "game_version": "1ed90e02",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MERMAID SLINGO",
+      "game_id": "1031",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY BLAST",
+      "game_id": "4003",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OCEAN PHOENIX",
+      "game_id": "2001",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIRATE LEGENDS",
+      "game_id": "1048",
+      "game_version": "ef0812e8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER FORTUNE",
+      "game_id": "1002",
+      "game_version": "452b0aab",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER LION",
+      "game_id": "1008",
+      "game_version": "854c97a0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER MASK",
+      "game_id": "1009",
+      "game_version": "519f3e45",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROLLING 7",
+      "game_id": "1013",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROLLING FORTUNE",
+      "game_id": "1017",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYAL ACE",
+      "game_id": "1032",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYAL HUNTER",
+      "game_id": "1042",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR CRUSH",
+      "game_id": "1039",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER EGYPT",
+      "game_id": "1038",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THOR FORTUNE",
+      "game_id": "1015",
+      "game_version": "",
+      "game_type": "SLOT"
+    }
+  ]
+}

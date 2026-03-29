@@ -1,0 +1,16 @@
+{
+  "provider": "MARBOYS88",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/MARBOYS88.pdf",
+  "last_updated": "",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BILLIARDS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE SPORT"
+    }
+  ]
+}

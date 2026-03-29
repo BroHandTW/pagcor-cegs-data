@@ -1,0 +1,160 @@
+{
+  "provider": "ACEWIN GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/ACEWIN-GAMING.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 19,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUDDHA SPIN",
+      "game_id": "5284",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAKE BONANZA 1000",
+      "game_id": "5285",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON BAO BAO",
+      "game_id": "5268",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE ARROW",
+      "game_id": "5296",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE FIRECRACKER",
+      "game_id": "5279",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE RABBIT",
+      "game_id": "5272",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT CHA CHA CHA",
+      "game_id": "1005",
+      "game_version": "1.0.5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HIGHROAD KINGS CLASSIC",
+      "game_id": "47",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT SHOT",
+      "game_id": "13",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HULAO BATTLE",
+      "game_id": "33",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LION 2 DANCE",
+      "game_id": "5283",
+      "game_version": "1.0.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY FIREWORKS 2",
+      "game_id": "1003",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY RICHES",
+      "game_id": "5278",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYAN EMPIRE",
+      "game_id": "45",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMA PLUS",
+      "game_id": "46",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER BAR",
+      "game_id": "24",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE FIRST EMPEROR 2",
+      "game_id": "1001",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE PIGGIES",
+      "game_id": "5282",
+      "game_version": "1.0.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD CHIPS",
+      "game_id": "52",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

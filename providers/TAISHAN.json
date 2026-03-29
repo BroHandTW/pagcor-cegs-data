@@ -1,0 +1,40 @@
+{
+  "provider": "TAISHAN",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/TAISHAN.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 4,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CLASSIC BACCARAT",
+      "game_id": "BAC001",
+      "game_version": "V1.1.58",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BACCARAT",
+      "game_id": "BAC001",
+      "game_version": "V1.1.58",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SQUEEZE BACCARAT",
+      "game_id": "BAC001",
+      "game_version": "V1.1.58",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "DT001",
+      "game_version": "V1.1.58",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

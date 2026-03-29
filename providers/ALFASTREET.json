@@ -1,0 +1,24 @@
+{
+  "provider": "ALFASTREET",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/ALFASTREET.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 2,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AMERICAN BLACKJACK",
+      "game_id": "blackjack-001-ap",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EUROPEAN BLACKJACK",
+      "game_id": "blackjack-002-ap",
+      "game_version": "",
+      "game_type": "TABLE"
+    }
+  ]
+}

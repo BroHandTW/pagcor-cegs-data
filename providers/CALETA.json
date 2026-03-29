@@ -1,0 +1,120 @@
+{
+  "provider": "CALETA",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/CALETA.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 14,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BASKETBALL PRO",
+      "game_id": "cg_basketballpro",
+      "game_version": "22071_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CARNIVAL BEAUTIES",
+      "game_id": "cg_carnivalbeauties",
+      "game_version": "1.23",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHERRY CHERRY",
+      "game_id": "cg_cherrycherry",
+      "game_version": "1.23",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHINA CHARMS",
+      "game_id": "cg_chinacharms",
+      "game_version": "22071_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON RISING",
+      "game_id": "cg_dragonrising",
+      "game_version": "1 . 2 3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ENCHANTED CASH",
+      "game_id": "cg_enchantedcash",
+      "game_version": "22071_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL PRO",
+      "game_id": "cg_footballpro",
+      "game_version": "22071_1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HEROES EMPIRE",
+      "game_id": "cg_heroesempire",
+      "game_version": "22071_1.0.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOST SAGA",
+      "game_id": "cg_lostsaga",
+      "game_version": "22071_1.0.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY EXPRESS",
+      "game_id": "cg_luckyexpress",
+      "game_version": "22071_1.0.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MADAME FORTUNE",
+      "game_id": "cg_madamefortune",
+      "game_version": "22071_1.0.5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC FOREST",
+      "game_id": "cg_magicforest",
+      "game_version": "22071_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OCEAN RICHIES",
+      "game_id": "cg_oceanrichies",
+      "game_version": "1.23",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TORCH OF FIRE",
+      "game_id": "cg_torchoffire",
+      "game_version": "22071_1.0.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

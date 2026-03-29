@@ -1,0 +1,397 @@
+{
+  "source_url": "https://www.pagcor.ph/regulatory/cegs.php",
+  "total_providers": 78,
+  "total_games": 4834,
+  "providers": [
+    {
+      "name": "5G GAMES",
+      "file": "5-GAMES.json",
+      "total_games": 37
+    },
+    {
+      "name": "ACEWIN GAMING",
+      "file": "ACEWIN-GAMING.json",
+      "total_games": 19
+    },
+    {
+      "name": "ADVANTPLAY",
+      "file": "ADVANTPLAY.json",
+      "total_games": 52
+    },
+    {
+      "name": "ALFASTREET",
+      "file": "ALFASTREET.json",
+      "total_games": 2
+    },
+    {
+      "name": "ALTENAR",
+      "file": "ALTENAR.json",
+      "total_games": 91
+    },
+    {
+      "name": "AMUSNET",
+      "file": "AMUSNET.json",
+      "total_games": 214
+    },
+    {
+      "name": "AP GAMING",
+      "file": "AP-GAMING.json",
+      "total_games": 13
+    },
+    {
+      "name": "BGAMING",
+      "file": "BGAMING.json",
+      "total_games": 95
+    },
+    {
+      "name": "BOONGO",
+      "file": "BOONGO.json",
+      "total_games": 13
+    },
+    {
+      "name": "CALETA",
+      "file": "CALETA.json",
+      "total_games": 14
+    },
+    {
+      "name": "COMBO GAMING",
+      "file": "COMBO_GAMING.json",
+      "total_games": 5
+    },
+    {
+      "name": "CQ9",
+      "file": "CQ9.json",
+      "total_games": 195
+    },
+    {
+      "name": "DW GAMES",
+      "file": "DW-GAMES.json",
+      "total_games": 42
+    },
+    {
+      "name": "EBET",
+      "file": "EBET.json",
+      "total_games": 16
+    },
+    {
+      "name": "EEZE GAMING",
+      "file": "EEZE-GAMING.json",
+      "total_games": 11
+    },
+    {
+      "name": "EGT DIGITAL",
+      "file": "EGT-DIGITAL.json",
+      "total_games": 138
+    },
+    {
+      "name": "EGT ESAT",
+      "file": "ESAT.json",
+      "total_games": 3
+    },
+    {
+      "name": "EVOLUTION: BIG TIME GAMING",
+      "file": "EVOLUTION-BIG-TIME-GAMING.json",
+      "total_games": 67
+    },
+    {
+      "name": "EVOLUTION: FIRST PERSON",
+      "file": "EVOLUTION-FIRST-PERSON.json",
+      "total_games": 13
+    },
+    {
+      "name": "EVOLUTION: LIVE DEALER",
+      "file": "EVOLUTION-LIVE-DEALER.json",
+      "total_games": 105
+    },
+    {
+      "name": "EVOLUTION: NETENT",
+      "file": "EVOLUTION-NETENT.json",
+      "total_games": 217
+    },
+    {
+      "name": "EVOLUTION: NO LIMIT CITY",
+      "file": "EVOLUTION-NO-LIMIT-CITY.json",
+      "total_games": 115
+    },
+    {
+      "name": "EVOLUTION: RED TIGER",
+      "file": "EVOLUTION-RED-TIGER.json",
+      "total_games": 349
+    },
+    {
+      "name": "EVOLUTION: TAP-A-ROO",
+      "file": "EVOLUTION-TAP-A-ROO.json",
+      "total_games": 6
+    },
+    {
+      "name": "EVOPLAY",
+      "file": "EVOPLAY.json",
+      "total_games": 95
+    },
+    {
+      "name": "FA CHAI (FC)",
+      "file": "FA-CHAI.json",
+      "total_games": 70
+    },
+    {
+      "name": "FASTSPIN",
+      "file": "FASTSPIN.json",
+      "total_games": 57
+    },
+    {
+      "name": "FUNKY GAMES",
+      "file": "FUNKY-GAMES.json",
+      "total_games": 30
+    },
+    {
+      "name": "FUNTA GAMING",
+      "file": "FUNTA-GAMING.json",
+      "total_games": 82
+    },
+    {
+      "name": "GALAXSYS",
+      "file": "GALAXSYS.json",
+      "total_games": 18
+    },
+    {
+      "name": "GAMEZONE",
+      "file": "GAMEZONE.json",
+      "total_games": 12
+    },
+    {
+      "name": "GAMING ANDA",
+      "file": "GAMING-ANDA.json",
+      "total_games": 9
+    },
+    {
+      "name": "GEM GAMES",
+      "file": "GEM-GAMES.json",
+      "total_games": 20
+    },
+    {
+      "name": "GEMINI",
+      "file": "GEMINI.json",
+      "total_games": 36
+    },
+    {
+      "name": "GIOCO",
+      "file": "GIOCO.json",
+      "total_games": 2
+    },
+    {
+      "name": "GVI",
+      "file": "GVI.json",
+      "total_games": 3
+    },
+    {
+      "name": "HABANERO",
+      "file": "HABANERO.json",
+      "total_games": 133
+    },
+    {
+      "name": "HACKSAW GAMING",
+      "file": "HACKSAW-GAMING.json",
+      "total_games": 156
+    },
+    {
+      "name": "INPLAY-MATRIX",
+      "file": "INPLAY-MATRIX.json",
+      "total_games": 35
+    },
+    {
+      "name": "JDB",
+      "file": "JDB.json",
+      "total_games": 108
+    },
+    {
+      "name": "JILI",
+      "file": "JILI.json",
+      "total_games": 217
+    },
+    {
+      "name": "JK8",
+      "file": "JK8.json",
+      "total_games": 1
+    },
+    {
+      "name": "LIGHT AND WONDER",
+      "file": "LIGHT-AND-WONDER.json",
+      "total_games": 34
+    },
+    {
+      "name": "LIGHT AND WONDER ELK STUDIOS",
+      "file": "LIGHT-AND-WONDER-ELK-STUDIOS.json",
+      "total_games": 22
+    },
+    {
+      "name": "LUCKY365",
+      "file": "LUCKY365.json",
+      "total_games": 4
+    },
+    {
+      "name": "MARBOYS88",
+      "file": "MARBOYS88.json",
+      "total_games": 1
+    },
+    {
+      "name": "MI SLOTS",
+      "file": "MI-SLOTS.json",
+      "total_games": 4
+    },
+    {
+      "name": "NEMO-IG",
+      "file": "NEMO-IG.json",
+      "total_games": 7
+    },
+    {
+      "name": "NSOFT",
+      "file": "NSOFT.json",
+      "total_games": 9
+    },
+    {
+      "name": "OCTOPLAY",
+      "file": "OCTOPLAY.json",
+      "total_games": 88
+    },
+    {
+      "name": "OMNIPLAY",
+      "file": "OMNIPLAY.json",
+      "total_games": 10
+    },
+    {
+      "name": "PLAYSTAR",
+      "file": "PLAYSTAR.json",
+      "total_games": 102
+    },
+    {
+      "name": "PLAYTECH",
+      "file": "PLAYTECH.json",
+      "total_games": 279
+    },
+    {
+      "name": "POCKET GAMES SOFT (PG SOFT)",
+      "file": "POCKET-GAMES-SOFT.json",
+      "total_games": 162
+    },
+    {
+      "name": "PRAGMATIC PLAY (PP)",
+      "file": "PRAGMATIC-PLAY.json",
+      "total_games": 416
+    },
+    {
+      "name": "PRAGMATIC PLAY (PP): ARRISE",
+      "file": "PRAGMATIC-PLAY-ARRISE.json",
+      "total_games": 41
+    },
+    {
+      "name": "PRAGMATIC PLAY LIVE",
+      "file": "PRAGMATIC-PLAY-LIVE.json",
+      "total_games": 26
+    },
+    {
+      "name": "REAL TIME GAMING (RTG)",
+      "file": "REAL-TIME-GAMING.json",
+      "total_games": 94
+    },
+    {
+      "name": "REELX",
+      "file": "REELX.json",
+      "total_games": 22
+    },
+    {
+      "name": "RICH88",
+      "file": "RICH-88.json",
+      "total_games": 9
+    },
+    {
+      "name": "SA GAMING",
+      "file": "SA-GAMING.json",
+      "total_games": 12
+    },
+    {
+      "name": "SABA SPORTS",
+      "file": "SABA-SPORTS.json",
+      "total_games": 48
+    },
+    {
+      "name": "SEXY CASINO",
+      "file": "SEXY-CASINO.json",
+      "total_games": 2
+    },
+    {
+      "name": "SIMPLEPLAY",
+      "file": "SIMPLEPLAY.json",
+      "total_games": 19
+    },
+    {
+      "name": "SLOTIFY",
+      "file": "SLOTIFY.json",
+      "total_games": 5
+    },
+    {
+      "name": "SPADEGAMING",
+      "file": "SPADEGAMING.json",
+      "total_games": 13
+    },
+    {
+      "name": "SPIN MASTER",
+      "file": "SPIN-MASTER.json",
+      "total_games": 35
+    },
+    {
+      "name": "TAISHAN",
+      "file": "TAISHAN.json",
+      "total_games": 4
+    },
+    {
+      "name": "TRIPLE PROFIT GAMES (TPG)",
+      "file": "TRIPLE-PROFIT-GAMES.json",
+      "total_games": 26
+    },
+    {
+      "name": "TWAIN SPORTS",
+      "file": "TWAIN-SPORTS.json",
+      "total_games": 2
+    },
+    {
+      "name": "UU SLOTS",
+      "file": "UU-SLOTS.json",
+      "total_games": 4
+    },
+    {
+      "name": "VERTEXPLAY",
+      "file": "VERTEXPLAY.json",
+      "total_games": 27
+    },
+    {
+      "name": "VICTORY-ARK-GAMING",
+      "file": "VICTORY-ARK-GAMING.json",
+      "total_games": 42
+    },
+    {
+      "name": "WE SPORTS",
+      "file": "WE-SPORTS.json",
+      "total_games": 11
+    },
+    {
+      "name": "WPTI",
+      "file": "WPTI.json",
+      "total_games": 17
+    },
+    {
+      "name": "YELLOW BAT (YB)",
+      "file": "YELLOW-BAT.json",
+      "total_games": 51
+    },
+    {
+      "name": "YGGDRASIL",
+      "file": "YGGDRASIL.json",
+      "total_games": 181
+    },
+    {
+      "name": "YGR GAMES",
+      "file": "YGR-GAMES.json",
+      "total_games": 89
+    }
+  ]
+}

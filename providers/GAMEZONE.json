@@ -1,0 +1,104 @@
+{
+  "provider": "GAMEZONE",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GAMEZONE.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 12,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EPIC ACE",
+      "game_id": "epicace",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAND ACE",
+      "game_id": "grandace",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG FORTUNE",
+      "game_id": "mahjongfortune",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAJOR ACE",
+      "game_id": "majorace",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER GEMS 3",
+      "game_id": "supergemthree",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "COLOR GAME WITH LIGHTNING BONUS FEATURE",
+      "game_id": "5.2.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 7,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "LUCKY 9 PLUS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 8,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "PA PULA, PA PUTI",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 9,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "PINOY DROP BALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 10,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "PUSOY PLUS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 11,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "TONGITS PLUS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 12,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "TONGITS QUICK",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    }
+  ]
+}

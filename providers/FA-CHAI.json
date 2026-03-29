@@ -1,0 +1,568 @@
+{
+  "provider": "FA CHAI (FC)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/FA-CHAI.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 70,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANIMAL RACING",
+      "game_id": "22024",
+      "game_version": "22024_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAO CHUAN FISHING",
+      "game_id": "21004",
+      "game_version": "21004_1.3.5",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOXING RICHES",
+      "game_id": "22065",
+      "game_version": "22065_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO WAYS",
+      "game_id": "22069",
+      "game_version": "22069_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHILIHUAHUA",
+      "game_id": "22059",
+      "game_version": "22059_3.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHINESE NEW YEAR",
+      "game_id": "22020",
+      "game_version": "22020_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHINESE NEW YEAR 2",
+      "game_id": "22041",
+      "game_version": "22041_1.1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHINESE NEW YEAR MOREWAYS",
+      "game_id": "22064",
+      "game_version": "22064_0.2.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CIRCUS DOZER",
+      "game_id": "27002",
+      "game_version": "27002_1.2.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COWBOYS",
+      "game_id": "22029",
+      "game_version": "22029_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY BUFFALO",
+      "game_id": "22048",
+      "game_version": "22048_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CYBER GOD OF FORTUNE⁺",
+      "game_id": "22070",
+      "game_version": "22070_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DA LE MEN",
+      "game_id": "22023",
+      "game_version": "22023_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EGYPT BONANZA",
+      "game_id": "22056",
+      "game_version": "22056_0.0.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FA CHAI DOZER",
+      "game_id": "27003",
+      "game_version": "27003_1.1.5",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FA CHAI FISHING",
+      "game_id": "21007",
+      "game_version": "21007_1.0.2",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIERCE FISHING",
+      "game_id": "21006",
+      "game_version": "21006_1.1.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE EGG",
+      "game_id": "22051",
+      "game_version": "22051_0.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE GODDESS",
+      "game_id": "22057",
+      "game_version": "22057_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE KOI",
+      "game_id": "22022",
+      "game_version": "22022_1.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE MONEY BOOM",
+      "game_id": "22058",
+      "game_version": "22058_0.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE SHEEP",
+      "game_id": "22062",
+      "game_version": "22062_0.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GLORY OF ROME",
+      "game_id": "22038",
+      "game_version": "22038_3.0.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GO GO RISE",
+      "game_id": "27008",
+      "game_version": "27008_1.1.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GODS GRANT FORTUNE",
+      "game_id": "21009",
+      "game_version": "21009_2.0.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD RUSH",
+      "game_id": "22034",
+      "game_version": "22034_1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN GENIE",
+      "game_id": "22047",
+      "game_version": "22047_2.0.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN PANTHER",
+      "game_id": "22016",
+      "game_version": "22016_2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAND BLUE",
+      "game_id": "22037",
+      "game_version": "22037_2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAPPY DUO BAO",
+      "game_id": "22027",
+      "game_version": "22027_1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT POT PARTY",
+      "game_id": "22026",
+      "game_version": "22026_2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUNGLE BANG BANG",
+      "game_id": "22084",
+      "game_version": "22084_0.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGEND OF INCA",
+      "game_id": "22053",
+      "game_version": "22053_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING BOMB",
+      "game_id": "27005",
+      "game_version": "27005_1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "Lucky 9",
+      "game_id": "28001",
+      "game_version": "28001_1.2.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY FORTUNES",
+      "game_id": "22040",
+      "game_version": "22040_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY FORTUNES 3x3",
+      "game_id": "22061",
+      "game_version": "22061_0.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY JOKER",
+      "game_id": "22085",
+      "game_version": "22085_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUXURY GOLDEN PANTHER",
+      "game_id": "22030",
+      "game_version": "22030_2.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC BEANS",
+      "game_id": "22032",
+      "game_version": "22032_3.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MERGE MAGIC",
+      "game_id": "22045",
+      "game_version": "22045_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES",
+      "game_id": "27009",
+      "game_version": "27009_1.0.3",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY TREE DOZER",
+      "game_id": "27001",
+      "game_version": "27001_3.0.2",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONKEY KING FISHING",
+      "game_id": "21003",
+      "game_version": "21003_3.0.4",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NIGHT MARKET",
+      "game_id": "22018",
+      "game_version": "22018_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NIGHT MARKET 2",
+      "game_id": "22054",
+      "game_version": "22054_0.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANDA DRAGON BOAT",
+      "game_id": "22019",
+      "game_version": "22019_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHOENIX FEVER",
+      "game_id": "22072",
+      "game_version": "22072_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHOENIX FEVER JACKPOT",
+      "game_id": "22073",
+      "game_version": "22073_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POKER WIN",
+      "game_id": "22060",
+      "game_version": "22060_1.3.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PONG PONG HU",
+      "game_id": "22021",
+      "game_version": "22021_1.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN OF INCA",
+      "game_id": "22063",
+      "game_version": "22063_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH MAN",
+      "game_id": "22036",
+      "game_version": "22036_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROBIN HOOD",
+      "game_id": "22039",
+      "game_version": "22039_1.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMA GLADIATRIX",
+      "game_id": "22066",
+      "game_version": "22066_0.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STAR HUNTER",
+      "game_id": "21008",
+      "game_version": "21008_2.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR BANG BANG",
+      "game_id": "22043",
+      "game_version": "22043_2.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 58,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR BANG BANG 2",
+      "game_id": "22071",
+      "game_version": "22071_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 59,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR BING BING",
+      "game_id": "22571",
+      "game_version": "22071_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 60,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER COLOR GAME",
+      "game_id": "27007",
+      "game_version": "27007_1.2.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ELEMENTS",
+      "game_id": "22055",
+      "game_version": "22055_1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 62,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWORD OF KING",
+      "game_id": "22075",
+      "game_version": "22075_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 63,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THREE LITTLE PIGS",
+      "game_id": "22017",
+      "game_version": "22017_0.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 64,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TOWER",
+      "game_id": "27010",
+      "game_version": "27010_1.2.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 65,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURE CRUISE",
+      "game_id": "22028",
+      "game_version": "22028_3.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 66,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURE RAIDERS",
+      "game_id": "22042",
+      "game_version": "22042_1.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 67,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURES OF ODIN",
+      "game_id": "22067",
+      "game_version": "22067_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 68,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WAR OF THE UNIVERSE",
+      "game_id": "22031",
+      "game_version": "22031_1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 69,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WIN WIN NEKO",
+      "game_id": "22050",
+      "game_version": "22050_2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 70,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZEUS",
+      "game_id": "22049",
+      "game_version": "22049_0.0.1",
+      "game_type": "SLOT"
+    }
+  ]
+}

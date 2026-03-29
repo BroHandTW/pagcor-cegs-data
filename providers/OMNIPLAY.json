@@ -1,0 +1,88 @@
+{
+  "provider": "OMNIPLAY",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/OMNIPLAY.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 10,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE PANDA",
+      "game_id": "100009",
+      "game_version": "100009-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE TREASURE",
+      "game_id": "100003",
+      "game_version": "100003-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FU LU JU",
+      "game_id": "100010",
+      "game_version": "100010-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN HORSE TREASURE",
+      "game_id": "100004",
+      "game_version": "100004-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IMPERIAL LEGEND",
+      "game_id": "100007",
+      "game_version": "100007-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGENDARY WUKONG",
+      "game_id": "100008",
+      "game_version": "100008-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER DRAGON",
+      "game_id": "100001",
+      "game_version": "100001-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER FORTUNE",
+      "game_id": "100002",
+      "game_version": "100002-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER LION",
+      "game_id": "100005",
+      "game_version": "100005-2.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER MASK",
+      "game_id": "100006",
+      "game_version": "100006-2.0.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

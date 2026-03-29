@@ -1,0 +1,80 @@
+{
+  "provider": "RICH88",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/RICH-88.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 9,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "88 FORTUNES",
+      "game_id": "SlotFortunes",
+      "game_version": "2bad8da4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO KING MEGAWAYS",
+      "game_id": "SlotBuffaloKing",
+      "game_version": "7dc88600",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY FORTUNE",
+      "game_id": "SlotTreasure",
+      "game_version": "75ce467f",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIGHTY ZEUS",
+      "game_id": "SlotPowerofZeus",
+      "game_version": "e761a1c8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MYSTERY GEM",
+      "game_id": "SlotMysteryGem",
+      "game_version": "2be6fa7a",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEW YEAR MONEY ROLLING",
+      "game_id": "SlotRollingMoneyNY",
+      "game_version": "e2e0e34f",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAVE JUMP",
+      "game_id": "SlotJump",
+      "game_version": "952ba5ae",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THAI BOXING KING",
+      "game_id": "SlotBoxingKing",
+      "game_version": "876c8255",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WESTERN SHERIFF",
+      "game_id": "SlotWesternSheriff",
+      "game_version": "0ee679b3",
+      "game_type": "SLOT"
+    }
+  ]
+}

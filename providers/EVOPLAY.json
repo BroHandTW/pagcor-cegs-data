@@ -1,0 +1,768 @@
+{
+  "provider": "EVOPLAY",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EVOPLAY.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 95,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ACE ROUND",
+      "game_id": "110025",
+      "game_version": "17",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANIMAL QUEST",
+      "game_id": "110061",
+      "game_version": "40",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANUBIS' MOON",
+      "game_id": "110138",
+      "game_version": "2.1.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BASKETBALL",
+      "game_id": "110012",
+      "game_version": "32",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLESSED FLAME",
+      "game_id": "110164",
+      "game_version": "2.1.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF REST",
+      "game_id": "110053",
+      "game_version": "26",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF THE PRIESTESS",
+      "game_id": "110202",
+      "game_version": "2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF THE PRIESTESS BONUS BUY",
+      "game_id": "110207",
+      "game_version": "1.8.6",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BRUTAL SANTA",
+      "game_id": "110051",
+      "game_version": "24",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUDAI REELS",
+      "game_id": "110153",
+      "game_version": "2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUDAI REELS BONUS BUY",
+      "game_id": "110155",
+      "game_version": "2.7.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAMINO DE CHILI",
+      "game_id": "110165",
+      "game_version": "2.3.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAMINO DE CHILI BONUS BUY",
+      "game_id": "110169",
+      "game_version": "2.3.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY DREAMS",
+      "game_id": "110000",
+      "game_version": "21",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY DREAMS: SWEET PLANET",
+      "game_id": "110163",
+      "game_version": "2.3.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY DREAMS: SWEET PLANET BONUS BUY",
+      "game_id": "110171",
+      "game_version": "2.3.5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHRISTMAS REACH",
+      "game_id": "110148",
+      "game_version": "2.1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLLAPSED CASTLE",
+      "game_id": "110188",
+      "game_version": "2.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COURIER SWEEPER",
+      "game_id": "110091",
+      "game_version": "v.11",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CURSE OF THE PHARAOH",
+      "game_id": "110139",
+      "game_version": "2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CYCLE OF LUCK",
+      "game_id": "110125",
+      "game_version": "1.24.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CYCLE OF LUCK BONUS BUY",
+      "game_id": "110142",
+      "game_version": "2.2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EGYPT GODS",
+      "game_id": "110002",
+      "game_version": "27",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ELVEN PRINCESSES",
+      "game_id": "110001",
+      "game_version": "38",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EPIC GLADIATORS",
+      "game_id": "110015",
+      "game_version": "20",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EXPLODING FRUITS",
+      "game_id": "110064",
+      "game_version": "18",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOREST DREAMS",
+      "game_id": "110068",
+      "game_version": "23",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT BURST",
+      "game_id": "110032",
+      "game_version": "24",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT NOVA",
+      "game_id": "110106",
+      "game_version": "28",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT SUPER NOVA",
+      "game_id": "110114",
+      "game_version": "1.29.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT SUPER NOVA 30",
+      "game_id": "110136",
+      "game_version": "1.6.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT SUPER NOVA 40",
+      "game_id": "110131",
+      "game_version": "1.6.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT SUPER NOVA 60",
+      "game_id": "110143",
+      "game_version": "1.7.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT SUPER NOVA 100",
+      "game_id": "110146",
+      "game_version": "1.6.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOBLIN RUN",
+      "game_id": "110176",
+      "game_version": "1.23.2",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GODDESS OF THE NIGHT",
+      "game_id": "110231",
+      "game_version": "1.4.25",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GODDESS OF THE NIGHT BONUS BUY",
+      "game_id": "110224",
+      "game_version": "1.5.15",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD OF SIRENS",
+      "game_id": "110129",
+      "game_version": "1.22.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD OF SIRENS BONUS BUY",
+      "game_id": "110141",
+      "game_version": "2.9.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOCKEY SHOOTOUT",
+      "game_id": "110276",
+      "game_version": "1.4.11",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT RIO NIGHTS",
+      "game_id": "110201",
+      "game_version": "2.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT RIO NIGHTS BONUS BUY",
+      "game_id": "110203",
+      "game_version": "1.4.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT TRIPLE SEVENS SPECIAL",
+      "game_id": "110147",
+      "game_version": "2.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INDIANA'S QUEST",
+      "game_id": "110006",
+      "game_version": "26",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INNER FIRE",
+      "game_id": "110194",
+      "game_version": "2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INNER FIRE BONUS BUY",
+      "game_id": "110199",
+      "game_version": "2.3.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IRISH REELS",
+      "game_id": "110057",
+      "game_version": "22",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IRISH WEEKEND",
+      "game_id": "110206",
+      "game_version": "1.11",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUICY GEMS",
+      "game_id": "110160",
+      "game_version": "2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUICY GEMS BONUS BUY",
+      "game_id": "110162",
+      "game_version": "2.9.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGENDS OF RA",
+      "game_id": "110028",
+      "game_version": "26",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY CARD",
+      "game_id": "110175",
+      "game_version": "2.3.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY GIRLS",
+      "game_id": "110027",
+      "game_version": "31",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY PORKER",
+      "game_id": "110227",
+      "game_version": "1.7.17",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY PORKER BONUS BUY",
+      "game_id": "110229",
+      "game_version": "1.4.13",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MASSIVE LUCK",
+      "game_id": "110173",
+      "game_version": "2.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA GREATEST CATCH",
+      "game_id": "110172",
+      "game_version": "2.2.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 58,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINE FIELD",
+      "game_id": "110100",
+      "game_version": "v.12",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 59,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY MINTER",
+      "game_id": "110167",
+      "game_version": "2.3.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 60,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY MINTER BONUS BUY",
+      "game_id": "110184",
+      "game_version": "2.3.5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NORTHERN TEMPLE",
+      "game_id": "110232",
+      "game_version": "1.5.18",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 62,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NORTHERN TEMPLE BONUS BUY",
+      "game_id": "110225",
+      "game_version": "1.4.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 63,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OLD WEST",
+      "game_id": "110180",
+      "game_version": "1.2",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 64,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PATRICK'S MAGIC FIELD",
+      "game_id": "110174",
+      "game_version": "2.1.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 65,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PENALTY SERIES",
+      "game_id": "110181",
+      "game_version": "35",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 66,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PENALTY SHOOT OUT",
+      "game_id": "110093",
+      "game_version": "v.15",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 67,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PENALTY SHOOT-ОUT:STREET",
+      "game_id": "110223",
+      "game_version": "1.9.32",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 68,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH REELS",
+      "game_id": "110058",
+      "game_version": "22",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 69,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RISE OF HORUS",
+      "game_id": "110059",
+      "game_version": "23",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 70,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROBIN HOOD",
+      "game_id": "110004",
+      "game_version": "24",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 71,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROCKET STARS",
+      "game_id": "110062",
+      "game_version": "33",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 72,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHADOW OF LUXOR",
+      "game_id": "110134",
+      "game_version": "1.23.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 73,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SOLD IT",
+      "game_id": "110196",
+      "game_version": "1.4.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 74,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SOLD IT BONUS BUY",
+      "game_id": "110200",
+      "game_version": "1.8.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 75,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET SUGAR",
+      "game_id": "110120",
+      "game_version": "1.36.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 76,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEMPLE OF DEAD",
+      "game_id": "110111",
+      "game_version": "1.56.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 77,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEMPLE OF THUNDER",
+      "game_id": "110156",
+      "game_version": "2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 78,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE BELT OF CHAMPION",
+      "game_id": "110250",
+      "game_version": "1.7.13",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 79,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GREATEST CATCH",
+      "game_id": "110158",
+      "game_version": "3.2.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 80,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GREATEST CATCH BONUS BUY",
+      "game_id": "110159",
+      "game_version": "2.2.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 81,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THUNDER MEGA SEVENS",
+      "game_id": "110233",
+      "game_version": "1.4.10",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 82,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURES OF THE GODS",
+      "game_id": "110218",
+      "game_version": "1.2",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 83,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURE-SNIPES",
+      "game_id": "110204",
+      "game_version": "1.2.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 84,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREE OF LIGHT",
+      "game_id": "110107",
+      "game_version": "1.26.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 85,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE CHILI",
+      "game_id": "110140",
+      "game_version": "2.2.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 86,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "UNLIMITED TREASURES",
+      "game_id": "110211",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 87,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "UNLIMITED WISHES",
+      "game_id": "110118",
+      "game_version": "1.25.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 88,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VALLEY OF DREAMS",
+      "game_id": "110105",
+      "game_version": "1.54.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 89,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VEGAS NIGHTS",
+      "game_id": "110016",
+      "game_version": "24",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 90,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD BULLETS",
+      "game_id": "110109",
+      "game_version": "1.19.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 91,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD OVERLORDS",
+      "game_id": "110152",
+      "game_version": "2.6.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 92,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD OVERLORDS BONUS BUY",
+      "game_id": "110157",
+      "game_version": "2.8.5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 93,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WOLF HIDING",
+      "game_id": "110168",
+      "game_version": "2.3.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 94,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WONDER FARM",
+      "game_id": "110208",
+      "game_version": "2.1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 95,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WONDER FARM BONUS BUY",
+      "game_id": "110209",
+      "game_version": "1.3.3",
+      "game_type": "SLOT"
+    }
+  ]
+}

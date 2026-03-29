@@ -1,0 +1,144 @@
+{
+  "provider": "WPTI",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/WPTI.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 17,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CLASSIC BACCARAT",
+      "game_id": "BAC",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "DT",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FAN TAN",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HI-LO",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAINBOW LUCKY WHEEL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "RO",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SICBO",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BACCARAT",
+      "game_id": "BAS",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED DRAGON TIGER",
+      "game_id": "DTS",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SQUEEZE BACCARAT",
+      "game_id": "BAM",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRADITIONAL BACCARAT",
+      "game_id": "BAA",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WIN THREE CARDS",
+      "game_id": "ZJH",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 13,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "COLOR GAME WITH SUPER GAME COLOR WHEEL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 14,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "DROP BALL WITH SUPER WHEEL GAME",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 15,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "MINI DROP BALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 16,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "ONE LUCKY 9",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 17,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "SAKLA",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "provider": "EVOLUTION: FIRST PERSON",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EVOLUTION-FIRST-PERSON.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 13,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON AMERICAN ROULETTE",
+      "game_id": "2.5",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON BACCARAT",
+      "game_id": "1",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON DEAL OR NO DEAL",
+      "game_id": "1.20220421.140002-613f4738",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON DRAGON TIGER",
+      "game_id": "1.20200320.085129-8e93b1bf",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON DREAM CATCHER",
+      "game_id": "1.2",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON FOOTBALL STUDIO/TOP CARD",
+      "game_id": "1.20200416.154822-8c5acc79",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON GOLDEN WEALTH BACCARAT",
+      "game_id": "1",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON LIGHTNING BACCARAT",
+      "game_id": "1",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON LIGHTNING ROULETTE",
+      "game_id": "2.5",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON PROSPERITY TREE BACCARAT",
+      "game_id": "1",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON ROULETTE",
+      "game_id": "2.5",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON XXXTREME LIGHTNING BACCARAT",
+      "game_id": "1.1",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRST PERSON XXXTREME LIGHTNING ROULETTE",
+      "game_id": "1",
+      "game_version": "",
+      "game_type": "TABLE"
+    }
+  ]
+}

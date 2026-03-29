@@ -1,0 +1,160 @@
+{
+  "provider": "SIMPLEPLAY",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/SIMPLEPLAY.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 19,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANGELS & DEMONS",
+      "game_id": "EG-SLOT-S005",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIKINI CHASER",
+      "game_id": "EG-SLOT-A013",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAGE FIGHT",
+      "game_id": "EG-SLOT-S008",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHANG THAI",
+      "game_id": "EG-SLOT-A047",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHEUNG PO TSAI",
+      "game_id": "EG-SLOT-A018",
+      "game_version": "2.10.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOGGIE STAR",
+      "game_id": "EG-SLOT-A056",
+      "game_version": "0.1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON & TIGER",
+      "game_id": "EG-SLOT-A004",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN CHICKEN",
+      "game_id": "EG-SLOT-A020",
+      "game_version": "2.10.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MYTH OF PHOENIX",
+      "game_id": "EG-SLOT-A049",
+      "game_version": "1.9.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NORTH SOUTH LIONS",
+      "game_id": "EG-SLOT-A017",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PROSPERITY TREE",
+      "game_id": "EG-SLOT-A023",
+      "game_version": "2.10.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RED CHAMBER",
+      "game_id": "EG-SLOT-A008",
+      "game_version": "2.10.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RED DRAGON",
+      "game_id": "EG-SLOT-A011",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SONGKRAN PARTY",
+      "game_id": "EG-SLOT-A054",
+      "game_version": "1.5.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPARTA'S HONOR",
+      "game_id": "EG-SLOT-A038",
+      "game_version": "2.10.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GUARD",
+      "game_id": "EG-SLOT-A003",
+      "game_version": "2.9.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE MASKED PRINCE",
+      "game_id": "EG-SLOT-A032",
+      "game_version": "2.10.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VANESSA",
+      "game_id": "EG-SLOT-A046",
+      "game_version": "1.8.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZOMBIE HUNTER",
+      "game_id": "EG-SLOT-S007",
+      "game_version": "2.10.3",
+      "game_type": "SLOT"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "provider": "JK8",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/JK8.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "ALPHACHINKO NUMERIC PAIRING GAME",
+      "game_id": "ALPHACHINKO",
+      "game_version": "1.0",
+      "game_type": "NUMERIC"
+    }
+  ]
+}

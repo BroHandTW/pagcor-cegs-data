@@ -1,0 +1,112 @@
+{
+  "provider": "BOONGO",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/BOONGO.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 13,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOM! BOOM! GOLD!",
+      "game_id": "287",
+      "game_version": "V23.3.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHINA FESTIVAL",
+      "game_id": "436",
+      "game_version": "ae2ce2fe",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COIN UP LIGHTNING",
+      "game_id": "385",
+      "game_version": "51e102e3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EGYPT FIRE HOLD AND WIN",
+      "game_id": "288",
+      "game_version": "V23.3.10",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FISHIN’ BEAR",
+      "game_id": "377",
+      "game_version": "9569a5c7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAB MORE GOLD!",
+      "game_id": "316",
+      "game_version": "9d1e9acc",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAB THE GOLD!",
+      "game_id": "301",
+      "game_version": "V23.7.5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAWAII RICHES",
+      "game_id": "441",
+      "game_version": "bdaf0285",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT FIRE FRUITS",
+      "game_id": "396",
+      "game_version": "bd03be34",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LADY FORTUNE",
+      "game_id": "302",
+      "game_version": "V23.6.6",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LITTLE FARM HOLD AND WIN",
+      "game_id": "315",
+      "game_version": "0dd29dde",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROCKET WINS",
+      "game_id": "444",
+      "game_version": "9913a671",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER STICKY PIGGY",
+      "game_id": "278",
+      "game_version": "65d46026",
+      "game_type": "SLOT"
+    }
+  ]
+}

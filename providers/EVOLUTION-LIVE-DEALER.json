@@ -1,0 +1,848 @@
+{
+  "provider": "EVOLUTION: LIVE DEALER",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EVOLUTION-LIVE-DEALER.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 105,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "2 HAND CASINO HOLD'EM",
+      "game_id": "1.20191029.134830-24590e88",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALWAYS 8 BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALWAYS 9 BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AMERICAN ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AUTO LIGHTNING ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AUTO-ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AUTO-ROULETTE VIP",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAC BO",
+      "game_id": "0.20211130.143154-de285729",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT CONTROL SQUEEZE",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT SQUEEZE",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BALLOON RACE",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK DIAMOND VIP",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK FORTUNE VIP",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK GRAND VIP",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK PARTY",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK PLATINUM VIP",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK SILVER",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK VIP",
+      "game_id": "1.20220701.092144-bcc36290",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONSAI SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CARIBBEAN STUD POKER",
+      "game_id": "5.91",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH OR CRASH",
+      "game_id": "0.20210709.124919-7c273772",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASINO HOLD'EM",
+      "game_id": "6.20170502.123226",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAPS",
+      "game_id": "1.20210615.141302-615cbb5f",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY COIN FLIP",
+      "game_id": "1.20220513.092637-5bb7026e",
+      "game_version": "",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY PACHINKO",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY TIME",
+      "game_id": "1.20200415.163006-794ab022",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEAD OR ALIVE: SALOON",
+      "game_id": "0.20221003.160725-df223b67",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEAL OR NO DEAL",
+      "game_id": "2.0",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE BALL ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "6.20180222.153818-6b1e4cee",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER PHOENIX",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DREAM CATCHER",
+      "game_id": "1.2",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EASY BLACKJACK",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EMPEROR DRAGON TIGER",
+      "game_id": "6.20180222.153818-6b1e4cee",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EMPEROR ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EMPEROR SIC BO",
+      "game_id": "1.20190923.164333-096eb440",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EMPEROR SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EVO SPEED BLACKJACK",
+      "game_id": "6.20190919.124347-f5f76e37",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EXTRA CHILLI EPIC SPINS",
+      "game_id": "0.20230221.085604-34dcea71",
+      "game_version": "",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FAN TAN",
+      "game_id": "1.20210617.172812-26f6e20c",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIREBALL ROULETTE",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL STUDIO",
+      "game_id": "6.20180508.174101_bc5f34fe",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL STUDIO DICE",
+      "game_id": "0.20220920.0600016-8c149895",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL STUDIO ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FUNKY TIME",
+      "game_id": "1.20230307.124517-dff99160",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD VAULT ROULETTE",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN WEALTH BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GONZO'S TREASURE MAP",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IMMERSIVE ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IMPERIAL QUEST",
+      "game_id": "1.2",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INFINITE BET STACKER BLACKJACK",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INFINITE BLACKJACK",
+      "game_id": "6.20180925.120054-716025a8",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INFINITE FREE BET BLACKJACK",
+      "game_id": "6.20190326.134101-c91e36f0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INFINITE FUN FUN 21 BLACKJACK",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INSTANT ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 58,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING BAC BO",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 59,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 60,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING BLACKJACK",
+      "game_id": "1.20210907.202936-f88bad8d",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING DICE",
+      "game_id": "1.20201015.112011-df6936ae",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 62,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING DRAGON TIGER",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 63,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 64,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING SIC BO",
+      "game_id": "1.6",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 65,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHTNING STORM",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 66,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOTUS ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 67,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOTUS SIC BO",
+      "game_id": "1.20190923.164333-096eb440",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 68,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOTUS SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 69,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MARBLE RACE",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 70,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONOPOLY LIVE",
+      "game_id": "1.1",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 71,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NO COMMISSION BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 72,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NO COMMISSION SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 73,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PEEK BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 74,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PERYA LIGHTNING ROULETTE",
+      "game_id": "6.20180222.153818-6b1e4cee",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 75,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PERYA SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 76,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER BLACKJACK",
+      "game_id": "1.20200417.122100-13128041",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 77,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PROSPERITY TREE BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 78,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RACE TRACK",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 79,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RED DOOR ROULETTE",
+      "game_id": "1",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 80,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 81,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SALON PRIVÉ AUTO-ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 82,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SALON PRIVÉ BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 83,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SALON PRIVÉ BLACKJACK",
+      "game_id": "6.20190919.124347-f5f76e37",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 84,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SALON PRIVÉ ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 85,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED AUTO ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 86,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 87,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BLACKJACK",
+      "game_id": "6.20190919.124347-f5f76e37",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 88,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 89,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED SUPER SIC BO",
+      "game_id": "1.6",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 90,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED VIP BLACKJACK",
+      "game_id": "6.20190919.124347-f5f76e37",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 91,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ANDAR BAHAR",
+      "game_id": "0.20220204.121638-efd932d7",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 92,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER COLOR GAME",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 93,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER SIC BO",
+      "game_id": "1.20190923.164333-096eb440",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 94,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 95,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER SPEED DRAGON TIGER",
+      "game_id": "6.20180222.153818-6b1e4cee",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 96,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEEN PATTI",
+      "game_id": "1.20220407.120004-884d0ea7",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 97,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEXAS HOLD'EM BONUS POKER",
+      "game_id": "6.20171120.132614-44df64fe",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 98,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THAI SPEED BACCARAT",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 99,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THREE CARD POKER",
+      "game_id": "5.9",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 100,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ULTIMATE TEXAS HOLD'EM",
+      "game_id": "5.9",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 101,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIDEO POKER",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 102,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIP ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 103,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WAR",
+      "game_id": "1.0",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 104,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "XXXTREME LIGHTNING BACCARAT",
+      "game_id": "1.1",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 105,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "XXXTREME LIGHTNING ROULETTE",
+      "game_id": "1.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

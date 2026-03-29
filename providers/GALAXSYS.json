@@ -1,0 +1,152 @@
+{
+  "provider": "GALAXSYS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GALAXSYS.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 18,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ATLANTIS",
+      "game_id": "37992",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK",
+      "game_id": "11289",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH SHOW",
+      "game_id": "20786",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COIN FLIP",
+      "game_id": "35760",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH",
+      "game_id": "2014",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASHER",
+      "game_id": "34139",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "F MINES",
+      "game_id": "32727",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HILO",
+      "game_id": "5236",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUNGLE WHEEL",
+      "game_id": "34829",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAESTRO",
+      "game_id": "38081",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC DICE",
+      "game_id": "36024",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MR. THIMBLE",
+      "game_id": "32724",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PENALTY",
+      "game_id": "6492",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKOMAN",
+      "game_id": "32725",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE X",
+      "game_id": "34554",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SCRATCH MAP",
+      "game_id": "35838",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIC BO",
+      "game_id": "5339",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TURBO MINES",
+      "game_id": "37237",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    }
+  ]
+}

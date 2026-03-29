@@ -1,0 +1,336 @@
+{
+  "provider": "PRAGMATIC PLAY (PP): ARRISE",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PRAGMATIC-PLAY-ARRISE.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 41,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "5 LIONS REBORN",
+      "game_id": "vsways5lionsr",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALIEN INVADERS",
+      "game_id": "vs20alieninv",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BANDIT MEGAWAYS",
+      "game_id": "vswaysbandit",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BASS BONANZA 1000",
+      "game_id": "vs10bbbnz1000",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BASS BOXING BONUS ROUND",
+      "game_id": "vs10bbbbrnd",
+      "game_version": "cv101.50709",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH SURGE",
+      "game_id": "vswayscashsurg",
+      "game_version": "cv101.50709",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHILLI HEAT SPICY SPINS",
+      "game_id": "vs10chillihmr",
+      "game_version": "cv107.50718",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CLUB TROPICANA – HAPPY HOUR",
+      "game_id": "vs12trpcnhour",
+      "game_version": "cv101.50709",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ESCAPE THE PYRAMID - FIRE & ICE",
+      "game_id": "vs10fireice",
+      "game_version": "cv101.50709",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EYE OF SPARTACUS",
+      "game_id": "vs15eyeofspart",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FINGER LICK’N FREE SPINS",
+      "game_id": "vs10fingerlfs",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FLOATING DRAGON - YEAR OF THE SNAKE",
+      "game_id": "vs10fdsnake",
+      "game_version": "cv100.50708",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE ACE SUPER SCATTER",
+      "game_id": "vswaysfortsup",
+      "game_version": "1.0.39189",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GATES OF GATOT KACA 1000",
+      "game_id": "vs20gatotx",
+      "game_version": "cv96.50701",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GATES OF GATOT KACA SUPER SCATTER",
+      "game_id": "vs20olgatssc_cv109",
+      "game_version": "cv109. 50720",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM FIRE FORTUNE",
+      "game_id": "vs20gemfirefor",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM TRIO",
+      "game_id": "vs9gemtrio",
+      "game_version": "cv106.50717",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD PARTY 2 – AFTER HOURS",
+      "game_id": "vs25goldpartya",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAPPY FORTUNE",
+      "game_id": "vs20laughluck",
+      "game_version": "cv97.50702",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOKER’S JEWELS CASH",
+      "game_id": "vs5jokerjc",
+      "game_version": "cv103.50714",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUMBO SAFARI",
+      "game_id": "vs20jjjack",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY’S WILD PUB",
+      "game_id": "vs25luckwildpb",
+      "game_version": "cv101.50709",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG WINS SUPER SCATTER",
+      "game_id": "vswaysmwss",
+      "game_version": "1.0.39189",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAJESTIC EXPRESS – GOLD RUN",
+      "game_id": "vs25goldrexp",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUMMY’S JEWELS",
+      "game_id": "vswaysmjwl",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKO+",
+      "game_id": "ar10plinko",
+      "game_version": "cv106.50717",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAGING WATERFALL MEGAWAYS",
+      "game_id": "vswaysmltchmgw",
+      "game_version": "cv102.50710",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RESURRECTING RICHES",
+      "game_id": "vswaysresurich",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RIDE THE LIGHTNING",
+      "game_id": "vs9ridelightng",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STARLIGHT PRINCESS SUPER SCATTER",
+      "game_id": "vs20starprss",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET RUSH BONANZA",
+      "game_id": "vs20swrbon",
+      "game_version": "cv109.50720",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEMPLE GUARDIANS",
+      "game_id": "vs10diamondrgh",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE DOG HOUSE - ROYAL HUNT",
+      "game_id": "vs20dhsuper",
+      "game_version": "cv102.50710",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE POT GOLD",
+      "game_id": "vswaysasiatrzn",
+      "game_version": "cv102.50710",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VOLCANO GODDESS",
+      "game_id": "vswaysvlcgds",
+      "game_version": "cv102.50710",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WAVES OF POSEIDON",
+      "game_id": "vs20bigmass",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD WEST GOLD BLAZING BOUNTY",
+      "game_id": "vs20wwgcluster",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD WILD JOKER",
+      "game_id": "vswayswwjoker",
+      "game_version": "cv102.50710",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WITCH HEART MEGAWAYS",
+      "game_id": "vswayswildbrst",
+      "game_version": "cv104.50715",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "YOU CAN PIGGY BANK ON IT",
+      "game_id": "vs10piggybank",
+      "game_version": "cv106.50717",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZOMBIE SCHOOL MEGAWAYS",
+      "game_id": "vswayspompmr2",
+      "game_version": "cv106.50717",
+      "game_type": "SLOT"
+    }
+  ]
+}

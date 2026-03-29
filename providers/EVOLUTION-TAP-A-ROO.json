@@ -1,0 +1,56 @@
+{
+  "provider": "EVOLUTION: TAP-A-ROO",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EVOLUTION-TAP-A-ROO.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 6,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH VOLT TAP-A-ROO",
+      "game_id": "cashvolttaparoo0",
+      "game_version": "4.0.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON'S LUCK TAP-A-ROO",
+      "game_id": "dragonslucktapar",
+      "game_version": "4.0.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GREAT PYRAMID TAP-A-ROO",
+      "game_id": "greatpyramidtapa",
+      "game_version": "4.0.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MYSTERY FRUIT TAP-A-ROO",
+      "game_id": "mysteryfruittapa",
+      "game_version": "4.0.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAINBOW JACKPOTS TAP-A-ROO",
+      "game_id": "rainbowjackpotst",
+      "game_version": "4.0.1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STARBURST TAP-A-ROO",
+      "game_id": "starbursttaparoo",
+      "game_version": "4.0.1",
+      "game_type": "ARCADE-TYPE"
+    }
+  ]
+}

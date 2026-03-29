@@ -1,0 +1,464 @@
+{
+  "provider": "FASTSPIN",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/FASTSPIN.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 57,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ADVENTURE TO THE WEST",
+      "game_id": "S-AW01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALIEN SMASH",
+      "game_id": "S-AS01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "APOLLO RAY OF LUCK",
+      "game_id": "S-AR01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BEASTS OF LUCK",
+      "game_id": "S-BL01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLADE OF FORTUNE",
+      "game_id": "S-BF03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CARIBBEAN RICHES",
+      "game_id": "S-CR02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CITY OF JEWELS",
+      "game_id": "S-CJ01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FARM OF FORTUNE",
+      "game_id": "S-FF02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIERY LAVA",
+      "game_id": "S-FL03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FISHING TREASURE",
+      "game_id": "F-FT01",
+      "game_version": "RNG 1.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE LIONS",
+      "game_id": "S-FL04",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUITS MANIA",
+      "game_id": "S-FM03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GANESHA LUCK",
+      "game_id": "S-GL03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOD OF WEALTH",
+      "game_id": "S-GW02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GODDESS OF EGYPT",
+      "game_id": "S-GE01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD RUSH COWBOY",
+      "game_id": "S-GR01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GUARDIAN OF THE MUSEUM",
+      "game_id": "S-GM01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HEAVENLY FORTUNES",
+      "game_id": "S-HF02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HEAVENLY FORTUNES 2",
+      "game_id": "S-HF03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HONEY TRAP",
+      "game_id": "S-HT01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGEND OF EAGLE",
+      "game_id": "S-LE04",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGEND OF NIAN",
+      "game_id": "S-LN01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEPRECHAUN BONANZA",
+      "game_id": "S-LB02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOKI",
+      "game_id": "S-LO01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY FORTUNE",
+      "game_id": "S-LF02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG PRINCESS",
+      "game_id": "S-MP03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIGHTY SEVENS",
+      "game_id": "S-MS01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINING BONANZA",
+      "game_id": "S-MB02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY DRAGON",
+      "game_id": "S-MD01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY EMPIRE",
+      "game_id": "S-ME01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUAY THAI FIGHTER",
+      "game_id": "S-MT01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUSHROOM BANDIT",
+      "game_id": "S-MB03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEKO RICHES",
+      "game_id": "S-NR01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEZHA",
+      "game_id": "S-RN01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OCEAN CARNIVAL",
+      "game_id": "F-OC01",
+      "game_version": "RNG 1.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OCEANIC MELODIES",
+      "game_id": "S-OM01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PAI GOW WAYS",
+      "game_id": "S-PG02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POKER WAYS",
+      "game_id": "S-PW03",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RANGER SHOWDOWN",
+      "game_id": "S-RS01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH CAISHEN",
+      "game_id": "S-RC01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMA",
+      "game_id": "S-RM01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYAL KATT",
+      "game_id": "S-RK02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYALE HOUSE",
+      "game_id": "S-RH02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAFARI BLITZ",
+      "game_id": "S-SB02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SEXY VEGAS",
+      "game_id": "S-VB01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SNAKE TREASURE",
+      "game_id": "S-ST01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPACE CONQUEST",
+      "game_id": "S-SC01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPIN AND WIN",
+      "game_id": "S-SW01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET FRENZY",
+      "game_id": "S-SF02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GREAT SAFARI",
+      "game_id": "S-GS05",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE MAYA MYTH",
+      "game_id": "S-MM02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE NUTCRACKERS",
+      "game_id": "S-TN01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIKI RUSH",
+      "game_id": "S-TR01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE HAPPINESS",
+      "game_id": "S-TH01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD MAFIA",
+      "game_id": "S-WM04",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD WET WIN",
+      "game_id": "S-WW02",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "YETI BOOM",
+      "game_id": "S-YB01",
+      "game_version": "RNG 1.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

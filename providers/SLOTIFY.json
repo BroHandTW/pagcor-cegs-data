@@ -1,0 +1,48 @@
+{
+  "provider": "SLOTIFY",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/SLOTIFY.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 5,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BINGO MANIA",
+      "game_id": "ebingo-001",
+      "game_version": "v1.0.27",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ADVENT OPERA",
+      "game_id": "ptslot-102",
+      "game_version": "v1.0.22",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GALACTIC COLONIES",
+      "game_id": "ptslot-009",
+      "game_version": "v1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GUARDIAN OF OCEAN",
+      "game_id": "aslot-012",
+      "game_version": "v1.3.22",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHUBH LABH",
+      "game_id": "ptslot-008",
+      "game_version": "v1.0.7",
+      "game_type": "SLOT"
+    }
+  ]
+}

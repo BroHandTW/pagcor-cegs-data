@@ -1,0 +1,104 @@
+{
+  "provider": "SA GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/SA-GAMING.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 12,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANDAR BAHAR",
+      "game_id": "ANBA-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "BACC-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK",
+      "game_id": "BLAC-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "DRTI-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FISH PRAWN CRAB",
+      "game_id": "FIPC-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POK DENG",
+      "game_id": "PODE-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "ROUL-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIC BO",
+      "game_id": "SIBO-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BACCARAT",
+      "game_id": "BACC-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEEN PATTI 20-20",
+      "game_id": "TEP2-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THAI HILO",
+      "game_id": "THHI-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "XOC DIA",
+      "game_id": "XODI-001",
+      "game_version": "5.15.25",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

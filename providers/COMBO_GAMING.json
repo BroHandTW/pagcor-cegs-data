@@ -1,0 +1,48 @@
+{
+  "provider": "COMBO GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/COMBO_GAMING.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 5,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC RUNES",
+      "game_id": "1002",
+      "game_version": "1.1.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGICAL DEVILESS",
+      "game_id": "1003",
+      "game_version": "1.1.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA DEVIL’S GOLD",
+      "game_id": "1019",
+      "game_version": "1.1.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PROSPEROUS TIGER",
+      "game_id": "1001",
+      "game_version": "1.1.5",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WIZARD’S ALCHEMY",
+      "game_id": "1018",
+      "game_version": "1.1.4",
+      "game_type": "SLOT"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "provider": "VERTEXPLAY",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/VERTEXPLAY.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 27,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "APOLLO",
+      "game_id": "230008",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AWAKENING AZTEC",
+      "game_id": "230027",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOMBOOMMARMOT",
+      "game_id": "230016",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEVIL'S BANK",
+      "game_id": "230037",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE ACE",
+      "game_id": "230014",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON KABOOM",
+      "game_id": "230010",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FU LU SHOU",
+      "game_id": "230011",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEMS OF RA",
+      "game_id": "230026",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOD OF THE SUN",
+      "game_id": "230017",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN MAHJONG",
+      "game_id": "230001",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING ROYALE",
+      "game_id": "230003",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY DARUMA",
+      "game_id": "230034",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY DARUMA 2",
+      "game_id": "230035",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY TOAD",
+      "game_id": "230018",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY WHEEL",
+      "game_id": "230025",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC CIRCUS",
+      "game_id": "230019",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUSHROOM PARTY",
+      "game_id": "230029",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PENGUIN SMASH",
+      "game_id": "230022",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PINATA PARTY",
+      "game_id": "230023",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PYRAMID",
+      "game_id": "230021",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN'S TREASURES",
+      "game_id": "230028",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMAN GLORY",
+      "game_id": "230020",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUN ARCHER",
+      "game_id": "230030",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER CROWN",
+      "game_id": "230015",
+      "game_version": "v2.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TAI CHI",
+      "game_id": "230005",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE QIN DYNASTY",
+      "game_id": "230024",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD COIN PLUNDER",
+      "game_id": "230036",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "provider": "SABA SPORTS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/SABA-SPORTS.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 48,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ALPINE SKIING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 2,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ATHLETICS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 3,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BADMINTON",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 4,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BANDY",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 5,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BASEBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 6,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BASKETBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 7,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BEACH SOCCER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 8,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BEACH VOLLEYBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 9,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BIATHLON",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 10,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BOXING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 11,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CHESS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 12,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CRICKET",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 13,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CURLING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 14,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CYCLING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 15,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "DARTS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 16,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "DIVING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 17,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ENTERTAINMENT",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 18,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FIELD HOCKEY",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 19,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FIGURE SKATING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 20,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FINANCE",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 21,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FOOTBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 22,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FREESTYLE SKIING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 23,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "FUTSAL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 24,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "GOLF",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 25,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "HANDBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 26,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ICE HOCKEY",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 27,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "KABADDI",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 28,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "LUGE",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 29,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MOTORSPORTS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 30,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MUAY THAI",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 31,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "NETBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 32,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "OLYMPICS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 33,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 34,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "POLITICS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 35,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "RUGBY",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 36,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SAILING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 37,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SEPAK TAKRAW",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 38,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SKELETON",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 39,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SKI JUMPING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 40,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SNOOKER / POOL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 41,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SOCCER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 42,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SPEED SKATING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 43,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SQUASH",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 44,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SWIMMING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 45,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TABLE TENNIS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 46,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TENNIS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 47,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "VOLLEYBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 48,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "WATER POLO",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    }
+  ]
+}

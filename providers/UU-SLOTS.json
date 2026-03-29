@@ -1,0 +1,40 @@
+{
+  "provider": "UU SLOTS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/UU-SLOTS.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 4,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOUR SEASON DRAGONS",
+      "game_id": "10004",
+      "game_version": "2.02",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GOLD SAFE",
+      "game_id": "10006",
+      "game_version": "2.02",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GOLD SAFE 1000",
+      "game_id": "10075",
+      "game_version": "2.02",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE SILVER TIGER",
+      "game_id": "10014",
+      "game_version": "2.02",
+      "game_type": "SLOT"
+    }
+  ]
+}

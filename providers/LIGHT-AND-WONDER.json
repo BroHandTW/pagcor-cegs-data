@@ -1,0 +1,280 @@
+{
+  "provider": "LIGHT AND WONDER",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/LIGHT-AND-WONDER.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 34,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 POTS OF GOLD",
+      "game_id": "71615",
+      "game_version": "1.0.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "5 TREASURES",
+      "game_id": "500405",
+      "game_version": "1.0.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "7'S ON FIRE",
+      "game_id": "500352",
+      "game_version": "1.0.10",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "88 FORTUNES",
+      "game_id": "71631",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "88 FORTUNES MEGAWAYS",
+      "game_id": "500309",
+      "game_version": "1.0.10",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLAZIN' HOT 7S BIG BONUS",
+      "game_id": "70675",
+      "game_version": "1.2.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLOOMIN' BUNNIES",
+      "game_id": "70949",
+      "game_version": "1.0.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BURN'EM UP",
+      "game_id": "500294",
+      "game_version": "1.0.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CARNIVAL COW COIN COMBO",
+      "game_id": "70682",
+      "game_version": "1.0.12",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHICKEN FOX",
+      "game_id": "70426",
+      "game_version": "2.6.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHICKEN FOX JR",
+      "game_id": "70706",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHICKENFOX5X SKILLSTAR",
+      "game_id": "70521",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DANCING DRUMS",
+      "game_id": "500175",
+      "game_version": "1.0.15",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DANCING DRUMS LINK",
+      "game_id": "71467",
+      "game_version": "1.0.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DANCING DRUMS PROSPERITY",
+      "game_id": "70699",
+      "game_version": "1.0.18",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT HOT BLAZING LOCK",
+      "game_id": "70989",
+      "game_version": "1.0.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HUFF N' MORE PUFF",
+      "game_id": "71647",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HURRICANE HORSE COIN COMBO",
+      "game_id": "70638",
+      "game_version": "1.2.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JIN JI BAO XI ENDLESS TREASURE",
+      "game_id": "500266",
+      "game_version": "1.0.19",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JIN JI BAO XI MEGAWAYS",
+      "game_id": "500420",
+      "game_version": "1.0.12",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MARVELOUS MOUSE COIN COMBO",
+      "game_id": "500409",
+      "game_version": "1.0.6",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MOLTEN FIREBALLS",
+      "game_id": "71438",
+      "game_version": "1.0.6",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY LINK THE GREAT IMMORTALS",
+      "game_id": "70909",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUMMY'S MILLIONS",
+      "game_id": "71312",
+      "game_version": "1.0.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PERFECT PEACOCK COIN COMBO",
+      "game_id": "70875",
+      "game_version": "1.0.6",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH LITTLE HENS FOUNDING FEATHERS",
+      "game_id": "71247",
+      "game_version": "1.0.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH LITTLE PIGGIES HOG WILD",
+      "game_id": "70881",
+      "game_version": "1.0.18",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH LITTLE PIGGIES MEAL TICKET",
+      "game_id": "70868",
+      "game_version": "1.0.16",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH LITTLE PIGGIES WORLD CLASS",
+      "game_id": "71471",
+      "game_version": "1.0.16",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SQUID GAME GGANBU",
+      "game_id": "71531",
+      "game_version": "1.0.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THUNDER DRUMS LEAPING LION",
+      "game_id": "71427",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ULTIMATE FIRE LINK CASH FALLS CHINA STREET",
+      "game_id": "70887",
+      "game_version": "1.0.3",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ULTIMATE FIRE LINK CASH FALLS OLVERA STREET",
+      "game_id": "71265",
+      "game_version": "1.0.6",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ULTIMATE FIRE LINK CHINA STREET",
+      "game_id": "70673",
+      "game_version": "1.0.16",
+      "game_type": "SLOT"
+    }
+  ]
+}

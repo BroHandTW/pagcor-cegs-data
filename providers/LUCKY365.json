@@ -1,0 +1,40 @@
+{
+  "provider": "LUCKY365",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/LUCKY365.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 4,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL STARS",
+      "game_id": "ILOVEU-SLOT-047",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIGHT OF ZEUS",
+      "game_id": "ILOVEU-SLOT-046",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN OF EGYPT",
+      "game_id": "ILOVEU-SLOT-045",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE LION KING",
+      "game_id": "ILOVEU-SLOT-048",
+      "game_version": "",
+      "game_type": "SLOT"
+    }
+  ]
+}

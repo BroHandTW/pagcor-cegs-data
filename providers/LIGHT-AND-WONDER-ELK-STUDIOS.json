@@ -1,0 +1,184 @@
+{
+  "provider": "LIGHT AND WONDER ELK STUDIOS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/LIGHT-AND-WONDER-ELK-STUDIOS.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 22,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AVALON GOLD",
+      "game_id": "10183",
+      "game_version": "141794",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AVALON X",
+      "game_id": "10244",
+      "game_version": "278849",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF TORO",
+      "game_id": "10168",
+      "game_version": "139084",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CYGNUS",
+      "game_id": "10139",
+      "game_version": "145426",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CYGNUS 4",
+      "game_id": "10210",
+      "game_version": "193138",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CYGNUS 5",
+      "game_id": "10230",
+      "game_version": "239746",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DROPZ",
+      "game_id": "10182",
+      "game_version": "138103",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FISH AND BIRD",
+      "game_id": "10246",
+      "game_version": "273876",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRITTY KITTY",
+      "game_id": "10208",
+      "game_version": "196859",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KATMANDU GOLD",
+      "game_id": "10151",
+      "game_version": "149297",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KATMANDU X",
+      "game_id": "10192",
+      "game_version": "157281",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NITROPOLIS",
+      "game_id": "10149",
+      "game_version": "148987",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PACIFIC GOLD",
+      "game_id": "10174",
+      "game_version": "r141288",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHOENIX GRAVEYARD 2",
+      "game_id": "10243",
+      "game_version": "271297",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIROTS",
+      "game_id": "10184",
+      "game_version": "154812",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIROTS 2",
+      "game_id": "10202",
+      "game_version": "182259",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIROTS 3",
+      "game_id": "10214",
+      "game_version": "213773",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIROTS X",
+      "game_id": "10223",
+      "game_version": "229150",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RABBIT ROYALE",
+      "game_id": "10190",
+      "game_version": "158493",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RYZE",
+      "game_id": "10224",
+      "game_version": "230548",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TROPICOOL 4",
+      "game_id": "10232",
+      "game_version": "246110",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZAPLAB",
+      "game_id": "10239",
+      "game_version": "256704",
+      "game_type": "SLOT"
+    }
+  ]
+}

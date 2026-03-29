@@ -1,0 +1,168 @@
+{
+  "provider": "GEM GAMES",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GEM-GAMES.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 20,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BINGO SOCCER",
+      "game_id": "MINI-WEC_MINI-bingosoccer",
+      "game_version": "",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 2,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BINGO STAR",
+      "game_id": "MINI-WEC_MINI-bingo",
+      "game_version": "",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AVIATOR",
+      "game_id": "MINI-WEC_MINI-aviator",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BRAVO777",
+      "game_id": "SLOT-WEC_SLOT-luckyseven",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CLASSIC DICE",
+      "game_id": "MINI-WEC_MINI-classicdice",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COIN GAMBLE",
+      "game_id": "MINI-WEC_MINI-vavecoin",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR SPIN",
+      "game_id": "MINI-WEC_MINI-colorspin",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRYPTO DICE TREASURE",
+      "game_id": "MINI-WEC_MINI-hashdice",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE DICE",
+      "game_id": "MINI-WEC_MINI-vavedice",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FABULOUS MARBLES",
+      "game_id": "MINI-WEC_MINI-plinko",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE SNAKE",
+      "game_id": "SLOT-WEC_SLOT-fortunesnake",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM TWIRL",
+      "game_id": "MINI-WEC_MINI-gemspin",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM WHEEL",
+      "game_id": "MINI-WEC_MINI-magicroulette",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES",
+      "game_id": "MINI-WEC_MINI-mine",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NIGHT MARKET",
+      "game_id": "SLOT-WEC_SLOT-nightmarket",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NIGHT MARKET 2",
+      "game_id": "SLOT-WEC_SLOT-nightmarket2",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKO GAME",
+      "game_id": "MINI-WEC_MINI-plinkogame",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE",
+      "game_id": "SLOT-WEC_SLOT-gemsuperacelite",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE DELUXE",
+      "game_id": "SLOT-WEC_SLOT-gemsuperace",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ULTIMATE DICE",
+      "game_id": "MINI-WEC_MINI-extremeroll",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    }
+  ]
+}

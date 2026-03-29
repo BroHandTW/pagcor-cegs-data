@@ -1,0 +1,32 @@
+{
+  "provider": "EGT ESAT",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/ESAT.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 3,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "HARI TARI",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "KARRERA BALLS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "REG NUM V.2",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER GAME"
+    }
+  ]
+}

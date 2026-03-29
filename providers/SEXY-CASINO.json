@@ -1,0 +1,24 @@
+{
+  "provider": "SEXY CASINO",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/SEXY-CASINO.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 2,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SEXY BACCARAT",
+      "game_id": "C01-C16 & 1 - 10",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EXTRA SICBO",
+      "game_id": "C132 & 131-132",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

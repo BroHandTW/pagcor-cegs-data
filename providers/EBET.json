@@ -1,0 +1,136 @@
+{
+  "provider": "EBET",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EBET.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 16,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "AMERICAN FOOTBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 2,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BADMINTON",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 3,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BASEBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 4,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BASKETBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 5,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "BOXING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 6,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "CRICKET",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 7,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "HANDBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 8,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ICE HOCKEY",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 9,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MMA",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 10,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "MOTOR RACING",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 11,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "RUGBY LEAGUE & UNION",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 12,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SNOOKER & POOL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 13,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "SOCCER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 14,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TABLE TENNIS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 15,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "TENNIS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 16,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "VOLLEYBALL",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    }
+  ]
+}

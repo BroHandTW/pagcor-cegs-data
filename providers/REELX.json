@@ -1,0 +1,184 @@
+{
+  "provider": "REELX",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/REELX.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 22,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUZZY BEE-INGO",
+      "game_id": "26",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY777",
+      "game_id": "3",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY777 TURBO",
+      "game_id": "4",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH MAKER",
+      "game_id": "8",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEMON LOCK MATADOR TORO",
+      "game_id": "13",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ENDLESS FORTUNE",
+      "game_id": "6",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE BALL",
+      "game_id": "19",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE FIRECRACKERS",
+      "game_id": "17",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE MAYA",
+      "game_id": "7",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN TOUR",
+      "game_id": "9",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUNGLE KINGDOMS",
+      "game_id": "23",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING OF ROCK",
+      "game_id": "12",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUMMY DIAMOND",
+      "game_id": "25",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER OF THE KRAKEN",
+      "game_id": "22",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "REEL SUGAR FRENZY",
+      "game_id": "15",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SLOT777",
+      "game_id": "2",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER MAHJONG",
+      "game_id": "5",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET LOLLIPOP REELS",
+      "game_id": "21",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEETY LITTLE BEARS",
+      "game_id": "14",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE MINT",
+      "game_id": "10",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WEALTH",
+      "game_id": "24",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WEALTHY FIRECRACKERS",
+      "game_id": "11",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

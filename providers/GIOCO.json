@@ -1,0 +1,24 @@
+{
+  "provider": "GIOCO",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GIOCO.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 2,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH CASH PABUNOT",
+      "game_id": "cashcashpabunot2",
+      "game_version": "v1.3.07",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JEEPNEY GO",
+      "game_id": "jeepneygo1",
+      "game_version": "v1.3.16",
+      "game_type": "ARCADE-TYPE"
+    }
+  ]
+}

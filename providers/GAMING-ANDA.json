@@ -1,0 +1,80 @@
+{
+  "provider": "GAMING ANDA",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GAMING-ANDA.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 9,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BANK HEIST",
+      "game_id": "1698217743670",
+      "game_version": "v1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR GAME",
+      "game_id": "1698217743677",
+      "game_version": "v1.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GO FOR GOLD",
+      "game_id": "1698217743686",
+      "game_version": "v1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GP MINES",
+      "game_id": "1698217743662",
+      "game_version": "v1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IN BETWEEN",
+      "game_id": "64",
+      "game_version": "v1.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONOPOLY",
+      "game_id": "1698217743672",
+      "game_version": "v1.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NINJA CRASH",
+      "game_id": "1698217743669",
+      "game_version": "v1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SCRATCH MATCH",
+      "game_id": "1698217743680",
+      "game_version": "v1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER DOUBLE",
+      "game_id": "1698217743687",
+      "game_version": "v1.0.0",
+      "game_type": "ARCADE-TYPE"
+    }
+  ]
+}

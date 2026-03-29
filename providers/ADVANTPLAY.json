@@ -1,0 +1,424 @@
+{
+  "provider": "ADVANTPLAY",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/ADVANTPLAY.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 52,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AZTEC: BONUS HUNT",
+      "game_id": "10022",
+      "game_version": "1.0.81",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AZTEC: BONUS HUNT 2",
+      "game_id": "10052",
+      "game_version": "1.0.38",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AZTEC: GOLD TEMPLE",
+      "game_id": "10064",
+      "game_version": "1.0.114",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG NET BASS",
+      "game_id": "10070",
+      "game_version": "1.0.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK 21",
+      "game_id": "10062",
+      "game_version": "1.0.42",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOM OF PROSPERITY",
+      "game_id": "10032",
+      "game_version": "1.0.81",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO RUSH",
+      "game_id": "10059",
+      "game_version": "1.0.32",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO RUSH HIGHROLLER",
+      "game_id": "10080",
+      "game_version": "1.0.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUNNY TO THE MOON",
+      "game_id": "10028",
+      "game_version": "1.0.47",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAI SHEN FORTUNE",
+      "game_id": "10063",
+      "game_version": "1.0.28",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COOKIE HUNTER",
+      "game_id": "10043",
+      "game_version": "1.0.34",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY BOUNTY",
+      "game_id": "10045",
+      "game_version": "1.0.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY BOUNTY: JACKPOT",
+      "game_id": "10060",
+      "game_version": "1.0.56",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DARK RITUAL",
+      "game_id": "10048",
+      "game_version": "1.0.65",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DISCO 777",
+      "game_id": "10027",
+      "game_version": "1.1.176",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DISCO 777 HOLD AND WIN",
+      "game_id": "10071",
+      "game_version": "1.0.31",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DJ FEVER",
+      "game_id": "10037",
+      "game_version": "1.0.44",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON CHI'S QUEST",
+      "game_id": "10044",
+      "game_version": "1.0.58",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FANTASTIC BEAST",
+      "game_id": "10033",
+      "game_version": "1.0.81",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIREFLY HUNTER",
+      "game_id": "10049",
+      "game_version": "1.0.56",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FISH PRAWN CRAB BONANZA",
+      "game_id": "10050",
+      "game_version": "1.0.67",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL FEVER",
+      "game_id": "10051",
+      "game_version": "1.0.83",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GENIE MYSTERY",
+      "game_id": "10030",
+      "game_version": "1.0.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN EGYPT",
+      "game_id": "10074",
+      "game_version": "1.0.84",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HUNGRY SLIME",
+      "game_id": "10047",
+      "game_version": "1.0.78",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INFINITY OCEAN",
+      "game_id": "10034",
+      "game_version": "1.0.36",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JEWEL MASTERMIND",
+      "game_id": "10039",
+      "game_version": "1.0.44",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUMANJI BONANZA",
+      "game_id": "10061",
+      "game_version": "1.0.91",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KINGYO RICHES",
+      "game_id": "10054",
+      "game_version": "1.0.65",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LABUBU: FALL IN WILD",
+      "game_id": "10072",
+      "game_version": "1.0.107",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LAST SAMURAI",
+      "game_id": "10038",
+      "game_version": "1.0.25",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEPRECHAUN'S FORTUNE",
+      "game_id": "10066",
+      "game_version": "1.0.30",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MACE OF HERCULES",
+      "game_id": "10040",
+      "game_version": "1.0.44",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG ROAR",
+      "game_id": "10075",
+      "game_version": "1.0.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYA: ELEMENTAL TOTEM",
+      "game_id": "10046",
+      "game_version": "1.0.87",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYA: ELEMENTAL TOTEM 2",
+      "game_id": "10073",
+      "game_version": "1.0.42",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHANTOM MULTIPLIER",
+      "game_id": "10056",
+      "game_version": "1.0.23",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIGGY BANK GOLD",
+      "game_id": "10067",
+      "game_version": "1.0.61",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PINATA FEST",
+      "game_id": "10076",
+      "game_version": "1.0.84",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIRATE TREASURE HUNT",
+      "game_id": "10065",
+      "game_version": "1.0.53",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PUBG2",
+      "game_id": "10036",
+      "game_version": "1.0.51",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAMAKIEN BLESSING",
+      "game_id": "10053",
+      "game_version": "1.0.31",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RHAPSODY OF MUERTOS",
+      "game_id": "10057",
+      "game_version": "1.0.36",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RUSH HOUR GOLD",
+      "game_id": "10058",
+      "game_version": "1.0.29",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SCALE OF HEAVEN: ANUBIS",
+      "game_id": "10035",
+      "game_version": "1.0.62",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SLOTTO 4D",
+      "game_id": "10029",
+      "game_version": "1.0.140",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SQUID GAME 2: MUKUNGHWA",
+      "game_id": "10069",
+      "game_version": "1.0.31",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STARRY ADVENTURE",
+      "game_id": "10055",
+      "game_version": "1.0.39",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR CRUSH",
+      "game_id": "10068",
+      "game_version": "1.0.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WORLD CUP FINAL",
+      "game_id": "10031",
+      "game_version": "1.0.185",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "XIANG QI WAYS 2",
+      "game_id": "10042",
+      "game_version": "1.0.35",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "XMAS GIFT DELIGHT",
+      "game_id": "10041",
+      "game_version": "1.0.83",
+      "game_type": "SLOT"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "provider": "VICTORY-ARK-GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/VICTORY-ARK-GAMING.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 42,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARCANE DRAGON",
+      "game_id": "470",
+      "game_version": "ver.7374a",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BULLFIGHT KING",
+      "game_id": "439",
+      "game_version": "ver.9c3ed",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY CRUSH SAGA",
+      "game_id": "417",
+      "game_version": "var.dd34f",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAPYBARA BAR",
+      "game_id": "454",
+      "game_version": "ver.5b195",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TREASURE 4",
+      "game_id": "468",
+      "game_version": "ver.d5d1c",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON’S TREASURE 3 M",
+      "game_id": "416",
+      "game_version": "ver.7d807",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EMPEROR QIN SHI HUANG PLUS",
+      "game_id": "438",
+      "game_version": "ver.3e0ca",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ETERNAL NIGHT CLASH",
+      "game_id": "440",
+      "game_version": "ver.ae378",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIREWORKS BLESSINGS",
+      "game_id": "452",
+      "game_version": "ver.5efed",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM GALA",
+      "game_id": "441",
+      "game_version": "ver.05604",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN EMPIRE",
+      "game_id": "426",
+      "game_version": "ver.3e76c",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN EMPIRE 2",
+      "game_id": "465",
+      "game_version": "ver.83653",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN FARM",
+      "game_id": "456",
+      "game_version": "ver.abbfd",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN MAITREYA",
+      "game_id": "421",
+      "game_version": "ver.f5ecc",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HONOR OF KINGS",
+      "game_id": "419",
+      "game_version": "ver.75ded",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT ACE",
+      "game_id": "434",
+      "game_version": "ver.82908",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "INCA ZUMA",
+      "game_id": "469",
+      "game_version": "ver.5c4d4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KINGDOM OF FIRE DRAGON",
+      "game_id": "435",
+      "game_version": "ver.de35f",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGEND OF PHOENIX",
+      "game_id": "422",
+      "game_version": "ver.4ccc2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LION DANCE",
+      "game_id": "455",
+      "game_version": "ver.cedf1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY GOLD RUSH",
+      "game_id": "474",
+      "game_version": "ver.ab1fd",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG SAGA",
+      "game_id": "477",
+      "game_version": "ver.77b6b",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG SELF-DRAWN WIN 2",
+      "game_id": "449",
+      "game_version": "ver.7023c",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG SELF-DRAWN WIN 3",
+      "game_id": "466",
+      "game_version": "ver.106ea",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG SELF-DRAWN WIN 4",
+      "game_id": "471",
+      "game_version": "ver.d9d92",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MANEKI NEKO",
+      "game_id": "453",
+      "game_version": "ver.59c2d",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYA EMPIRE",
+      "game_id": "425",
+      "game_version": "ver.fc4af",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINING MAESTRO",
+      "game_id": "459",
+      "game_version": "ver.8eec0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OPEN SESAME",
+      "game_id": "446",
+      "game_version": "ver.3b52b",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIÑATA",
+      "game_id": "462",
+      "game_version": "ver.41875",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH ROLL IN",
+      "game_id": "158",
+      "game_version": "ver.c1438",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROBIN HOOD",
+      "game_id": "437",
+      "game_version": "ver.8f841",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROCKET GOD OF WEALTH",
+      "game_id": "182",
+      "game_version": "ver.c8318",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMAN GLADIATOR",
+      "game_id": "457",
+      "game_version": "ver.f2743",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE HAND OF MIDAS",
+      "game_id": "450",
+      "game_version": "ver.14185",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THREE STAR FORTUNE",
+      "game_id": "451",
+      "game_version": "ver.245bb",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TOUCAN",
+      "game_id": "448",
+      "game_version": "ver.69545",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD FORTUNE",
+      "game_id": "415",
+      "game_version": "ver.362ad",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD FORTUNE 2",
+      "game_id": "467",
+      "game_version": "ver.e153d",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD LEGENDS",
+      "game_id": "447",
+      "game_version": "ver.974ca",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD TYRANNOSAURUS",
+      "game_id": "460",
+      "game_version": "ver.a9e3e",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZEUS",
+      "game_id": "406",
+      "game_version": "ver.9cada",
+      "game_type": "SLOT"
+    }
+  ]
+}

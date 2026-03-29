@@ -1,0 +1,216 @@
+{
+  "provider": "PRAGMATIC PLAY LIVE",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PRAGMATIC-PLAY-LIVE.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 26,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANDAR BAHAR",
+      "game_id": "1.44.13",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AUTO MEGA ROULETTE",
+      "game_id": "1.66.158",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AUTO ROULETTE",
+      "game_id": "1.66.158",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "1.66.56",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOM CITY",
+      "game_id": "V1.61.5",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "1.44.13",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL BLITZ TOP CARD",
+      "game_id": "1.66.238",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE 6 BACCARAT",
+      "game_id": "1.60.34",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY 6 ROULETTE",
+      "game_id": "1.66.159",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA BACCARAT",
+      "game_id": "1.66.47",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA ROULETTE",
+      "game_id": "1.66.188",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA SIC BAC",
+      "game_id": "1.66.268",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA SIC BO",
+      "game_id": "1.44.13",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA WHEEL",
+      "game_id": "1.44.13",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWERUP ROULETTE",
+      "game_id": "1.62.3",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PRIVÉ LOUNGE BACCARAT",
+      "game_id": "1.66.56",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "1.66.158",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIC BO",
+      "game_id": "1.66.177",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SNAKES & LADDERS LIVE",
+      "game_id": "1.66.282",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED AUTO ROULETTE",
+      "game_id": "1.66.158",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BACCARAT",
+      "game_id": "1.66.56",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED ROULETTE",
+      "game_id": "1.66.158",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER 8 BACCARAT",
+      "game_id": "1.66.56",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET BONANZA CANDYLAND",
+      "game_id": "1.55.23",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIP AUTO ROULETTE",
+      "game_id": "1.66.158",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIP ROULETTE - THE CLUB",
+      "game_id": "1.66.158",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

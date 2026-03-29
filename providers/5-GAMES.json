@@ -1,0 +1,304 @@
+{
+  "provider": "5G GAMES",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/5-GAMES.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 37,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "777",
+      "game_id": "KYS-H5-99999",
+      "game_version": "VER 190",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BATTLE OF ALLIANCE",
+      "game_id": "S5G-H5-99965",
+      "game_version": "VER 126",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY GALA",
+      "game_id": "KYS-H5-99988",
+      "game_version": "VER 139",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR BINGO",
+      "game_id": "S5G-H5-99957",
+      "game_version": "VER 480",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRYPTO VERSE",
+      "game_id": "S5G-H5-99967",
+      "game_version": "VER 166",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DJ SEAL",
+      "game_id": "S5G-H5-99960",
+      "game_version": "VER 105",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE TRIO",
+      "game_id": "S5G-H5-99956",
+      "game_version": "VER 343",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "G KONG",
+      "game_id": "S5G-H5-99964",
+      "game_version": "VER 136",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEMS MINER",
+      "game_id": "KYS-H5-99982",
+      "game_version": "VER 250",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GIVE ME FIRE",
+      "game_id": "KYS-H5-99984",
+      "game_version": "VER 149",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOD OF FORTUNE",
+      "game_id": "KYS-H5-99995",
+      "game_version": "VER 139",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOD OF FORTUNE 2",
+      "game_id": "KYS-H5-99994",
+      "game_version": "VER 146",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN ISLAND",
+      "game_id": "KYS-H5-99980",
+      "game_version": "VER 218",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN LEGEND",
+      "game_id": "KYS-H5-99991",
+      "game_version": "VER 240",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRIMOIRE",
+      "game_id": "S5G-H5-99963",
+      "game_version": "VER 137",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAMMER OF VULCAN",
+      "game_id": "KYS-H5-99981",
+      "game_version": "VER 287",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING'S REALM",
+      "game_id": "KYS-H5-99983",
+      "game_version": "VER 350",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KUNG FU LEOPARD",
+      "game_id": "S5G-H5-99962",
+      "game_version": "VER 109",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY NEKO",
+      "game_id": "KYS-H5-99985",
+      "game_version": "VER 171",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY TIGER",
+      "game_id": "KYS-H5-99998",
+      "game_version": "VER 147",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG WAY 3",
+      "game_id": "KYS-H5-99997",
+      "game_version": "VER 173",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG WAY 3+",
+      "game_id": "KYS-H5-99996",
+      "game_version": "VER 144",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MASTER OF GOLD MINER",
+      "game_id": "KYS-H5-99993",
+      "game_version": "VER 154",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MASTER OF GOLD MINER 2",
+      "game_id": "KYS-H5-99992",
+      "game_version": "VER 174",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA ACE",
+      "game_id": "S5G-H5-99943",
+      "game_version": "VER 347",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY TREE",
+      "game_id": "KYS-H5-99990",
+      "game_version": "VER 157",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEKO TITAN",
+      "game_id": "S5G-H5-99959",
+      "game_version": "VER 171",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OPERA PANDA",
+      "game_id": "KYS-H5-99986",
+      "game_version": "VER 168",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PICHU PICHU",
+      "game_id": "S5G-H5-99966",
+      "game_version": "VER 119",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR HIGH 5",
+      "game_id": "S5G-H5-99958",
+      "game_version": "VER 497",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPREME ACE",
+      "game_id": "KYS-H5-99989",
+      "game_version": "VER 172",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TAUROS GO",
+      "game_id": "S5G-H5-99969",
+      "game_version": "VER 183",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE BIG BLUE",
+      "game_id": "S5G-H5-99961",
+      "game_version": "VER 117",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THRILLER TOWN",
+      "game_id": "S5G-H5-99968",
+      "game_version": "VER 231",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THRONE OF POSEIDON",
+      "game_id": "S5G-H5-99953",
+      "game_version": "VER 423",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURES OF EGYPT",
+      "game_id": "KYS-H5-99987",
+      "game_version": "VER 230",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD BOUNTY",
+      "game_id": "S5G-H5-99947",
+      "game_version": "VER 355",
+      "game_type": "SLOT"
+    }
+  ]
+}

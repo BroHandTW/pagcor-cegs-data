@@ -1,0 +1,2240 @@
+{
+  "provider": "PLAYTECH",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PLAYTECH.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 279,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "1-OF-A-KIND",
+      "game_id": "gpas_1reeler_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ABSOLUTELY MAMMOTH",
+      "game_id": "gpas_amammoth_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ADVENTURE BEYOND WONDERLAND LIVE",
+      "game_id": "abwl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AGE OF THE GODS BONUS ROULETTE LIVE",
+      "game_id": "aogjbrol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALL BETS BLACKJACK LIVE",
+      "game_id": "abjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALOHAWAII: CASH COLLECT",
+      "game_id": "gpas_alohacc_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANACONDA UNCOILED",
+      "game_id": "gpas_auncoil_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANACONDA WILD",
+      "game_id": "anwild",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANACONDA WILD 2",
+      "game_id": "gpas_awild2_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANDAR BAHAR LIVE",
+      "game_id": "abl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANIMAL INSTINCT",
+      "game_id": "gpas_big5_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARCHER",
+      "game_id": "arc",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ATLANTIS: CASH COLLECT",
+      "game_id": "gpas_ccskingofa_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AZTEC EXPEDITION",
+      "game_id": "gpas_1reeler_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AZTECA: BONUS LINES",
+      "game_id": "gpas_azboli_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AZTECA: CASH COLLECT",
+      "game_id": "gpas_aztecw_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT LIVE",
+      "game_id": "ubal",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAI SHI",
+      "game_id": "bs",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BERMUDA TRIANGLE",
+      "game_id": "bt",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BERRY BERRY BONANZA",
+      "game_id": "bbbo",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BETON BACCARAT",
+      "game_id": "bs_bal",
+      "game_version": "22.6",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BETON DRAGON TIGER LIVE",
+      "game_id": "bs_dtl",
+      "game_version": "21.6",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BETON POKER LIVE",
+      "game_id": "bs_pokl",
+      "game_version": "22.6",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BETTER WILDS",
+      "game_id": "gpas_betwilds_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BAD WOLF LIVE",
+      "game_id": "bbwl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG SHOTS",
+      "game_id": "bigsh",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLAZING BELLS",
+      "game_id": "gpas_bbells_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONUS BEARS",
+      "game_id": "bob",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONUS TRAIN BANDITS",
+      "game_id": "gpas_btbandit_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF KINGS",
+      "game_id": "gpas_boking_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BREACH THE VAULT",
+      "game_id": "gpas_bvault_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BREAKOUT BOB",
+      "game_id": "gpas_bbob_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUCCANEER BLAST",
+      "game_id": "gpas_pblast_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUCKLE UP",
+      "game_id": "bup",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO BLITZ",
+      "game_id": "bfb",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO BLITZ II",
+      "game_id": "gpas_bblitz2_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO BLITZ LIVE",
+      "game_id": "bfbl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUSTED OR BAILED",
+      "game_id": "prstl",
+      "game_version": "24.11.3.6",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY ROLL",
+      "game_id": "gpas_sweroll_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASCADING CAVE",
+      "game_id": "gpas_ccave_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH COLLECT ROULETTE",
+      "game_id": "ccrol",
+      "game_version": "24.9",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH IT",
+      "game_id": "crit",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH PLANE X5000",
+      "game_id": "cpx5k",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASHBACK BLACKJACK LIVE",
+      "game_id": "cbjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASINO CHARMS",
+      "game_id": "gpas_cascharms_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHILI ERUPTION",
+      "game_id": "gpas_ceruption_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHILLI XTREME",
+      "game_id": "gpas_cxtreme_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHINESE KITCHEN",
+      "game_id": "cm",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CIRCUIT SHOCK",
+      "game_id": "gpas_cish_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CIRCUS LAUNCH",
+      "game_id": "circ",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY 7",
+      "game_id": "c7",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CURSE OF ANUBIS",
+      "game_id": "gpas_soanubis_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DA VINCI'S VAULT",
+      "game_id": "dvncv",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEVIL WILDS",
+      "game_id": "gpas_devwilds_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND MATCH",
+      "game_id": "gpas_dmatch_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND RISE",
+      "game_id": "gpas_drise_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOLPHIN REEF",
+      "game_id": "dnr",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 58,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE DIGGER",
+      "game_id": "gpas_dwpfbb1_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 59,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON CHAMPIONS",
+      "game_id": "drgch",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 60,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON SPARK",
+      "game_id": "gpas_dsparks_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON'S HALL: THUNDERSHOTS",
+      "game_id": "gpas_dhall_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 62,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EGYPTIAN EMERALDS",
+      "game_id": "gpas_eemeralds_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 63,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ELEPHANT RICHES",
+      "game_id": "gpas_elphrich_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 64,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ELIMINATORS",
+      "game_id": "gpas_eliminators_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 65,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EPIC APE",
+      "game_id": "epa",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 66,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EPIC APE 2",
+      "game_id": "gpas_eape2_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 67,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EXTREME FRUITS ULTIMATE DELUXE",
+      "game_id": "gpas_extrfruits_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 68,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EYE OF ANUBIS",
+      "game_id": "gpas_sscarab_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 69,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FAIRGROUND FORTUNES GHOST TRAIN",
+      "game_id": "ashfgf",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 70,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FAIRY GATHERING: THUNDERSHOTS",
+      "game_id": "gpas_fgather_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 71,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FASHION TV MEGA PARTY LIVE",
+      "game_id": "mjpswl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 72,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FENG SHUI FLIP",
+      "game_id": "gpas_fsflip_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 73,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE 4: CASH COLLECT QUATTRO A1",
+      "game_id": "gpas_f4ccd_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 74,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE GOLDEN: AMAZING FACTORY",
+      "game_id": "gpas_afactory_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 75,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE GOLDEN: BUCCANEER BELLS",
+      "game_id": "gpas_fbgbb_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 76,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE QUATTRO: CELTIC CHARM",
+      "game_id": "gpas_qccharm_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 77,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: ADVENTURE TRAIL",
+      "game_id": "gpas_atrail_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 78,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: BLUE WIZARD",
+      "game_id": "gpas_bwizard_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 79,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: BLUE WIZARD MEGAWAYS",
+      "game_id": "gpas_mgbwizard_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 80,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: ETERNAL LADY",
+      "game_id": "gpas_elady_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 81,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: FIRE FIGHTER",
+      "game_id": "gpas_ffighter_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 82,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: GOLDEN MACAQUE",
+      "game_id": "gpas_gmacaque_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 83,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: GREEN WIZARD",
+      "game_id": "gpas_gwizard_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 84,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: JINNS MOON",
+      "game_id": "gpas_jmoon_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 85,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: PEARLS PEARLS PEARLS",
+      "game_id": "gpas_pppearls_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 86,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: RED WIZARD",
+      "game_id": "gpas_rwizard_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 87,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: SISTERS GIFT",
+      "game_id": "gpas_sgift_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 88,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: SKY QUEEN",
+      "game_id": "gpas_squeen_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 89,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: SKY QUEEN MEGAWAYS",
+      "game_id": "gpas_sqmways_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 90,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: TOLTEC BLOCKS",
+      "game_id": "gpas_qctoblo_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 91,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIRE BLAZE: TUNDRA WOLF",
+      "game_id": "gpas_twolf_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 92,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FISHIN' BONANZA",
+      "game_id": "gpas_ffever_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 93,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FLAMING BARS",
+      "game_id": "gpas_fbars_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 94,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL! CASH COLLECT",
+      "game_id": "gpas_focashco_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 95,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE FORTUNE: THUNDERSHOTS",
+      "game_id": "gpas_ffortune_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 96,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNES OF THE FOX",
+      "game_id": "fxf",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 97,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FROG'S GIFT",
+      "game_id": "gpas_fgift_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 98,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT HARVEST",
+      "game_id": "gpas_fharvest_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 99,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUITY SHOWERS",
+      "game_id": "gpas_fcascade_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 100,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FULL MOON: WHITE KING",
+      "game_id": "gpas_fmwking_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 101,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FULL MOON: WHITE PANDA",
+      "game_id": "gpas_wpanda_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 102,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FULL MOON: WILD TRACK",
+      "game_id": "gpas_wtrack_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 103,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GATES OF CAMELOT",
+      "game_id": "gpas_goc_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 104,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM SPLASH: KINGS COURT",
+      "game_id": "gpas_gskc_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 105,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GLORIOUS GUARDIANS",
+      "game_id": "gpas_gguardians_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 106,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD HIT & LINK: JP BACON & CO.",
+      "game_id": "gpas_goldh4_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 107,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD HIT & LINK: TIGER JONES",
+      "game_id": "gpas_ghlink2_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 108,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD HIT: DRAGON BONANZA",
+      "game_id": "gpas_goldhit3_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 109,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD HIT: LIL DEMON",
+      "game_id": "gpas_ghitdevb1_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 110,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD HIT: O'REILLY'S RICHES",
+      "game_id": "gpas_bcash_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 111,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD PILE: ORANGUTAN!",
+      "game_id": "gpas_gporang_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 112,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD PILE: TIGERS PRIDE",
+      "game_id": "gpas_tfortune_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 113,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD PILE: TOLTEC TREASURE",
+      "game_id": "gpas_ttreasure_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 114,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD TRIO: SINBAD'S RICHES",
+      "game_id": "gpas_ctrpl_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 115,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAND JUNCTION: ENCHANTED INCA",
+      "game_id": "gpas_eninca_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 116,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAND JUNCTION: GOLDEN GUNS",
+      "game_id": "gpas_ggun_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 117,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAND JUNCTION: MOUNTAIN EXPRESS",
+      "game_id": "gpas_mountexp_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 118,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GREAT BLUE",
+      "game_id": "bib",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 119,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAINAN ICE",
+      "game_id": "gpas_hice_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 120,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HALLOWEEN FORTUNE 2",
+      "game_id": "hlf2",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 121,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HEART OF THE FRONTIER",
+      "game_id": "ashhof",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 122,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HEROES ARROW",
+      "game_id": "gpas_harrow_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 123,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HIT BAR",
+      "game_id": "gpas_fmhitbar_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 124,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOLOGRAM WILDS",
+      "game_id": "hwilds",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 125,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HONEY GEMS",
+      "game_id": "gpas_hongem_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 126,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT CROWN DELUXE",
+      "game_id": "gpas_hcdelux_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 127,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT GEMS XTREME",
+      "game_id": "gpas_hgextreme_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 128,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JANE JONES IN BOOK OF KINGS 2",
+      "game_id": "gpas_nalight_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 129,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOKER RUSH",
+      "game_id": "gpas_jrush_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 130,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOKER RUSH: CASH COLLECT",
+      "game_id": "gpas_jrushcc_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 131,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUEGO DE LA OCA",
+      "game_id": "jdlo",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 132,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUNGLE GIANTS",
+      "game_id": "jnglg",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 133,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JURASSIC ISLAND 2",
+      "game_id": "gpas_jisland2_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 134,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING BLITZ",
+      "game_id": "gpas_bprog_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 135,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "K-POP ROULETTE LIVE",
+      "game_id": "smplrol",
+      "game_version": "23.9",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 136,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGACY OF THE WILD",
+      "game_id": "legwld",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 137,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGACY OF THE WILDS 2",
+      "game_id": "gpas_lotwild2_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 138,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEPRECHAUN'S LUCK: CASH COLLECT",
+      "game_id": "gpas_ccluck_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 139,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEPRECHAUN'S LUCK: CASH COLLECT: MEGAWAYS",
+      "game_id": "gpas_ccluck_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 140,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIL DEMON: DOUBLE HEAT",
+      "game_id": "gpas_gpotld_pop",
+      "game_version": "1.0.67",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 141,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE 3 CARD BRAG",
+      "game_id": "3brgl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 142,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE AMERICAN ROULETTE",
+      "game_id": "rodzl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 143,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE BLACKJACK",
+      "game_id": "bjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 144,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE CASINO HOLD'EM",
+      "game_id": "chel",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 145,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE DRAGON TIGER",
+      "game_id": "dtl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 146,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE FOOTBALL FRENCH ROULETTE",
+      "game_id": "frofl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 147,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE FRENCH ROULETTE",
+      "game_id": "rofl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 148,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE HI-LO",
+      "game_id": "hilol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 149,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE SETTE E MEZZO",
+      "game_id": "7eml",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 150,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE SICBO DELUXE",
+      "game_id": "sbdl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 151,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE SPIN A WIN",
+      "game_id": "swl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 152,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE UNLIMITED BLACKJACK",
+      "game_id": "ubjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 153,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOCKDOWN LOOT",
+      "game_id": "gpas_pbreak_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 154,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY BALL ROULETTE LIVE",
+      "game_id": "lbrol",
+      "game_version": "23.11.0.13",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 155,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY BASS: MEGA CASH COLLECT",
+      "game_id": "gpas_lbmcc_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 156,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY EMERALDS",
+      "game_id": "gpas_lemeralds_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 157,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUMINOUS LIFE",
+      "game_id": "lumli",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 158,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUNAR LINK: NILE MOON",
+      "game_id": "gpas_llnm_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 159,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGICAL STACKS",
+      "game_id": "mgstk",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 160,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAJI WILDS",
+      "game_id": "mwilds",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 161,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAJORITY RULES SPEED BLACKJACK LIVE",
+      "game_id": "msbjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 162,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYAN BLOCKS",
+      "game_id": "gpas_mblocks_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 163,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE BLACKJACK LIVE",
+      "game_id": "fbbjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 164,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE ROULETTE LIVE",
+      "game_id": "fbrolj",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 165,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: BIG CIRCUS!",
+      "game_id": "gpas_bcircus_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 166,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: DWARVES AND GOBLINS",
+      "game_id": "gpas_mfbdag_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 167,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: EMPEROR OF ROME",
+      "game_id": "gpas_eofrome_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 168,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: KHONSU GOD OF MOON",
+      "game_id": "gpas_kgomoon_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 169,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: LEGACY OF THE TIGER",
+      "game_id": "gpas_lottiger_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 170,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: LUCKY BASS",
+      "game_id": "gpas_mfbbass_pop",
+      "game_version": "1.0.43",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 171,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: PIGGIES AND THE BANK",
+      "game_id": "gpas_engage_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 172,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE: WILD PISTOLERO",
+      "game_id": "gpas_wpisto_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 173,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIDNIGHT WILDS",
+      "game_id": "gpas_mwilds_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 174,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIGHTY HAT: LAMP OF GOLD",
+      "game_id": "gpas_gwish_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 175,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIGHTY HAT: MINE O' MINE",
+      "game_id": "gpas_grush_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 176,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIGHTY HAT: MYSTIC TALES",
+      "game_id": "gpas_mforest_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 177,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MISS FORTUNE",
+      "game_id": "mfrt",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 178,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONSTER MULTIPLIERS",
+      "game_id": "gpas_sking_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 179,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MR. CASHBACK",
+      "game_id": "mcb",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 180,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MURDER MYSTERY",
+      "game_id": "murder",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 181,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEPTUNE'S KINGDOM",
+      "game_id": "nk",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 182,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEW YEAR'S BONANZA",
+      "game_id": "gpas_nyslot_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 183,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NI SHU SHEN ME",
+      "game_id": "gpas_nsshen_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 184,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OINK OINK OINK",
+      "game_id": "gpas_oink_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 185,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OINK OINK OINK: PHARAOHS",
+      "game_id": "gpas_ooop_pop",
+      "game_version": "1.0.22",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 186,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANDA BLITZ",
+      "game_id": "gpas_pandabz_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 187,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANTHER MOON",
+      "game_id": "pmn",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 188,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANTHER MOON: BONUS LINES",
+      "game_id": "gpas_pmoonbl_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 189,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANTHER PAYS",
+      "game_id": "gpas_panthpays_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 190,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PENGUIN VACATION",
+      "game_id": "pgv",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 191,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHARAOH'S SECRETS",
+      "game_id": "pst",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 192,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHARAOH'S TREASURE DELUXE",
+      "game_id": "phtd",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 193,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIGEONS FROM SPACE!",
+      "game_id": "gpas_pigeonfs_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 194,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIGGIES AND THE WOLF",
+      "game_id": "paw",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 195,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIGGY MANIA",
+      "game_id": "gpas_3reel_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 196,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLUNDER AHOY! THUNDERSHOTS",
+      "game_id": "gpas_pahoy_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 197,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER ZONES: ISHTAR",
+      "game_id": "gpas_ishtar_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 198,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER ZONES: LEGEND OF HYDRA",
+      "game_id": "gpas_hydra_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 199,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER ZONES: PYRAMID VALLEY",
+      "game_id": "gpas_pstrike_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 200,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POWER ZONES: THUNDER BIRDS",
+      "game_id": "gpas_tbirds_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 201,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PUMPKIN BONANZA",
+      "game_id": "gpas_pumpkinb_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 202,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PYRAMID LINX",
+      "game_id": "gpas_plink_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 203,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QIN'S EMPIRE: CAISHEN'S TEMPLE",
+      "game_id": "gpas_ctemple_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 204,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QIN'S EMPIRE: CELESTIAL GUARDIANS",
+      "game_id": "gpas_cguard_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 205,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUANTUM BLACKJACK LIVE",
+      "game_id": "qabjlp",
+      "game_version": "19.11.103.0",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 206,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUANTUM ROULETTE LIVE",
+      "game_id": "qrol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 207,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN OF THE PYRAMIDS: MEGA CASH COLLECT",
+      "game_id": "gpas_queenotp_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 208,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN OF WANDS",
+      "game_id": "qnw",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 209,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN'S MYSTERY",
+      "game_id": "gpas_qumy_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 210,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEST WEST",
+      "game_id": "gpas_mquest_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 211,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "READY TO BLOW: THUNDERSHOTS",
+      "game_id": "gpas_retoblow_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 212,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RETRO RUSH",
+      "game_id": "gpas_rrider_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 213,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH ROLL: LUST FOR GOLD!",
+      "game_id": "gpas_rrlustforg_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 214,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROGUES DRAW",
+      "game_id": "gpas_rogue_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 215,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMAN FRUITS",
+      "game_id": "gpas_romfruit_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 216,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROME AND GLORY",
+      "game_id": "rng2",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 217,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RULERS OF THE WORLD: EMPIRE TREASURES",
+      "game_id": "gfal",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 218,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SACRED STONES",
+      "game_id": "scrdstns",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 219,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAFARI HEAT",
+      "game_id": "sfh",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 220,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAHARA RICHES CASH COLLECT",
+      "game_id": "gpas_ccsahara_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 221,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAHARA RICHES MEGAWAYS: CASH COLLECT",
+      "game_id": "gpas_mgccsahara_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 222,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAMURAI FURY",
+      "game_id": "gpas_samufur_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 223,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAVAGE JUNGLE",
+      "game_id": "gpas_sjungle_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 224,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SECRETS OF THE AMAZON",
+      "game_id": "samz",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 225,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHARK BLITZ",
+      "game_id": "gpas_sharks_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 226,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHERLOCK MYSTERY",
+      "game_id": "shmst",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 227,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHIELDS OF ROME",
+      "game_id": "gpas_sorome_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 228,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SI XIANG",
+      "game_id": "sx",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 229,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SILENT SAMURAI",
+      "game_id": "sis",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 230,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SILENT SAMURAI: MEGA CASH COLLECT",
+      "game_id": "gpas_ssammct_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 231,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SILVER BULLET",
+      "game_id": "sib",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 232,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SILVER BULLET BANDIT: CASH COLLECT",
+      "game_id": "gpas_sbullet_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 233,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SOLAR ECLIPSE: JAGUAR'S LAIR",
+      "game_id": "gpas_jlair_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 234,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SORCERER'S GUILD OF MAGIC",
+      "game_id": "gpas_sgomagic_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 235,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPACE HUNTER: SHOOT FOR CASH",
+      "game_id": "shsfc",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 236,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BLACKJACK LIVE",
+      "game_id": "sbjl",
+      "game_version": "24.1",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 237,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPIN A WIN WILD LIVE",
+      "game_id": "swle",
+      "game_version": "23.4",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 238,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPIN 'EM ROUND!",
+      "game_id": "gpas_woluckb1_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 239,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPREAD-BET ROULETTE",
+      "game_id": "sprol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 240,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STARMADA EXILES",
+      "game_id": "gpas_sexiles_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 241,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STARS ABLAZE",
+      "game_id": "gpas_starsablaze_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 242,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STARS AWAKENING",
+      "game_id": "strsawk",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 243,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STICKY BANDITS ROULETTE LIVE",
+      "game_id": "sbrol",
+      "game_version": "24.5.0.28",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 244,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET N JUICY",
+      "game_id": "gpas_swnj_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 245,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEEN PATTI LIVE",
+      "game_id": "tpl",
+      "game_version": "22.7",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 246,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THAI PARADISE",
+      "game_id": "tpd2",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 247,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GREAT GENIE",
+      "game_id": "gpas_gegenie_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 248,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GREATEST CARDS SHOW LIVE",
+      "game_id": "tgsl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 249,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE RICHES OF DON QUIXOTE",
+      "game_id": "donq",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 250,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIGER CLAW",
+      "game_id": "tigc",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 251,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIGER STACKS",
+      "game_id": "gpas_tstacks_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 252,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIGER TURTLE DRAGON PHOENIX",
+      "game_id": "gpas_tigertdp_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 253,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIP TOP TOTEMS",
+      "game_id": "gpas_tttotems_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 254,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TOAD'S GIFT",
+      "game_id": "gpas_tgift_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 255,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURES OF THE LAMPS",
+      "game_id": "totl",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 256,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE STOP: HERCULES RULES",
+      "game_id": "gpas_hrules_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 257,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE STOP: MERMAIDS FIND",
+      "game_id": "gpas_merfind_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 258,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRUE LOVE",
+      "game_id": "trl",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 259,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VACATION STATION",
+      "game_id": "er",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 260,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VACATION STATION DELUXE",
+      "game_id": "vcstd",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 261,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VAMPIRE PRINCESS OF DARKNESS",
+      "game_id": "gpas_vampirep_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 262,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WAYS OF THE GENIE THUNDERSHOTS",
+      "game_id": "gpas_wotgenie_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 263,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WAYS OF THE PHOENIX",
+      "game_id": "wotp",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 264,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WHEELS OF FLAME",
+      "game_id": "gpas_wofire1_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 265,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WHITE KING",
+      "game_id": "whk",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 266,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WHITE KING II",
+      "game_id": "whk2",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 267,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD LAVA",
+      "game_id": "gpas_wlava_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 268,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD LAVA SCRATCH",
+      "game_id": "gpas_wlavaiw_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 269,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD LINX",
+      "game_id": "gpas_wlinx_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 270,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD WEST WILDS!",
+      "game_id": "gpas_wwd_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 271,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WITCHES: CASH COLLECT",
+      "game_id": "gpas_cchfortune_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 272,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WOLVES! CASH COLLECT & LINK",
+      "game_id": "gpas_wolcc_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 273,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WOLVES! WOLVES! WOLVES!",
+      "game_id": "www",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 274,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WU LONG",
+      "game_id": "wlg",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 275,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WUSHU PUNCH",
+      "game_id": "gpas_wpunch_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 276,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "YU TU JIN CAI: CASH COLLECT",
+      "game_id": "gpas_rabbitcash_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 277,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "YUN CONG LONG",
+      "game_id": "yclong",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 278,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZHAO CAI JIN BAO",
+      "game_id": "zcjb",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 279,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZODIAC CHARMS",
+      "game_id": "gpas_zcharms_pop",
+      "game_version": "",
+      "game_type": "SLOT"
+    }
+  ]
+}

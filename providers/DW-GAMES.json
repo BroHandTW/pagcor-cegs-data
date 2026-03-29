@@ -1,0 +1,344 @@
+{
+  "provider": "DW GAMES",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/DW-GAMES.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 42,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANCIENT SCROLLS",
+      "game_id": "553",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BATTLE GREAT WALL",
+      "game_id": "548",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONUS POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONUS POKER DELUXE",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CARRIBEAN POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH HONEY",
+      "game_id": "552",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHRISTMAS SMASH",
+      "game_id": "551",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CUPID SMASH",
+      "game_id": "556",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEUCES WILD",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEUCES WILD BONUS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE BONUS POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE DOUBLE BONUS POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE DRAGON SIC BO",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GALAXY QUEST",
+      "game_id": "502",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GENIE'S WILD",
+      "game_id": "539",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HALLOWEEN SMASH",
+      "game_id": "549",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JACKS OR BETTER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOKER POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JURASSIC JUNGLE",
+      "game_id": "538",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEPRECHAUN SMASH",
+      "game_id": "560",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY SAKURA",
+      "game_id": "537",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC COIN",
+      "game_id": "547",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAJESTIC INDIA",
+      "game_id": "554",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MARINE WARS",
+      "game_id": "559",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NINPO SLASH",
+      "game_id": "540",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANDA MAJESTY 2",
+      "game_id": "545",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIRATE QUEST",
+      "game_id": "517",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROBOTS VS MONSTERS",
+      "game_id": "504",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STEAM MINERS",
+      "game_id": "501",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE CARD POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIPLE DOUBLE BONUS POKER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TURKEY DAY SMASH",
+      "game_id": "550",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "USA WILD",
+      "game_id": "557",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VICTORY LANE",
+      "game_id": "555",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WEALTH GODS 2",
+      "game_id": "543",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "WILDLIFE ADVENTURE",
+      "game_id": "513",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "4X KENO",
+      "game_id": "1011",
+      "game_version": "V1.0",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 41,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "KENO",
+      "game_id": "1010",
+      "game_version": "V1.0",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 42,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "SPIN2 GAME",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

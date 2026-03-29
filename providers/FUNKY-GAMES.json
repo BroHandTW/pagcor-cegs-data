@@ -1,0 +1,248 @@
+{
+  "provider": "FUNKY GAMES",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/FUNKY-GAMES.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 30,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT BABES",
+      "game_id": "e06d54449dcfa3095d3f02bcb549eb",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT VVIP",
+      "game_id": "602719",
+      "game_version": "1.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BASKETBALL STRIKE",
+      "game_id": "602825",
+      "game_version": "849e1039",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAU CUA",
+      "game_id": "602833",
+      "game_version": "662e745c",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BELANGKAI",
+      "game_id": "602837",
+      "game_version": "49e14462",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CARIBBEAN SAGA",
+      "game_id": "602822",
+      "game_version": "113b382",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH OR CRASH",
+      "game_id": "602817",
+      "game_version": "v.1.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EASTER RUN",
+      "game_id": "602845",
+      "game_version": "536C69DD2",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FANTAN",
+      "game_id": "602826",
+      "game_version": "4b300308",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL FEVER",
+      "game_id": "602834",
+      "game_version": "af895805",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL MINES",
+      "game_id": "602716",
+      "game_version": "af624813",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FOOTBALL STRIKE",
+      "game_id": "602813",
+      "game_version": "15906a54",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAPPY HOUR FRUIT SLOT",
+      "game_id": "60278",
+      "game_version": "fe8ee2772",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY WHEEL",
+      "game_id": "602816",
+      "game_version": "v.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEOW HILO",
+      "game_id": "602711",
+      "game_version": "7f68e4f47",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIDNIGHT ROBBERY",
+      "game_id": "602844",
+      "game_version": "027bf766",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES",
+      "game_id": "60277",
+      "game_version": "fe8ee2772",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ODDS HILO",
+      "game_id": "602842",
+      "game_version": "ac505a231",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKO MEGA WIN",
+      "game_id": "60274",
+      "game_version": "598b1c0e2",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKO UFO",
+      "game_id": "60272",
+      "game_version": "b22a29eba",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKOS",
+      "game_id": "60276",
+      "game_version": "224d516d7",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYAL TIGER BACCARAT",
+      "game_id": "602843",
+      "game_version": "9f38d355",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BLACKJACK",
+      "game_id": "602848",
+      "game_version": "924f9a020",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TAI XIU",
+      "game_id": "602832",
+      "game_version": "f077bed1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THAI HILO",
+      "game_id": "602831",
+      "game_version": "0beede74",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THUNDER DICE",
+      "game_id": "60275",
+      "game_version": "fe8ee2772",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIRTUAL BACCARAT",
+      "game_id": "602821",
+      "game_version": "V.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIRTUAL DOMINO QQ",
+      "game_id": "602838",
+      "game_version": "a8002981",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIRTUAL DRAGON BONUS BACCARAT",
+      "game_id": "602841",
+      "game_version": "28bbc62c",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIRTUAL TIGER BACCARAT",
+      "game_id": "602840",
+      "game_version": "db55e2c7",
+      "game_type": "TABLE"
+    }
+  ]
+}

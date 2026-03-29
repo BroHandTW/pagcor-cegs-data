@@ -1,0 +1,32 @@
+{
+  "provider": "GVI",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GVI.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 3,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JET RUSH",
+      "game_id": "JET RUSH - 20250217",
+      "game_version": "",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 2,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "COLOR GAME BONANZA",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "PISOLUCK",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    }
+  ]
+}

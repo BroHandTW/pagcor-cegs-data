@@ -1,0 +1,24 @@
+{
+  "provider": "TWAIN SPORTS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/TWAIN-SPORTS.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 2,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "T-BASKET 24/7",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 2,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "T-KICK 24/7",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    }
+  ]
+}

@@ -1,0 +1,1744 @@
+{
+  "provider": "JILI",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/JILI.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 217,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BINGO ADVENTURE",
+      "game_id": "177",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 2,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BINGO CARNAVAL",
+      "game_id": "148",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 3,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "CALACA BINGO",
+      "game_id": "149",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 4,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "CANDYLAND BINGO",
+      "game_id": "216",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 5,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "FORTUNE BINGO",
+      "game_id": "139",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 6,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "GO GOAL BINGO",
+      "game_id": "178",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 7,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "IRICH BINGO",
+      "game_id": "122",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 8,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "JACKPOT BINGO",
+      "game_id": "174",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 9,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "LUCKY BINGO",
+      "game_id": "150",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 10,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "MAGIC LAMP BINGO",
+      "game_id": "217",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 11,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "PEARLS OF BINGO",
+      "game_id": "195",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 12,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "SUPER BINGO",
+      "game_id": "151",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 13,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "WEST HUNTER BINGO",
+      "game_id": "173",
+      "game_version": "V. 1",
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "10 SPARKLING CROWN",
+      "game_id": "526",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 CHARGE BUFFALO",
+      "game_id": "460",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 COIN TREASURES",
+      "game_id": "399",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 COIN TREASURES 2",
+      "game_id": "472",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 COIN WILD HORSE",
+      "game_id": "485",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 LUCKY LIONS",
+      "game_id": "463",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 LUCKY PIGGY",
+      "game_id": "400",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 POTS DRAGONS",
+      "game_id": "372",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "7 UP 7 DOWN (EXTRA PAY)",
+      "game_id": "124",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AGENT ACE",
+      "game_id": "115",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AK47",
+      "game_id": "75",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALI BABA",
+      "game_id": "110",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALL STAR FISHING",
+      "game_id": "119",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANDAR BAHAR",
+      "game_id": "79",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARENA FIGHTER",
+      "game_id": "228",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AZTEC PRIESTESS",
+      "game_id": "209",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "152",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BANGLA BEAUTY",
+      "game_id": "238",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAO BOON CHIN",
+      "game_id": "36",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG SMALL",
+      "game_id": "118",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIKINI LADY",
+      "game_id": "423",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK",
+      "game_id": "219",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK LUCKY LADIES",
+      "game_id": "220",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOMBING FISHING",
+      "game_id": "20",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONE FORTUNE",
+      "game_id": "126",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONUS HUNTER",
+      "game_id": "142",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF GOLD",
+      "game_id": "87",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOM LEGEND",
+      "game_id": "71",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOXING KING",
+      "game_id": "77",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUBBLE BEAUTY",
+      "game_id": "30",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CALLBREAK",
+      "game_id": "127",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CALLBREAK QUICK",
+      "game_id": "160",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY BABY",
+      "game_id": "23",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CARIBBEAN STUD POKER",
+      "game_id": "231 -",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHARGE BUFFALO",
+      "game_id": "47",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHARGE BUFFALO ASCENT",
+      "game_id": "259",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHIN SHI HUANG",
+      "game_id": "2",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CIRCUS JOKER 4096",
+      "game_id": "518",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COIN TREE",
+      "game_id": "392",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR GAME",
+      "game_id": "197",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR GAME EXTREME",
+      "game_id": "479",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR PREDICTION",
+      "game_id": "204",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH BONUS",
+      "game_id": "261",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH CRICKET",
+      "game_id": "469",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 58,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH GOAL",
+      "game_id": "407",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 59,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH TOUCHDOWN",
+      "game_id": "459",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 60,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY 777",
+      "game_id": "35",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY FAFAFA",
+      "game_id": "40",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 62,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY HUNTER",
+      "game_id": "92",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 63,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY HUNTER 2",
+      "game_id": "420",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 64,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY PUSHER",
+      "game_id": "153",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 65,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY777 2",
+      "game_id": "504",
+      "game_version": "V.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 66,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRICKET KING 18",
+      "game_id": "225",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 67,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRICKET ROULETTE",
+      "game_id": "462",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 68,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRICKET SAH 75",
+      "game_id": "230",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 69,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRICKET WAR",
+      "game_id": "473",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 70,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DABANGGG",
+      "game_id": "239",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 71,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEVIL FIRE",
+      "game_id": "193",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 72,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEVIL FIRE 2",
+      "game_id": "258",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 73,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND PARTY",
+      "game_id": "44",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 74,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DINOSAUR TYCOON",
+      "game_id": "42",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 75,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DINOSAUR TYCOON II",
+      "game_id": "212",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 76,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOMINO GO",
+      "game_id": "327",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 77,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON & TIGER (EXTRA PAY)",
+      "game_id": "123",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 78,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON FORTUNE",
+      "game_id": "60",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 79,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TREASURE",
+      "game_id": "46",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 80,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EGYPT'S GLOW",
+      "game_id": "264",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 81,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ELF BINGO",
+      "game_id": "172",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 82,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EUROPEAN ROULETTE",
+      "game_id": "114",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 83,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FA FA FA",
+      "game_id": "21",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 84,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FENG SHEN",
+      "game_id": "38",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 85,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FISH PRAWN CRAB",
+      "game_id": "389",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 86,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE COINS (LOCK AND RESPIN)",
+      "game_id": "573",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 87,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE COINS 2 (HIT THE CASH)",
+      "game_id": "573",
+      "game_version": "V.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 88,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE GEMS",
+      "game_id": "109",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 89,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE GEMS 2",
+      "game_id": "223",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 90,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE GEMS 3",
+      "game_id": "540",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 91,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE GEMS 500",
+      "game_id": "540",
+      "game_version": "V.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 92,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE GEMS SCRATCH",
+      "game_id": "441",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 93,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE HOOK",
+      "game_id": "393",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 94,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE KING JACKPOT",
+      "game_id": "464",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 95,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE MONKEY",
+      "game_id": "303",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 96,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE PIG",
+      "game_id": "33",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 97,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE ROULETTE",
+      "game_id": "436",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 98,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE TREE",
+      "game_id": "6",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 99,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE ZOMBIE",
+      "game_id": "531",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 100,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUITY WHEEL",
+      "game_id": "422",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 101,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GO RUSH",
+      "game_id": "224",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 102,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOD OF MARTIAL",
+      "game_id": "4",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 103,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD RUSH",
+      "game_id": "137",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 104,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN BANK",
+      "game_id": "45",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 105,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN BANK 2",
+      "game_id": "378",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 106,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN EMPIRE",
+      "game_id": "103",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 107,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN EMPIRE 2",
+      "game_id": "424",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 108,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN JOKER",
+      "game_id": "183",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 109,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN LAND",
+      "game_id": "182",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 110,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN QUEEN",
+      "game_id": "58",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 111,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN TEMPLE",
+      "game_id": "191",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 112,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN TREASURE",
+      "game_id": "554",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 113,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAPPY FISHING",
+      "game_id": "82",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 114,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAPPY TAXI",
+      "game_id": "116",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 115,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAWAII BEAUTY",
+      "game_id": "26",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 116,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HILO",
+      "game_id": "233",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 117,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT CHILI",
+      "game_id": "5",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 118,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HYPER BURST",
+      "game_id": "14",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 119,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JACKPOT FISHING",
+      "game_id": "32",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 120,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JACKPOT JOKER",
+      "game_id": "301",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 121,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JACKPOT JOKER FEVER",
+      "game_id": "605",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 122,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JHANDI MUNDA",
+      "game_id": "397",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 123,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JILI CAISHEN",
+      "game_id": "144",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 124,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOGO DO BICHO",
+      "game_id": "297",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 125,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOURNEY WEST M",
+      "game_id": "112",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 126,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUNGLE KING",
+      "game_id": "16",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 127,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING ARTHUR",
+      "game_id": "214",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 128,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGACY OF EGYPT",
+      "game_id": "180",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 129,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIMBO",
+      "game_id": "235",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 130,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY BALL",
+      "game_id": "13",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 131,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY COMING",
+      "game_id": "91",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 132,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY DOGGY",
+      "game_id": "374",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 133,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY GOLD BRICKS",
+      "game_id": "48",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 134,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY JAGUAR",
+      "game_id": "421",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 135,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUDO QUICK",
+      "game_id": "163",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 136,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAGIC LAMP",
+      "game_id": "108",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 137,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MASTER TIGER",
+      "game_id": "176",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 138,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYAN EMPIRE",
+      "game_id": "135",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 139,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEDUSA",
+      "game_id": "101",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 140,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA ACE",
+      "game_id": "134",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 141,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FISHING",
+      "game_id": "74",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 142,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES",
+      "game_id": "229",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 143,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES GOLD",
+      "game_id": "254",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 144,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES GRAND",
+      "game_id": "546",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 145,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINI FLUSH",
+      "game_id": "221",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 146,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY COMING",
+      "game_id": "51",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 147,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY COMING 2",
+      "game_id": "543",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 148,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY COMING EXPAND BETS",
+      "game_id": "302",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 149,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY POT",
+      "game_id": "379",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 150,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEKO FORTUNE",
+      "game_id": "145",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 151,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NIGHT CITY",
+      "game_id": "37",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 152,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NIGHTFALL HUNTING",
+      "game_id": "324",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 153,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OCEAN KING JACKPOT",
+      "game_id": "289",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 154,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PAPPU",
+      "game_id": "200",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 155,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PARTY NIGHT",
+      "game_id": "76",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 156,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PARTY STAR",
+      "game_id": "240",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 157,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PENALTY KICKS",
+      "game_id": "419",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 158,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHARAOH TREASURE",
+      "game_id": "85",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 159,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIRATE QUEEN",
+      "game_id": "164",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 160,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIRATE QUEEN 2",
+      "game_id": "461",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 161,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKO",
+      "game_id": "242",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 162,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POKER KING",
+      "game_id": "113",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 163,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POOL RUMMY",
+      "game_id": "132",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 164,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POSEIDON",
+      "game_id": "375",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 165,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POTION WIZARD",
+      "game_id": "299",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 166,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PUSOY GO",
+      "game_id": "211",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 167,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAPID GEMS 777",
+      "game_id": "448",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 168,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMA X",
+      "game_id": "102",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 169,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROMA X DELUXE",
+      "game_id": "517",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 170,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYAL FISHING",
+      "game_id": "1",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 171,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RUMMY",
+      "game_id": "94",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 172,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAFARI MYSTERY",
+      "game_id": "377",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 173,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAMBA",
+      "game_id": "136",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 174,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SECRET TREASURE",
+      "game_id": "78",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 175,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SEVEN SEVEN SEVEN",
+      "game_id": "27",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 176,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHANGHAI BEAUTY",
+      "game_id": "17",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 177,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHOGUN",
+      "game_id": "376",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 178,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIC BO (EXTRA PAY)",
+      "game_id": "125",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 179,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIN CITY",
+      "game_id": "171",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 180,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BACCARAT",
+      "game_id": "262",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 181,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE",
+      "game_id": "49",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 182,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE 2",
+      "game_id": "542",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 183,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE DELUXE",
+      "game_id": "403",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 184,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE JOKER",
+      "game_id": "409",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 185,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE SCRATCH",
+      "game_id": "439",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 186,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER RICH",
+      "game_id": "100",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 187,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET LAND",
+      "game_id": "198",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 188,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET MAGIC",
+      "game_id": "394",
+      "game_version": "V.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 189,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEEN PATTI",
+      "game_id": "72",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 190,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEEN PATTI 20-20",
+      "game_id": "161",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 191,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEEN PATTI JOKER",
+      "game_id": "159",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 192,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THAI HILO",
+      "game_id": "427",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 193,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE PIG HOUSE",
+      "game_id": "263",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 194,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THOR X",
+      "game_id": "130",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 195,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TONGITS GO",
+      "game_id": "199",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 196,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TOWER",
+      "game_id": "232",
+      "game_version": "V. 1",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 197,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURE QUEST",
+      "game_id": "307",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 198,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIAL OF PHOENIX",
+      "game_id": "208",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 199,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TWIN WINS",
+      "game_id": "106",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 200,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ULTIMATE TEXAS HOLDEM",
+      "game_id": "404",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 201,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIDEO POKER",
+      "game_id": "253",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 202,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WAR OF DRAGONS",
+      "game_id": "9",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 203,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WHEEL",
+      "game_id": "236",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 204,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD ACE",
+      "game_id": "181",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 205,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD RACER",
+      "game_id": "166",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 206,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WIN DROP",
+      "game_id": "179",
+      "game_version": "V. 1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 207,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WITCHES NIGHT",
+      "game_id": "226",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 208,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WORLD CUP",
+      "game_id": "146",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 209,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "XIYANGYANG",
+      "game_id": "43",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 210,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZEUS",
+      "game_id": "252",
+      "game_version": "V. 1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 211,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "BOXING EXTRAVAGANZA",
+      "game_id": "440",
+      "game_version": "V. 1",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 212,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "GO FOR CHAMPION",
+      "game_id": "442",
+      "game_version": "V. 1",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 213,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "KENO",
+      "game_id": "241",
+      "game_version": "V. 1",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 214,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "KENO BONUS NUMBER",
+      "game_id": "272",
+      "game_version": "V. 1",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 215,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "KENO EXTRA BET",
+      "game_id": "274",
+      "game_version": "V. 1",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 216,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "KENO SUPER CHANCE",
+      "game_id": "273",
+      "game_version": "V. 1",
+      "game_type": "NUMERIC"
+    },
+    {
+      "no": 217,
+      "game_offering": "NUMERIC GAMES",
+      "game_name": "NUMBER KING",
+      "game_id": "111",
+      "game_version": "V. 1",
+      "game_type": "NUMERIC"
+    }
+  ]
+}

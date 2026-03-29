@@ -1,0 +1,1456 @@
+{
+  "provider": "YGGDRASIL",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/YGGDRASIL.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 181,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "10000 BC DOUBLEMAX",
+      "game_id": "10464",
+      "game_version": "2.81",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "2 SWEET 4 U",
+      "game_id": "10589",
+      "game_version": "2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "24K GOLD JAILBREAK",
+      "game_id": "10583",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 LUCKY LEPRECHAUNS",
+      "game_id": "10384",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 LUCKY WITCHES",
+      "game_id": "10469",
+      "game_version": "2.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "4 FANTASTIC FISH",
+      "game_id": "10235",
+      "game_version": "2.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "4 FANTASTIC FISH GIGABLOX",
+      "game_id": "10491",
+      "game_version": "2.85",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "4K ULTRA GOLD",
+      "game_id": "10524",
+      "game_version": "2.88",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "5 SEVENS HOLD AND WIN",
+      "game_id": "10528",
+      "game_version": "2.86",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "60 SECOND HEIST",
+      "game_id": "10223",
+      "game_version": "2.68",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "7 GOLD GIGABLOX",
+      "game_id": "10305",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "777 VOLT",
+      "game_id": "10570",
+      "game_version": "2.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "7X7 ZEUS",
+      "game_id": "10572",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "8 BALLS OF FIRE",
+      "game_id": "10456",
+      "game_version": "2.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "90K YETI GIGABLOX",
+      "game_id": "10054",
+      "game_version": "2.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AGE OF BEASTS INFINITY REELS",
+      "game_id": "10208",
+      "game_version": "2.66",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANIMAFIA",
+      "game_id": "10483",
+      "game_version": "2.83",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "APHRODITE GOES WILD",
+      "game_id": "10509",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARCTIC CATCH",
+      "game_id": "10479",
+      "game_version": "2.84",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARCTIC SORCERER GIGABLOX",
+      "game_id": "10303",
+      "game_version": "2.73",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARMAGEDDON 10K WAYS",
+      "game_id": "10559",
+      "game_version": "2.89",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARRR! 10K WAYS",
+      "game_id": "10247",
+      "game_version": "2.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ARTHUR'S FORTUNE",
+      "game_id": "10160",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ATTACK OF THE ZOMBEES WILDENERGY",
+      "game_id": "10558",
+      "game_version": "2.92",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BADGER MINERS",
+      "game_id": "10447",
+      "game_version": "2.79",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BANANAZ 10K WAYS",
+      "game_id": "10096",
+      "game_version": "2.68",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BARBAROSSA",
+      "game_id": "10436",
+      "game_version": "2.77",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BARBAROSSA REVENGE",
+      "game_id": "10606",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BEASTY BLOX GIGABLOX",
+      "game_id": "10451",
+      "game_version": "2.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BENJI BONANZA",
+      "game_id": "10234",
+      "game_version": "2.96",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BENJI'S BACK WILDWAYS",
+      "game_id": "10596",
+      "game_version": "2.96",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BUCKS BUFFALO GIGABLOX",
+      "game_id": "10403",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG GAME FISHING TOPHIT",
+      "game_id": "10556",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG TOP TERROR",
+      "game_id": "10576",
+      "game_version": "2.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BISON WILDS DOUBLEMAX",
+      "game_id": "10552",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLOOD MOON WILDS",
+      "game_id": "10161",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOILIN' POTS",
+      "game_id": "10255",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK EXTREME",
+      "game_id": "10590",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK HOTFIRE",
+      "game_id": "10285",
+      "game_version": "2.75",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF BLARNEY GIGABLOX",
+      "game_id": "10499",
+      "game_version": "2.86",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF BOOKS",
+      "game_id": "10405",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF EVIL",
+      "game_id": "10542",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUCKS AND DOE 10K WAYS",
+      "game_id": "10453",
+      "game_version": "2.79",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUGS MONEY",
+      "game_id": "10394",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BURNING BLOX GIGABLOX",
+      "game_id": "10465",
+      "game_version": "2.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CALAVERA CRUSH",
+      "game_id": "10292",
+      "game_version": "2.73",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAZINO COSMOS",
+      "game_id": "10142",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAZINO ZEPPELIN RELOADED",
+      "game_id": "10188",
+      "game_version": "2.67",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHAMPIONS OF ROME",
+      "game_id": "10158",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHILLI CHAMPIONS ULTRAHITZ",
+      "game_id": "10562",
+      "game_version": "2.92",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHRISTMAS PLAZA DOUBLEMAX",
+      "game_id": "10366",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DESPERATE DAWGS 2 GIGABLOX",
+      "game_id": "10304",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEVOUR THE WEAK",
+      "game_id": "10400",
+      "game_version": "2.78",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND MINER DUOMAX",
+      "game_id": "10527",
+      "game_version": "2.89",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND SYMPHONY DOUBLEMAX",
+      "game_id": "10425",
+      "game_version": "2.79",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOLPHIN HOT 1",
+      "game_id": "10603",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE FRUIT FRENZY DOUBLEMAX",
+      "game_id": "10575",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 58,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DOUBLE LUCKY MUSHROOMS DOUBLEMAX",
+      "game_id": "10321",
+      "game_version": "2.75",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 59,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON BLOX GIGABLOX",
+      "game_id": "10383",
+      "game_version": "2.75",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 60,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON LORE GIGARISE",
+      "game_id": "10371",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DUBLIN UP DOUBLEMAX",
+      "game_id": "10262",
+      "game_version": "2.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 62,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DUNGEON TOWER MULTIMAX",
+      "game_id": "10326",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 63,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EASTER ISLAND",
+      "game_id": "10072",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 64,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "E-FORCE",
+      "game_id": "10380",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 65,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EXCALIBUR VS GIGABLOX",
+      "game_id": "10470",
+      "game_version": "2.83",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 66,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EYE OF PERSIA 2",
+      "game_id": "10250",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 67,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FAST FRUITS DOUBLEMAX",
+      "game_id": "10443",
+      "game_version": "2.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 68,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FATZ'S DINER",
+      "game_id": "10458",
+      "game_version": "2.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 69,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FESTIVAL 10K WAYS",
+      "game_id": "10376",
+      "game_version": "2.75",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 70,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIREKICK! MULTIMAX",
+      "game_id": "10327",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 71,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FLORAGEDDON!",
+      "game_id": "10290",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 72,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FROZEN AGE",
+      "game_id": "10501",
+      "game_version": "2.85",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 73,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FRUIT COMBINATOR",
+      "game_id": "10418",
+      "game_version": "2.77",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 74,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FURY OF HYDE MEGAWAYS",
+      "game_id": "10374",
+      "game_version": "2.79",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 75,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GATES OF THUNDER",
+      "game_id": "10539",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 76,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM ROCKS",
+      "game_id": "10133",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 77,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEMS INFINITY REELS",
+      "game_id": "10182",
+      "game_version": "2.64",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 78,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GHOST FATHER",
+      "game_id": "10520",
+      "game_version": "2.86",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 79,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GIGA BASS GIGABLOX",
+      "game_id": "10621",
+      "game_version": "2.97",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 80,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GIGAGONG GIGABLOX",
+      "game_id": "10472",
+      "game_version": "2.81",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 81,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GIGANIMALS GIGABLOX",
+      "game_id": "10417",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 82,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOBLIN’S BARGAIN MULTIMAX",
+      "game_id": "10547",
+      "game_version": "2.88",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 83,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GODS VS GIGABLOX",
+      "game_id": "10324",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 84,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD FEVER",
+      "game_id": "10410",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 85,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN DONKEY XMAS",
+      "game_id": "10591",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 86,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN FISH TANK",
+      "game_id": "10169",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 87,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN FISH TANK 2 GIGABLOX",
+      "game_id": "7409",
+      "game_version": "2.79",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 88,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GREEDY ALICE",
+      "game_id": "10627",
+      "game_version": "2.97",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 89,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GUNPOWDER",
+      "game_id": "10519",
+      "game_version": "2.88",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 90,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HADES GIGABLOX",
+      "game_id": "10125",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 91,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HELL'S HOGS",
+      "game_id": "10232",
+      "game_version": "2.69",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 92,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HELL'S HOGS 2 SQUEALIN' WHEELS",
+      "game_id": "10531",
+      "game_version": "2.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 93,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HERCULES 10K WAYS",
+      "game_id": "10467",
+      "game_version": "2.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 94,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HIDDEN EGYPT DOUBLEMAX",
+      "game_id": "10526",
+      "game_version": "2.89",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 95,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HILLBILLY VEGAS",
+      "game_id": "10284",
+      "game_version": "2.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 96,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HYPER RESPINS",
+      "game_id": "10401",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 97,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HYPERBURST",
+      "game_id": "10144",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 98,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HYPERNOVA 10K WAYS",
+      "game_id": "10171",
+      "game_version": "2.65",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 99,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JEKYLLZ WILD ULTRANUDGE",
+      "game_id": "10310",
+      "game_version": "2.73",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 100,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JELLYCIOUS",
+      "game_id": "10517",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 101,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOHNAN LEGENDARIAN",
+      "game_id": "1032",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 102,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JOKRZ WILD ULTRANUDGE",
+      "game_id": "10227",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 103,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUICED DUOMAX",
+      "game_id": "10493",
+      "game_version": "2.84",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 104,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUMBO JELLIES",
+      "game_id": "10199",
+      "game_version": "2.66",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 105,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING ARTHUR 10K WAYS",
+      "game_id": "10496",
+      "game_version": "2.85",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 106,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LADY MERLIN MULTIMAX",
+      "game_id": "10379",
+      "game_version": "2.76",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 107,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGEND OF DRAGON WINS",
+      "game_id": "10475",
+      "game_version": "2.84",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 108,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIONS GIGABLOX",
+      "game_id": "10569",
+      "game_version": "2.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 109,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOLLIPOP DROP MULTIMAX",
+      "game_id": "10601",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 110,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY NEKO",
+      "game_id": "10124",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 111,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYAN TEMPLE RICHES",
+      "game_id": "10577",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 112,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA CASH STACKS",
+      "game_id": "10288",
+      "game_version": "2.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 113,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA PEARL GIGABLOX",
+      "game_id": "10243",
+      "game_version": "2.69",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 114,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEXOMAX! MULTIMAX",
+      "game_id": "10260",
+      "game_version": "2.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 115,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONEY MARIACHI INFINITY REELS",
+      "game_id": "10211",
+      "game_version": "2.67",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 116,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONKEYS GO BANANAS",
+      "game_id": "10514",
+      "game_version": "2.89",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 117,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONSTER BLOX GIGABLOX",
+      "game_id": "10181",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 118,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MULTIFLY!",
+      "game_id": "10122",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 119,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUTAGENES",
+      "game_id": "10534",
+      "game_version": "2.92",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 120,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MUTANT TRAWLERS",
+      "game_id": "10500",
+      "game_version": "2.88",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 121,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MYSTIC MAGIC",
+      "game_id": "10582",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 122,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEON VILLAINS DOUBLEMAX",
+      "game_id": "10287",
+      "game_version": "2.75",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 123,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NICE CATCH 2",
+      "game_id": "10477",
+      "game_version": "2.85",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 124,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NICE CATCH DOUBLEMAX",
+      "game_id": "10409",
+      "game_version": "2.78",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 125,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NOTRE-DAME TALES",
+      "game_id": "10455",
+      "game_version": "2.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 126,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ODIN LIGHTNING BLITZ",
+      "game_id": "10574",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 127,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OF SABERS AND MONSTERS WILD FIGHT",
+      "game_id": "10280",
+      "game_version": "2.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 128,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ORCA'S WILD BONANZA",
+      "game_id": "10408",
+      "game_version": "2.78",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 129,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PHARAOH’S GAZE DOUBLEMAX",
+      "game_id": "10372",
+      "game_version": "2.75",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 130,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PROFESSOR CLANKS COMBINATOR",
+      "game_id": "10252",
+      "game_version": "2.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 131,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PUMPKIN SMASH",
+      "game_id": "10134",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 132,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PURRFECT POTIONS",
+      "game_id": "10402",
+      "game_version": "2.77",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 133,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PUSHY CATS",
+      "game_id": "10030",
+      "game_version": "2.68",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 134,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAGNARAVENS",
+      "game_id": "10481",
+      "game_version": "2.87",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 135,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAGNAWOLVES",
+      "game_id": "10399",
+      "game_version": "2.78",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 136,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAINBOW POWER POTZ ULTRANUDGE",
+      "game_id": "10375",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 137,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAINBOW RYAN 2",
+      "game_id": "10506",
+      "game_version": "2.86",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 138,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAMSES RETRO",
+      "game_id": "10605",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 139,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RAPTOR DOUBLEMAX",
+      "game_id": "7408",
+      "game_version": "2.69",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 140,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICHES OF OLYMPUS",
+      "game_id": "10594",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 141,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROAMIN' ROMANS ULTRANUDGE",
+      "game_id": "10461",
+      "game_version": "2.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 142,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROBIN SHERWOOD MARAUDERS",
+      "game_id": "1038",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 143,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROCK STAR SANTA",
+      "game_id": "10489",
+      "game_version": "2.84",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 144,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SAHARA NIGHTS",
+      "game_id": "10157",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 145,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SECRET OF ANUBIS DOUBLEMAX",
+      "game_id": "10449",
+      "game_version": "2.84",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 146,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SECRET RICHES OF THE IRISH",
+      "game_id": "10549",
+      "game_version": "2.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 147,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHAKER CLUB",
+      "game_id": "10431",
+      "game_version": "2.81",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 148,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SHIPWRECKED",
+      "game_id": "10544",
+      "game_version": "2.94",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 149,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIDEWINDER DOUBLEMAX",
+      "game_id": "10478",
+      "game_version": "2.85",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 150,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SILVER'S GOLD POWERLINKS",
+      "game_id": "10571",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 151,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SKYLANTIS 2",
+      "game_id": "10521",
+      "game_version": "2.85",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 152,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPIÑA COLADA",
+      "game_id": "10055",
+      "game_version": "2.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 153,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STARFIRE FORTUNES",
+      "game_id": "10412",
+      "game_version": "2.79",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 154,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR BOMB MULTIBOOST",
+      "game_id": "10484",
+      "game_version": "2.87",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 155,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUNNY SHORES",
+      "game_id": "10131",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 156,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER CASH DROP GIGABLOX",
+      "game_id": "10214",
+      "game_version": "2.68",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 157,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SYNCRONITE",
+      "game_id": "10159",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 158,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEMPERED STEEL",
+      "game_id": "10229",
+      "game_version": "2.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 159,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE LEGEND OF MUSASHI",
+      "game_id": "10377",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 160,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE ONE ARMED BANDIT",
+      "game_id": "10143",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 161,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE RUNEMAKERS DOUBLEMAX",
+      "game_id": "10494",
+      "game_version": "2.85",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 162,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THOR'S HAMMER TIME",
+      "game_id": "10585",
+      "game_version": "2.97",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 163,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THUNDERHAWK",
+      "game_id": "10454",
+      "game_version": "2.79",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 164,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TOWERING PAYS EXCALIBUR",
+      "game_id": "10097",
+      "game_version": "2.67",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 165,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TUMBLE IN THE JUNGLE WILD FIGHT",
+      "game_id": "10548",
+      "game_version": "2.87",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 166,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VALKYRIES",
+      "game_id": "10111",
+      "game_version": "2.67",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 167,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VALLEY OF THE GODS 2",
+      "game_id": "10114",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 168,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VAMPIRE RICHES",
+      "game_id": "10485",
+      "game_version": "2.82",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 169,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VAULT OF FORTUNE",
+      "game_id": "7387",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 170,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIKINGS GO BERZERK: RELOADED",
+      "game_id": "10173",
+      "game_version": "2.68",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 171,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIKINGS GO TO EGYPT",
+      "game_id": "10516",
+      "game_version": "2.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 172,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIKINGS GO TO HELL",
+      "game_id": "10101",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 173,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VIKINGS GO TO VALHALLA",
+      "game_id": "7400",
+      "game_version": "2.69",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 174,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VOODOO HEX",
+      "game_id": "10309",
+      "game_version": "2.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 175,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WATER BLOX GIGABLOX",
+      "game_id": "10239",
+      "game_version": "2.7",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 176,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD DUEL",
+      "game_id": "10231",
+      "game_version": "2.68",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 177,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD FISHIN' WILD WAYS",
+      "game_id": "10298",
+      "game_version": "2.72",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 178,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD ONE",
+      "game_id": "10268",
+      "game_version": "2.71",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 179,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD STORM LEGIONNAIRE",
+      "game_id": "10555",
+      "game_version": "2.9",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 180,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "XIBALBA",
+      "game_id": "10052",
+      "game_version": "2.74",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 181,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "YEAR OF OLYMPIA",
+      "game_id": "10554",
+      "game_version": "2.89",
+      "game_type": "SLOT"
+    }
+  ]
+}

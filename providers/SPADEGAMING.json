@@ -1,0 +1,112 @@
+{
+  "provider": "SPADEGAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/SPADEGAMING.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 13,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "168 FORTUNES",
+      "game_id": "S-FO01",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "5 FORTUNE",
+      "game_id": "S-WM02",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ADVENTURE ICELAND",
+      "game_id": "S-IL02",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG PROSPERITY",
+      "game_id": "S-FC02",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON EMPIRE",
+      "game_id": "S-DE01",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON GOLD",
+      "game_id": "S-DG03",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EMPEROR GATE",
+      "game_id": "S-EG02",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GREAT STARS",
+      "game_id": "S-GS03",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEGENDARY BEASTS SAGA",
+      "game_id": "S-LB01",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY KOI",
+      "game_id": "S-LK01",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY KOI EXCLUSIVE",
+      "game_id": "S-LK02",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANDA OPERA",
+      "game_id": "S-PO02",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POCKET MON GO",
+      "game_id": "S-PO01",
+      "game_version": "",
+      "game_type": "SLOT"
+    }
+  ]
+}

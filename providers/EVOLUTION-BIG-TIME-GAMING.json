@@ -1,0 +1,544 @@
+{
+  "provider": "EVOLUTION: BIG TIME GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EVOLUTION-BIG-TIME-GAMING.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 67,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "APOLLO PAYS",
+      "game_id": "apollopaysv10000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BEEF LIGHTNING",
+      "game_id": "beeflightningv10",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BAD BISON",
+      "game_id": "bigbadbisonv1000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BUCKS DELUXE",
+      "game_id": "bigbucksdeluv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BUCKS DELUXE TAPCARDS",
+      "game_id": "bigbuckstrdsv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONANZA",
+      "game_id": "bonanzav29500000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONANZA FALLS",
+      "game_id": "bonanzafallsv100",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BONANZA TAPCARDS",
+      "game_id": "bonanzatardsv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOO",
+      "game_id": "boov194000000000",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOK OF GODS",
+      "game_id": "bookofgodsv19400",
+      "game_version": "1.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BURGERS",
+      "game_id": "burgersv19400000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASTLE OF TERROR",
+      "game_id": "castleofterrorv1",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASTLE OF TERROR II",
+      "game_id": "castleoftor2v194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHOCOLATES",
+      "game_id": "chocolatesv19400",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHRISTMAS BONANZA",
+      "game_id": "christmasnzav195",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHRISTMAS CATCH",
+      "game_id": "christmascatchv1",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRYSTAL TOWERS",
+      "game_id": "crystaltowerv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CYBERSLOT MEGACLUSTERS",
+      "game_id": "cyberslotersv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DANGER HIGH VOLTAGE",
+      "game_id": "dangerhigagev295",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND FRUITS",
+      "game_id": "diamondfruitsv10",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DONUTS",
+      "game_id": "donutsv100000000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON BORN",
+      "game_id": "dragonbornv19400",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EXTRA CHILLI",
+      "game_id": "extrachilliv2950",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EXTRA CHILLI TAPCARDS",
+      "game_id": "extrachilrdsv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIREWORKS MEGAWAYS",
+      "game_id": "fireworksaysv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FIZZY PENNYSLOT",
+      "game_id": "fizzypennlotv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GIFTS OF FORTUNE",
+      "game_id": "giftsoffounev295",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLD MEGAWAYS",
+      "game_id": "goldmegawaysv100",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN CATCH",
+      "game_id": "goldencatchv1950",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN GOOSE MEGAWAYS",
+      "game_id": "goldengoosemv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOLY DIVER MEGAWAYS",
+      "game_id": "holydiveraysv194",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KING OF CATS",
+      "game_id": "kingofcatsv19400",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KINGMAKER FULLY LOADED",
+      "game_id": "kingmakerdedv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIL DEVIL",
+      "game_id": "lildevilv1000000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY STREAK MK2",
+      "game_id": "luckystremk2v194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAX MEGAWAYS",
+      "game_id": "maxmegawaysv1000",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAX MEGAWAYS 2",
+      "game_id": "maxmegaways2v100",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MILLIONAIRE",
+      "game_id": "millionairev1950",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MILLIONAIRE MYSTERY BOX",
+      "game_id": "millionaiboxv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MILLIONAIRE RUSH",
+      "game_id": "millionaierushv1",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MILLIONAIRE TAPCARDS",
+      "game_id": "millionairdsv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MORE TURKEY",
+      "game_id": "moreturkeyv10000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OPAL FRUITS",
+      "game_id": "opalfruitsv10000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OUTLAW",
+      "game_id": "outlawv100000000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "OVER THE MOON",
+      "game_id": "overthemoonv1000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PANDA MONEY",
+      "game_id": "pandamoneyv19400",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIRATE PAYS",
+      "game_id": "piratepaysv10000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POP",
+      "game_id": "popv100000000000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN OF RICHES",
+      "game_id": "queenofrichev194",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RASPUTIN MEGAWAYS",
+      "game_id": "rasputinmegaways",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 51,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYAL MINT",
+      "game_id": "royalmintv100000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 52,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SANCTUARY",
+      "game_id": "sanctuaryv100000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 53,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SLOT VEGAS - FULLY LOADED",
+      "game_id": "slotvegasoadedv1",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 54,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPICY MEATBALLS",
+      "game_id": "spicymeatllsv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 55,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STAR CLUSTER",
+      "game_id": "starclustersv100",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 56,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STAR CLUSTERS 2",
+      "game_id": "starclustrs2v194",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 57,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEMPLE QUEST SPINFINITY",
+      "game_id": "templequeityv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 58,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE FINAL COUNTDOWN",
+      "game_id": "thefinalcownv194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 59,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE RACE",
+      "game_id": "theracev19500000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 60,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TRIGGER HAPPY",
+      "game_id": "triggerhappyv194",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VEGAS MEGAWAYS",
+      "game_id": "vegasmegawaysv10",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 62,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VEGAS RUSH",
+      "game_id": "vegasrushv100000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 63,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WHITE RABBIT",
+      "game_id": "whiterabbitv2950",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 64,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WHITE RABBIT 2",
+      "game_id": "whiterabbit2v194",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 65,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD FLOWER",
+      "game_id": "wildflowerv10000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 66,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD PORTALS",
+      "game_id": "wildportalsv1000",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 67,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD UNICORNS",
+      "game_id": "wildunicornsv100",
+      "game_version": "1.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

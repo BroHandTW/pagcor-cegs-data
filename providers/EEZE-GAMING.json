@@ -1,0 +1,96 @@
+{
+  "provider": "EEZE GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EEZE-GAMING.pdf",
+  "last_updated": "March 19, 2026",
+  "total_games": 11,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMOND SYNDICATE",
+      "game_id": "SL21",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FREAKY FRANKY",
+      "game_id": "SL39",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KNIGHT VS DRAGON",
+      "game_id": "SL7",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICH GARDEN",
+      "game_id": "SL3",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RISING STARS",
+      "game_id": "SL38",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROYAL SIEGE",
+      "game_id": "SL34",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIC BO",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE EGYPTIAN ANIMAL",
+      "game_id": "SL37",
+      "game_version": "",
+      "game_type": "SLOT"
+    }
+  ]
+}

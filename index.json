@@ -5,18 +5,13 @@
   "providers": [
     {
       "name": "5G GAMES",
-      "file": "5-GAMES.json",
+      "file": "5G-GAMES.json",
       "total_games": 37
     },
     {
       "name": "ACEWIN GAMING",
       "file": "ACEWIN-GAMING.json",
       "total_games": 19
-    },
-    {
-      "name": "ADVANTPLAY",
-      "file": "ADVANTPLAY.json",
-      "total_games": 52
     },
     {
       "name": "ALFASTREET",
@@ -44,8 +39,8 @@
       "total_games": 95
     },
     {
-      "name": "BOONGO",
-      "file": "BOONGO.json",
+      "name": "BOOONGO (BNG)",
+      "file": "BOOONGO.json",
       "total_games": 13
     },
     {
@@ -54,17 +49,12 @@
       "total_games": 14
     },
     {
-      "name": "COMBO GAMING",
-      "file": "COMBO_GAMING.json",
-      "total_games": 5
-    },
-    {
       "name": "CQ9",
       "file": "CQ9.json",
       "total_games": 195
     },
     {
-      "name": "DW GAMES",
+      "name": "DW TECHNOLOGIES ASIA INC. / DW GAMES",
       "file": "DW-GAMES.json",
       "total_games": 42
     },
@@ -84,54 +74,14 @@
       "total_games": 138
     },
     {
-      "name": "EGT ESAT",
+      "name": "ESAT PILIPINAS TEKNIK, OPC / ESAT",
       "file": "ESAT.json",
       "total_games": 3
-    },
-    {
-      "name": "EVOLUTION: BIG TIME GAMING",
-      "file": "EVOLUTION-BIG-TIME-GAMING.json",
-      "total_games": 67
-    },
-    {
-      "name": "EVOLUTION: FIRST PERSON",
-      "file": "EVOLUTION-FIRST-PERSON.json",
-      "total_games": 13
-    },
-    {
-      "name": "EVOLUTION: LIVE DEALER",
-      "file": "EVOLUTION-LIVE-DEALER.json",
-      "total_games": 105
-    },
-    {
-      "name": "EVOLUTION: NETENT",
-      "file": "EVOLUTION-NETENT.json",
-      "total_games": 217
-    },
-    {
-      "name": "EVOLUTION: NO LIMIT CITY",
-      "file": "EVOLUTION-NO-LIMIT-CITY.json",
-      "total_games": 115
-    },
-    {
-      "name": "EVOLUTION: RED TIGER",
-      "file": "EVOLUTION-RED-TIGER.json",
-      "total_games": 349
-    },
-    {
-      "name": "EVOLUTION: TAP-A-ROO",
-      "file": "EVOLUTION-TAP-A-ROO.json",
-      "total_games": 6
     },
     {
       "name": "EVOPLAY",
       "file": "EVOPLAY.json",
       "total_games": 95
-    },
-    {
-      "name": "FA CHAI (FC)",
-      "file": "FA-CHAI.json",
-      "total_games": 70
     },
     {
       "name": "FASTSPIN",
@@ -149,27 +99,62 @@
       "total_games": 82
     },
     {
+      "name": "GALATIC EVENTS CORP. / FA CHAI",
+      "file": "FA-CHAI.json",
+      "total_games": 70
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / JDB",
+      "file": "JDB.json",
+      "total_games": 108
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / OMNIPLAY",
+      "file": "OMNIPLAY.json",
+      "total_games": 10
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / VERTEXPLAY",
+      "file": "VERTEXPLAY.json",
+      "total_games": 27
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / YELLOW BAT",
+      "file": "YELLOW-BAT.json",
+      "total_games": 51
+    },
+    {
       "name": "GALAXSYS",
       "file": "GALAXSYS.json",
       "total_games": 18
     },
     {
-      "name": "GAMEZONE",
-      "file": "GAMEZONE.json",
-      "total_games": 12
+      "name": "GAMESPHERE SOLUTIONS, INC. / ADVANTPLAY",
+      "file": "ADVANTPLAY.json",
+      "total_games": 52
     },
     {
-      "name": "GAMING ANDA",
-      "file": "GAMING-ANDA.json",
+      "name": "GAMESPHERE SOLUTIONS, INC. / MI SLOTS",
+      "file": "MI-SLOTS.json",
+      "total_games": 4
+    },
+    {
+      "name": "GAMESPHERE SOLUTIONS, INC. / VICTORY ARK GAMING",
+      "file": "VICTORY-ARK-GAMING.json",
+      "total_games": 42
+    },
+    {
+      "name": "GAMING PANDA",
+      "file": "GAMING-PANDA.json",
       "total_games": 9
     },
     {
-      "name": "GEM GAMES",
-      "file": "GEM-GAMES.json",
-      "total_games": 20
+      "name": "GAVIN VENTURES INC. / GVI",
+      "file": "GVI.json",
+      "total_games": 3
     },
     {
-      "name": "GEMINI",
+      "name": "GEMINI GAMING MANAGEMENT CORPORATION / GEMINI",
       "file": "GEMINI.json",
       "total_games": 36
     },
@@ -177,11 +162,6 @@
       "name": "GIOCO",
       "file": "GIOCO.json",
       "total_games": 2
-    },
-    {
-      "name": "GVI",
-      "file": "GVI.json",
-      "total_games": 3
     },
     {
       "name": "HABANERO",
@@ -194,14 +174,14 @@
       "total_games": 156
     },
     {
-      "name": "INPLAY-MATRIX",
-      "file": "INPLAY-MATRIX.json",
+      "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / SPIN MASTER",
+      "file": "SPIN-MASTER.json",
       "total_games": 35
     },
     {
-      "name": "JDB",
-      "file": "JDB.json",
-      "total_games": 108
+      "name": "INPLAY MATRIX",
+      "file": "INPLAY-MATRIX.json",
+      "total_games": 35
     },
     {
       "name": "JILI",
@@ -209,39 +189,34 @@
       "total_games": 217
     },
     {
-      "name": "JK8",
+      "name": "JK8 IT SOLUTIONS DEVELOPMENT AND SERVICES INC. / JK8",
       "file": "JK8.json",
       "total_games": 1
     },
     {
-      "name": "LIGHT AND WONDER",
+      "name": "LIGHT AND WONDER SERVICES PHILIPPINES, INC. / LIGHT AND WONDER",
       "file": "LIGHT-AND-WONDER.json",
       "total_games": 34
     },
     {
-      "name": "LIGHT AND WONDER ELK STUDIOS",
+      "name": "LIGHT AND WONDER SERVICES PHILIPPINES, INC. / LIGHT AND WONDER - ELK STUDIOS",
       "file": "LIGHT-AND-WONDER-ELK-STUDIOS.json",
       "total_games": 22
     },
     {
-      "name": "LUCKY365",
-      "file": "LUCKY365.json",
-      "total_games": 4
-    },
-    {
-      "name": "MARBOYS88",
+      "name": "MARBOYS88 CORPORATION / MARBOYS88",
       "file": "MARBOYS88.json",
       "total_games": 1
     },
     {
-      "name": "MI SLOTS",
-      "file": "MI-SLOTS.json",
-      "total_games": 4
-    },
-    {
-      "name": "NEMO-IG",
+      "name": "NEMO INTERACTIVE GROUP CORPORATION / NEMO-IG",
       "file": "NEMO-IG.json",
       "total_games": 7
+    },
+    {
+      "name": "NEXTPLAY INTERNATIONAL INC. / TAISHAN",
+      "file": "TAISHAN.json",
+      "total_games": 4
     },
     {
       "name": "NSOFT",
@@ -254,9 +229,54 @@
       "total_games": 88
     },
     {
-      "name": "OMNIPLAY",
-      "file": "OMNIPLAY.json",
-      "total_games": 10
+      "name": "ONE VISAYA GAMING CORPORATION / COMBO GAMING",
+      "file": "COMBO-GAMING.json",
+      "total_games": 5
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: BIG TIME GAMING",
+      "file": "EVOLUTION-BIG-TIME-GAMING.json",
+      "total_games": 67
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: FIRST PERSON",
+      "file": "EVOLUTION-FIRST-PERSON.json",
+      "total_games": 13
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: LIVE DEALER GAMES",
+      "file": "EVOLUTION-LIVE-DEALER-GAMES.json",
+      "total_games": 105
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: NETENT",
+      "file": "EVOLUTION-NETENT.json",
+      "total_games": 217
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: NO LIMIT CITY",
+      "file": "EVOLUTION-NO-LIMIT-CITY.json",
+      "total_games": 115
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: RED TIGER",
+      "file": "EVOLUTION-RED-TIGER.json",
+      "total_games": 349
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: TAP-A-ROO",
+      "file": "EVOLUTION-TAP-A-ROO.json",
+      "total_games": 6
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / LUCKY365",
+      "file": "LUCKY365.json",
+      "total_games": 4
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / SEXY CASINO",
+      "file": "SEXY-CASINO.json",
+      "total_games": 2
     },
     {
       "name": "PLAYSTAR",
@@ -269,12 +289,12 @@
       "total_games": 279
     },
     {
-      "name": "POCKET GAMES SOFT (PG SOFT)",
+      "name": "POCKET GAMES SOFT",
       "file": "POCKET-GAMES-SOFT.json",
       "total_games": 162
     },
     {
-      "name": "PRAGMATIC PLAY (PP)",
+      "name": "PRAGMATIC PLAY",
       "file": "PRAGMATIC-PLAY.json",
       "total_games": 416
     },
@@ -284,22 +304,17 @@
       "total_games": 41
     },
     {
-      "name": "PRAGMATIC PLAY LIVE",
+      "name": "PRAGMATIC PLAY (PP): LIVE",
       "file": "PRAGMATIC-PLAY-LIVE.json",
       "total_games": 26
     },
     {
-      "name": "REAL TIME GAMING (RTG)",
+      "name": "REAL TIME GAMING",
       "file": "REAL-TIME-GAMING.json",
       "total_games": 94
     },
     {
-      "name": "REELX",
-      "file": "REELX.json",
-      "total_games": 22
-    },
-    {
-      "name": "RICH88",
+      "name": "RICH 88",
       "file": "RICH-88.json",
       "total_games": 9
     },
@@ -312,11 +327,6 @@
       "name": "SABA SPORTS",
       "file": "SABA-SPORTS.json",
       "total_games": 48
-    },
-    {
-      "name": "SEXY CASINO",
-      "file": "SEXY-CASINO.json",
-      "total_games": 2
     },
     {
       "name": "SIMPLEPLAY",
@@ -334,17 +344,17 @@
       "total_games": 13
     },
     {
-      "name": "SPIN MASTER",
-      "file": "SPIN-MASTER.json",
-      "total_games": 35
+      "name": "TOTAL GAMEZONE XTREME INCORPORATED / GAMEZONE",
+      "file": "GAMEZONE.json",
+      "total_games": 12
     },
     {
-      "name": "TAISHAN",
-      "file": "TAISHAN.json",
-      "total_games": 4
+      "name": "TOTAL GAMEZONE XTREME INCORPORATED / REELX",
+      "file": "REELX.json",
+      "total_games": 22
     },
     {
-      "name": "TRIPLE PROFIT GAMES (TPG)",
+      "name": "TRIPLE PROFIT GAMES",
       "file": "TRIPLE-PROFIT-GAMES.json",
       "total_games": 26
     },
@@ -359,29 +369,19 @@
       "total_games": 4
     },
     {
-      "name": "VERTEXPLAY",
-      "file": "VERTEXPLAY.json",
-      "total_games": 27
+      "name": "WORLD PLATINUM TECHNOLOGIES INC. / GEM GAMES",
+      "file": "GEM-GAMES.json",
+      "total_games": 20
     },
     {
-      "name": "VICTORY-ARK-GAMING",
-      "file": "VICTORY-ARK-GAMING.json",
-      "total_games": 42
-    },
-    {
-      "name": "WE SPORTS",
+      "name": "WORLD PLATINUM TECHNOLOGIES INC. / WE SPORTS",
       "file": "WE-SPORTS.json",
       "total_games": 11
     },
     {
-      "name": "WPTI",
+      "name": "WORLD PLATINUM TECHNOLOGIES INC. / WPTI",
       "file": "WPTI.json",
       "total_games": 17
-    },
-    {
-      "name": "YELLOW BAT (YB)",
-      "file": "YELLOW-BAT.json",
-      "total_games": 51
     },
     {
       "name": "YGGDRASIL",

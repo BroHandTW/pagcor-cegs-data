@@ -1,0 +1,144 @@
+{
+  "provider": "PLAYSON",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PLAYSON.pdf",
+  "last_updated": "May 19, 2026",
+  "total_games": 17,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 POTS RICHES EXTRA: HOLD AND WIN",
+      "game_id": "3pots_extra",
+      "game_version": "71223",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "3 ROYAL COINS: HOLD AND WIN",
+      "game_id": "3_royal_coins",
+      "game_version": "110725",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "4 POTS RICHES: HOLD AND WIN",
+      "game_id": "4_pots_riches",
+      "game_version": "100625",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BURNING FORTUNATOR",
+      "game_id": "burning_fort",
+      "game_version": "231221",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COIN STRIKE 2: HOLD AND WIN",
+      "game_id": "coin_strike_2",
+      "game_version": "210525",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COIN STRIKE: HOLD AND WIN",
+      "game_id": "coin_strike",
+      "game_version": "40821",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CROWN STRIKE: HOLD AND WIN",
+      "game_id": "crown_strike",
+      "game_version": "240725",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMONDS POWER XXL: HOLD AND WIN",
+      "game_id": "diamonds_power_xxl",
+      "game_version": "220925",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIAMONDS POWER: HOLD AND WIN",
+      "game_id": "diamonds_power",
+      "game_version": "40821",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ENERGY COINS: HOLD AND WIN",
+      "game_id": "energy_coins",
+      "game_version": "200122",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN PENNY X1000",
+      "game_id": "golden_penny",
+      "game_version": "30725",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIGGY POWER: HIT THE BONUS",
+      "game_id": "piggy_power",
+      "game_version": "80724",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR TEDDY X1000",
+      "game_id": "sugar_teddy_x1000",
+      "game_version": "31225",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER PINK JOKER: HOLD AND WIN",
+      "game_id": "super_pink_joker",
+      "game_version": "50324",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPERCHARGED CLOVERS: HOLD AND WIN",
+      "game_id": "scharged_clovers",
+      "game_version": "50924",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THUNDER COINS XXL: HOLD AND WIN",
+      "game_id": "thunder_coins_xxl",
+      "game_version": "270325",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THUNDER COINS: HOLD AND WIN",
+      "game_id": "thunder_coins",
+      "game_version": "190424",
+      "game_type": "SLOT"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "provider": "OCTOPLAY: PENGUIN KING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/OCTOPLAY-PENGUIN-KING.pdf",
+  "last_updated": "May 19, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WISH OF A LIFETIME: HOLD & WIN",
+      "game_id": "103155",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

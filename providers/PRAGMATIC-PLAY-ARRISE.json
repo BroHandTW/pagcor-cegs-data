@@ -1,8 +1,8 @@
 {
   "provider": "PRAGMATIC PLAY (PP): ARRISE",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PRAGMATIC-PLAY-ARRISE.pdf",
-  "last_updated": "March 19, 2026",
-  "total_games": 41,
+  "last_updated": "May 19, 2026",
+  "total_games": 43,
   "games": [
     {
       "no": 1,
@@ -159,13 +159,21 @@
     {
       "no": 20,
       "game_offering": "eCASINO GAMES",
+      "game_name": "JELLY EXPRESS",
+      "game_id": "vs20payanyvol",
+      "game_version": "cv113.50724",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
       "game_name": "JOKER’S JEWELS CASH",
       "game_id": "vs5jokerjc",
       "game_version": "cv103.50714",
       "game_type": "SLOT"
     },
     {
-      "no": 21,
+      "no": 22,
       "game_offering": "eCASINO GAMES",
       "game_name": "JUMBO SAFARI",
       "game_id": "vs20jjjack",
@@ -173,7 +181,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 22,
+      "no": 23,
       "game_offering": "eCASINO GAMES",
       "game_name": "LUCKY’S WILD PUB",
       "game_id": "vs25luckwildpb",
@@ -181,7 +189,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 23,
+      "no": 24,
       "game_offering": "eCASINO GAMES",
       "game_name": "MAHJONG WINS SUPER SCATTER",
       "game_id": "vswaysmwss",
@@ -189,7 +197,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 24,
+      "no": 25,
       "game_offering": "eCASINO GAMES",
       "game_name": "MAJESTIC EXPRESS – GOLD RUN",
       "game_id": "vs25goldrexp",
@@ -197,7 +205,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 25,
+      "no": 26,
       "game_offering": "eCASINO GAMES",
       "game_name": "MUMMY’S JEWELS",
       "game_id": "vswaysmjwl",
@@ -205,7 +213,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 26,
+      "no": 27,
       "game_offering": "eCASINO GAMES",
       "game_name": "PLINKO+",
       "game_id": "ar10plinko",
@@ -213,7 +221,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 27,
+      "no": 28,
       "game_offering": "eCASINO GAMES",
       "game_name": "RAGING WATERFALL MEGAWAYS",
       "game_id": "vswaysmltchmgw",
@@ -221,7 +229,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 28,
+      "no": 29,
       "game_offering": "eCASINO GAMES",
       "game_name": "RESURRECTING RICHES",
       "game_id": "vswaysresurich",
@@ -229,7 +237,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 29,
+      "no": 30,
       "game_offering": "eCASINO GAMES",
       "game_name": "RIDE THE LIGHTNING",
       "game_id": "vs9ridelightng",
@@ -237,7 +245,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 30,
+      "no": 31,
       "game_offering": "eCASINO GAMES",
       "game_name": "STARLIGHT PRINCESS SUPER SCATTER",
       "game_id": "vs20starprss",
@@ -245,7 +253,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 31,
+      "no": 32,
       "game_offering": "eCASINO GAMES",
       "game_name": "SWEET RUSH BONANZA",
       "game_id": "vs20swrbon",
@@ -253,7 +261,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 32,
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SWEET BONANZA 2500",
+      "game_id": "vs20swbon2500",
+      "game_version": "cv114.50725",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
       "game_offering": "eCASINO GAMES",
       "game_name": "TEMPLE GUARDIANS",
       "game_id": "vs10diamondrgh",
@@ -261,7 +277,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 33,
+      "no": 35,
       "game_offering": "eCASINO GAMES",
       "game_name": "THE DOG HOUSE - ROYAL HUNT",
       "game_id": "vs20dhsuper",
@@ -269,7 +285,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 34,
+      "no": 36,
       "game_offering": "eCASINO GAMES",
       "game_name": "TRIPLE POT GOLD",
       "game_id": "vswaysasiatrzn",
@@ -277,7 +293,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 35,
+      "no": 37,
       "game_offering": "eCASINO GAMES",
       "game_name": "VOLCANO GODDESS",
       "game_id": "vswaysvlcgds",
@@ -285,7 +301,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 36,
+      "no": 38,
       "game_offering": "eCASINO GAMES",
       "game_name": "WAVES OF POSEIDON",
       "game_id": "vs20bigmass",
@@ -293,7 +309,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 37,
+      "no": 39,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD WEST GOLD BLAZING BOUNTY",
       "game_id": "vs20wwgcluster",
@@ -301,7 +317,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 38,
+      "no": 40,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD WILD JOKER",
       "game_id": "vswayswwjoker",
@@ -309,7 +325,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 39,
+      "no": 41,
       "game_offering": "eCASINO GAMES",
       "game_name": "WITCH HEART MEGAWAYS",
       "game_id": "vswayswildbrst",
@@ -317,7 +333,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 40,
+      "no": 42,
       "game_offering": "eCASINO GAMES",
       "game_name": "YOU CAN PIGGY BANK ON IT",
       "game_id": "vs10piggybank",
@@ -325,7 +341,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 41,
+      "no": 43,
       "game_offering": "eCASINO GAMES",
       "game_name": "ZOMBIE SCHOOL MEGAWAYS",
       "game_id": "vswayspompmr2",

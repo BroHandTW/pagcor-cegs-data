@@ -1,0 +1,24 @@
+{
+  "provider": "KING MIDAS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/KING-MIDAS.pdf",
+  "last_updated": "May 19, 2026",
+  "total_games": 2,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEAR SENPAI",
+      "game_id": "Dear_Senpai",
+      "game_version": "v2.3.15",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FLAME OF FORTUNE",
+      "game_id": "Flame_of_Fortune",
+      "game_version": "v2.3.18",
+      "game_type": "SLOT"
+    }
+  ]
+}

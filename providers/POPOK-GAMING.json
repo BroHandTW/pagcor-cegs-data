@@ -1,0 +1,200 @@
+{
+  "provider": "POPOK GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/POPOK-GAMING.pdf",
+  "last_updated": "May 19, 2026",
+  "total_games": 24,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALPACA PAYS",
+      "game_id": "157",
+      "game_version": "1.1.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AVI",
+      "game_id": "711",
+      "game_version": "1.0.55",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAVALO DE FOGO FORTUNE",
+      "game_id": "294",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH EXTREME",
+      "game_id": "704",
+      "game_version": "1.2.36",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH INFINITY",
+      "game_id": "702",
+      "game_version": "1.2.36",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRAZY POKI",
+      "game_id": "42",
+      "game_version": "1.1.32",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE CRASH",
+      "game_id": "712",
+      "game_version": "1.4.4",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE PANDA",
+      "game_id": "162",
+      "game_version": "1.0.30",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JAGUAR DOJO",
+      "game_id": "234",
+      "game_version": "1.0.75",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LOS TOROS",
+      "game_id": "52",
+      "game_version": "1.1.27",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY SPIN",
+      "game_id": "701",
+      "game_version": "1.2.36",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA DIAMONDS",
+      "game_id": "149",
+      "game_version": "1.0.29",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA JOKER",
+      "game_id": "12",
+      "game_version": "1.1.30",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES",
+      "game_id": "615",
+      "game_version": "1.0.59",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PIRATE FORTUNE",
+      "game_id": "138",
+      "game_version": "1.0.9",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "PLINKO",
+      "game_id": "601",
+      "game_version": "1.1.41",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICO DJ",
+      "game_id": "175",
+      "game_version": "1.1.33",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICO RABBIT",
+      "game_id": "195",
+      "game_version": "1.0.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICO TIGER",
+      "game_id": "203",
+      "game_version": "1.0.33",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "RICO TOUCANO",
+      "game_id": "235",
+      "game_version": "1.0.86",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUMO BABY",
+      "game_id": "163",
+      "game_version": "1.0.63",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIKI QUEST",
+      "game_id": "616",
+      "game_version": "1.1.15",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD SHAMROCK",
+      "game_id": "135",
+      "game_version": "1.0.56",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "YO DRAGON",
+      "game_id": "167",
+      "game_version": "1.0.47",
+      "game_type": "SLOT"
+    }
+  ]
+}

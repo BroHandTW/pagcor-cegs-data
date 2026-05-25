@@ -1,8 +1,8 @@
 {
-  "provider": "LIGHT AND WONDER ELK STUDIOS",
+  "provider": "LIGHT AND WONDER SERVICES PHILIPPINES, INC. / LIGHT AND WONDER - ELK STUDIOS",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/LIGHT-AND-WONDER-ELK-STUDIOS.pdf",
-  "last_updated": "March 19, 2026",
-  "total_games": 22,
+  "last_updated": "May 19, 2026",
+  "total_games": 26,
   "games": [
     {
       "no": 1,
@@ -167,13 +167,45 @@
     {
       "no": 21,
       "game_offering": "eCASINO GAMES",
+      "game_name": "TROPICOOL",
+      "game_id": "10058",
+      "game_version": "114799",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TROPICOOL 2",
+      "game_id": "10189",
+      "game_version": "207822",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TROPICOOL 3",
+      "game_id": "10212",
+      "game_version": "204939",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
       "game_name": "TROPICOOL 4",
       "game_id": "10232",
       "game_version": "246110",
       "game_type": "SLOT"
     },
     {
-      "no": 22,
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TROPICOOL 5",
+      "game_id": "10258",
+      "game_version": "301115",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
       "game_offering": "eCASINO GAMES",
       "game_name": "ZAPLAB",
       "game_id": "10239",

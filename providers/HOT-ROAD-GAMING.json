@@ -1,0 +1,56 @@
+{
+  "provider": "RAC PHIL CORP. / HOT ROAD GAMING (HRG)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/HOT-ROAD-GAMING.pdf",
+  "last_updated": "May 19, 2026",
+  "total_games": 6,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT (COMMISSION)",
+      "game_id": "BACCARAT",
+      "game_version": "02b32135",
+      "game_type": "LIVE TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT (NON-COMMISSION)",
+      "game_id": "LIVE TABLE GAME",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT ROULETTE",
+      "game_id": "HOT_ROULETTE",
+      "game_version": "b5148",
+      "game_type": "LIVE TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOT SICBO",
+      "game_id": "HOT_SICBO",
+      "game_version": "0.4.0.5",
+      "game_type": "LIVE TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "ROULETTE",
+      "game_version": "b5148",
+      "game_type": "LIVE TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIGER BACCARAT",
+      "game_id": "TIGER_BACCARAT",
+      "game_version": "0.4.0.9",
+      "game_type": "LIVE TABLE GAME"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "provider": "PETER SONS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PETER-SONS.pdf",
+  "last_updated": "May 19, 2026",
+  "total_games": 49,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALIBI",
+      "game_id": "alibi",
+      "game_version": "1.0.8",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANIMAFIA",
+      "game_id": "animafia",
+      "game_version": "1.0.93 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BARBAROSSA",
+      "game_id": "barbarossa",
+      "game_version": "1.2.57 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "barbarossa-revenge - 1.0.31 - 15.06.2023",
+      "game_id": "BARBAROSSA REVENGE",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLOOD CLUB",
+      "game_id": "blood-club",
+      "game_version": "1.0.32",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "books-of-books - 1.0.142 - 15.06.2023",
+      "game_id": "BOOK OF BOOKS",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOOM FARM",
+      "game_id": "boom-farm",
+      "game_version": "1.0.26",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CAULDRON",
+      "game_id": "cauldron",
+      "game_version": "1.3.32 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COIN BLOX",
+      "game_id": "coin-blox",
+      "game_version": "1.0.40 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "D'CIRQUE",
+      "game_id": "circus",
+      "game_version": "1.5.40 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIG IT!",
+      "game_id": "dig-it",
+      "game_version": "1.0.4-31.07.2025",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON BLOX",
+      "game_id": "dragon-blox",
+      "game_version": "1.1.42 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DUNGEON TOWER",
+      "game_id": "dungeon",
+      "game_version": "1.1.49 – 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EPIC HELLAS",
+      "game_id": "epic-hellas",
+      "game_version": "1.0.48 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "EVIL DEVIL",
+      "game_id": "evil-devil",
+      "game_version": "1.1.25 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FROZEN AGE",
+      "game_id": "frozen-age",
+      "game_version": "1.0.95 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GHOST FATHER",
+      "game_id": "ghostfather",
+      "game_version": "1.0.84 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GHOSTFATHER - AWAKENED",
+      "game_id": "ghostfather-awakened",
+      "game_version": "1.0.10",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "greedy-alice - 1.0.104 - 15.06.2023",
+      "game_id": "GREEDY ALICE",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GUNPOWDER",
+      "game_id": "gunpowder",
+      "game_version": "1.0.59 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "hammer-of-gods - 1.1.41 - 15.06.2023",
+      "game_id": "HAMMER OF GODS",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "johnan-legendarian - 1.4.49 - 15.06.2023",
+      "game_id": "JOHNAN LEGENDARIAN",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KAISER",
+      "game_id": "kaiser",
+      "game_version": "1.1.22 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONSTER BLOX",
+      "game_id": "monster-blox",
+      "game_version": "1.2.7 - 15.06.2023",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.48 - 15.06.2023",
+      "game_id": "MUDDY WATERS",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.80 - 15.06.2023",
+      "game_id": "MUTAGENES",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.111 - 15.06.2023",
+      "game_id": "PETER HUNTER",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.40 - 15.06.2023",
+      "game_id": "POP COP",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POTION POWER",
+      "game_id": "monster-blox",
+      "game_version": "1.0.12",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.64 - 15.06.2023",
+      "game_id": "PRECIOUS 7",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.5.26 - 15.06.2023",
+      "game_id": "PUNCH CLUB",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.2.40 - 15.06.2023",
+      "game_id": "ROBIN",
+      "game_version": "NOTTINGHAM RAIDERS",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.4.38 - 15.06.2023",
+      "game_id": "ROBIN",
+      "game_version": "SHERWOOD MARAUDERS",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.5.33 - 15.06.2023",
+      "game_id": "ROME",
+      "game_version": "THE CONQUERORS",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.66 - 15.06.2023",
+      "game_id": "SANDS OF DESTINY",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.4.27 - 15.06.2023",
+      "game_id": "SHERIFF COLT",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.42 - 15.06.2023",
+      "game_id": "STEAMWORKS",
+      "game_version": "GEARS OF FORTUNE",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.50 - 15.06.2023",
+      "game_id": "STEAMWORKS",
+      "game_version": "THE WORKSHOP",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0124 - 15.06.2023",
+      "game_id": "THE LEGEND OF MUSASHI",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.1.91 - 15.06.2023",
+      "game_id": "THE MAFIOSI",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.0.86 - 15.06.2023",
+      "game_id": "THUNDER HAWK",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.2.39 - 15.06.2023",
+      "game_id": "VALKYRIES",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.1.29 - 15.06.2023",
+      "game_id": "VOODOO HEX",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.2.47 - 15.06.2023",
+      "game_id": "WATER BLOX",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.2.39 - 15.06.2023",
+      "game_id": "WILD BARD",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.1.48 - 15.06.2023",
+      "game_id": "WILD DUEL",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.1.53 - 15.06.2023",
+      "game_id": "WILD ONE",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.3.32 - 15.06.2023",
+      "game_id": "XIBALBA",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "monster-blox - 1.4.26 - 15.06.2023",
+      "game_id": "ZOMBIES",
+      "game_version": "AT THE DOOR",
+      "game_type": "SLOT"
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 {
   "provider": "FUNKY GAMES",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/FUNKY-GAMES.pdf",
-  "last_updated": "March 19, 2026",
+  "last_updated": "May 19, 2026",
   "total_games": 30,
   "games": [
     {
       "no": 1,
       "game_offering": "eCASINO GAMES",
       "game_name": "BACCARAT BABES",
-      "game_id": "e06d54449dcfa3095d3f02bcb549eb",
+      "game_id": "e06d54449dcfa3095d3f02bcb549e",
       "game_version": "",
       "game_type": "TABLE"
     },

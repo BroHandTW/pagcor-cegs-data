@@ -1,11 +1,19 @@
 {
   "provider": "RICH88",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/RICH-88.pdf",
-  "last_updated": "March 19, 2026",
-  "total_games": 9,
+  "last_updated": "May 19, 2026",
+  "total_games": 11,
   "games": [
     {
       "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "88 CAISHEN",
+      "game_id": "Slot88CaiShen",
+      "game_version": "5c164f33",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
       "game_offering": "eCASINO GAMES",
       "game_name": "88 FORTUNES",
       "game_id": "SlotFortunes",
@@ -13,7 +21,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 2,
+      "no": 3,
       "game_offering": "eCASINO GAMES",
       "game_name": "BUFFALO KING MEGAWAYS",
       "game_id": "SlotBuffaloKing",
@@ -21,7 +29,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 3,
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY ISLAND",
+      "game_id": "SlotCandyIsland",
+      "game_version": "68a6a146",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
       "game_offering": "eCASINO GAMES",
       "game_name": "LUCKY FORTUNE",
       "game_id": "SlotTreasure",
@@ -29,7 +45,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 4,
+      "no": 6,
       "game_offering": "eCASINO GAMES",
       "game_name": "MIGHTY ZEUS",
       "game_id": "SlotPowerofZeus",
@@ -37,7 +53,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 5,
+      "no": 7,
       "game_offering": "eCASINO GAMES",
       "game_name": "MYSTERY GEM",
       "game_id": "SlotMysteryGem",
@@ -45,7 +61,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 6,
+      "no": 8,
       "game_offering": "eCASINO GAMES",
       "game_name": "NEW YEAR MONEY ROLLING",
       "game_id": "SlotRollingMoneyNY",
@@ -53,7 +69,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 7,
+      "no": 9,
       "game_offering": "eCASINO GAMES",
       "game_name": "RAVE JUMP",
       "game_id": "SlotJump",
@@ -61,7 +77,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 8,
+      "no": 10,
       "game_offering": "eCASINO GAMES",
       "game_name": "THAI BOXING KING",
       "game_id": "SlotBoxingKing",
@@ -69,7 +85,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 9,
+      "no": 11,
       "game_offering": "eCASINO GAMES",
       "game_name": "WESTERN SHERIFF",
       "game_id": "SlotWesternSheriff",

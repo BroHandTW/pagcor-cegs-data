@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.pagcor.ph/regulatory/cegs.php",
-  "total_providers": 78,
-  "total_games": 4834,
+  "total_providers": 85,
+  "total_games": 5065,
   "providers": [
     {
       "name": "5G GAMES",
@@ -136,7 +136,7 @@
     {
       "name": "GAMESPHERE SOLUTIONS, INC. / MI SLOTS",
       "file": "MI-SLOTS.json",
-      "total_games": 4
+      "total_games": 13
     },
     {
       "name": "GAMESPHERE SOLUTIONS, INC. / VICTORY ARK GAMING",
@@ -176,7 +176,7 @@
     {
       "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / SPIN MASTER",
       "file": "SPIN-MASTER.json",
-      "total_games": 35
+      "total_games": 41
     },
     {
       "name": "INPLAY MATRIX",
@@ -194,6 +194,16 @@
       "total_games": 1
     },
     {
+      "name": "KA GAMING",
+      "file": "KA-GAMING.json",
+      "total_games": 89
+    },
+    {
+      "name": "KING MIDAS",
+      "file": "KING-MIDAS.json",
+      "total_games": 2
+    },
+    {
       "name": "LIGHT AND WONDER SERVICES PHILIPPINES, INC. / LIGHT AND WONDER",
       "file": "LIGHT-AND-WONDER.json",
       "total_games": 34
@@ -201,7 +211,7 @@
     {
       "name": "LIGHT AND WONDER SERVICES PHILIPPINES, INC. / LIGHT AND WONDER - ELK STUDIOS",
       "file": "LIGHT-AND-WONDER-ELK-STUDIOS.json",
-      "total_games": 22
+      "total_games": 26
     },
     {
       "name": "MARBOYS88 CORPORATION / MARBOYS88",
@@ -229,9 +239,14 @@
       "total_games": 88
     },
     {
+      "name": "OCTOPLAY: PENGUIN KING",
+      "file": "OCTOPLAY-PENGUIN-KING.json",
+      "total_games": 1
+    },
+    {
       "name": "ONE VISAYA GAMING CORPORATION / COMBO GAMING",
       "file": "COMBO-GAMING.json",
-      "total_games": 5
+      "total_games": 10
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: BIG TIME GAMING",
@@ -261,7 +276,7 @@
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: RED TIGER",
       "file": "EVOLUTION-RED-TIGER.json",
-      "total_games": 349
+      "total_games": 360
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: TAP-A-ROO",
@@ -279,6 +294,16 @@
       "total_games": 2
     },
     {
+      "name": "PETER SONS",
+      "file": "PETER-SONS.json",
+      "total_games": 49
+    },
+    {
+      "name": "PLAYSON",
+      "file": "PLAYSON.json",
+      "total_games": 17
+    },
+    {
       "name": "PLAYSTAR",
       "file": "PLAYSTAR.json",
       "total_games": 102
@@ -286,12 +311,17 @@
     {
       "name": "PLAYTECH",
       "file": "PLAYTECH.json",
-      "total_games": 279
+      "total_games": 283
     },
     {
       "name": "POCKET GAMES SOFT",
       "file": "POCKET-GAMES-SOFT.json",
       "total_games": 162
+    },
+    {
+      "name": "POPOK GAMING",
+      "file": "POPOK-GAMING.json",
+      "total_games": 24
     },
     {
       "name": "PRAGMATIC PLAY",
@@ -301,7 +331,7 @@
     {
       "name": "PRAGMATIC PLAY (PP): ARRISE",
       "file": "PRAGMATIC-PLAY-ARRISE.json",
-      "total_games": 41
+      "total_games": 43
     },
     {
       "name": "PRAGMATIC PLAY (PP): LIVE",
@@ -309,14 +339,19 @@
       "total_games": 26
     },
     {
+      "name": "RAC PHIL CORP. / HOT ROAD GAMING (HRG)",
+      "file": "HOT-ROAD-GAMING.json",
+      "total_games": 6
+    },
+    {
       "name": "REAL TIME GAMING",
       "file": "REAL-TIME-GAMING.json",
       "total_games": 94
     },
     {
-      "name": "RICH 88",
-      "file": "RICH-88.json",
-      "total_games": 9
+      "name": "RICH88",
+      "file": "RICH88.json",
+      "total_games": 11
     },
     {
       "name": "SA GAMING",

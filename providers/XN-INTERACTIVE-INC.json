@@ -1,0 +1,16 @@
+{
+  "provider": "XN INTERACTIVE INC.",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/XN-INTERACTIVE.pdf",
+  "last_updated": "July 16, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "NUMERIC GAME",
+      "game_name": "MEGAPICK",
+      "game_id": "megapick2",
+      "game_version": "1.0.0",
+      "game_type": "LIVE DEALER NUMERIC GAME"
+    }
+  ]
+}

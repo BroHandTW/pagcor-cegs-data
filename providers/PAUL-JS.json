@@ -1,0 +1,48 @@
+{
+  "provider": "PAUL JS GAMING STATION, INC. / PAUL JS",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PAUL-JS.pdf",
+  "last_updated": "July 16, 2026",
+  "total_games": 5,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "IN BETWEEN",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "CLASSIC / RUSH"
+    },
+    {
+      "no": 2,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "KARAMBOLA CLASSIC WITH CARRY OVER",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "CLASSIC"
+    },
+    {
+      "no": 3,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "KARAMBOLA XO",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "XO"
+    },
+    {
+      "no": 4,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "LUCKY SIGNS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    },
+    {
+      "no": 5,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "LUCKY SIGNS 36",
+      "game_id": "",
+      "game_version": "",
+      "game_type": ""
+    }
+  ]
+}

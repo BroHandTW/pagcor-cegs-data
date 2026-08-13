@@ -1,0 +1,344 @@
+{
+  "provider": "DARWIN GAMING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/DARWIN-GAMING.pdf",
+  "last_updated": "July 16, 2026",
+  "total_games": 42,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "BAE",
+      "game_version": "1.0.12",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT VIP",
+      "game_id": "BAEVIP",
+      "game_version": "1.0.12",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT PAIRS",
+      "game_id": "BAEPAIRS",
+      "game_version": "3.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT PAIRS VIP",
+      "game_id": "BAEPAIRSVIP",
+      "game_version": "3.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK 7",
+      "game_id": "BE7SP",
+      "game_version": "1.0.12",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK 7 VIP",
+      "game_id": "BE7SPVIP",
+      "game_version": "1.0.12",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BRASIL GOOOOL!!!",
+      "game_id": "BPNLTY",
+      "game_version": "1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHARLES RAIDER & THE BOOK OF ORIGINS",
+      "game_id": "BKORG",
+      "game_version": "3.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHARLES RAIDER & THE SANDS OF FATE",
+      "game_id": "CRSNDSFT",
+      "game_version": "2.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHARLES RAIDER & THE TEMPLE ESCAPE",
+      "game_id": "CRTESCP",
+      "game_version": "2.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CIRCUIT MASTERS",
+      "game_id": "CMCRASH",
+      "game_version": "2.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRASH SINGLE PLAYER",
+      "game_id": "CRAESP",
+      "game_version": "2.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "DTEVO",
+      "game_version": "2.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER VIP",
+      "game_id": "DTEVOVIP",
+      "game_version": "2.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HIGH LOW DICE",
+      "game_id": "HL",
+      "game_version": "2.2.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HIGH LOW DICE VIP",
+      "game_id": "HLVIP",
+      "game_version": "2.2.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JUDGEMENT OF ANUBIS",
+      "game_id": "JANUBIS",
+      "game_version": "1.1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIGHT OF HORUS",
+      "game_id": "LORUS",
+      "game_version": "1.1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINE CRASH",
+      "game_id": "MINECRASH",
+      "game_version": "2.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEON BLACKJACK",
+      "game_id": "BE7NEO",
+      "game_version": "1.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEON PLINKO",
+      "game_id": "PLKNEO",
+      "game_version": "3.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "NEON ROULETTE",
+      "game_id": "ROLNEO",
+      "game_version": "2.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "POKERJACK",
+      "game_id": "PKRBJ",
+      "game_version": "4.0.1",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "ROL",
+      "game_version": "2.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE VIP",
+      "game_id": "ROLVIP",
+      "game_version": "2.1.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER MINE BROS.",
+      "game_id": "SMBMINES",
+      "game_version": "1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE BLACKJACK",
+      "game_id": "THEBJ",
+      "game_version": "1.0.12",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE BLACKJACK VIP",
+      "game_id": "THEBJVIP",
+      "game_version": "1.0.12",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WASABI WHISKERS: ALL YOU CAN EAT",
+      "game_id": "WWAYCE",
+      "game_version": "2.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 30,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BLOSSOM BINGO",
+      "game_id": "BLOSBINGO",
+      "game_version": "1.4.0",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 31,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "BLOSSOM BINGO EXPRESS",
+      "game_id": "BLOSBINGOEXP",
+      "game_version": "1.4.0",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 32,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "FROST BINGO",
+      "game_id": "HEICEBINGO",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 33,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "FROST BINGO EXPRESS",
+      "game_id": "HEICEBINGOEXP",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 34,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "HOT BINGO",
+      "game_id": "HOTEVOBINGO",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 35,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "HOT BINGO EXPRESS",
+      "game_id": "HOTEVOBINGOEXP",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 36,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "JUDGEMENT OF ANUBIS BINGO",
+      "game_id": "JOABINGO",
+      "game_version": "3.2.0",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 37,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "LIGHT OF HORUS BINGO",
+      "game_id": "LOHBINGO",
+      "game_version": "3.2.0",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 38,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "ROCKET ADVENTURE EXPRESS",
+      "game_id": "ROADVBINGOEXP",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 39,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "THUNDER BINGO",
+      "game_id": "THUEVOBINGO",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 40,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "THUNDER BINGO EXPRESS",
+      "game_id": "THUEVOBINGOEXP",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 41,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "TIGER BINGO",
+      "game_id": "TGRBINGO",
+      "game_version": "1.0.0",
+      "game_type": "ELECTRONIC BINGO"
+    },
+    {
+      "no": 42,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "TIGER EXPRESS",
+      "game_id": "TGRBINGOEXP",
+      "game_version": "1.3.1",
+      "game_type": "ELECTRONIC BINGO"
+    }
+  ]
+}

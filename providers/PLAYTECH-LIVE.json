@@ -1,0 +1,376 @@
+{
+  "provider": "PLAYTECH LIVE",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PLAYTECH-LIVE.pdf",
+  "last_updated": "July 16, 2026",
+  "total_games": 46,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ADVENTURE BEYOND WONDERLAND LIVE",
+      "game_id": "abwl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "AGE OF THE GODS BONUS ROULETTE LIVE",
+      "game_id": "aogjbrol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ALL BETS BLACKJACK LIVE",
+      "game_id": "abjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANDAR BAHAR LIVE",
+      "game_id": "abl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT LIVE",
+      "game_id": "ubal",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BETON BACCARAT",
+      "game_id": "bs_bal",
+      "game_version": "22.6",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BETON DRAGON TIGER LIVE",
+      "game_id": "bs_dtl",
+      "game_version": "21.6",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BETON POKER LIVE",
+      "game_id": "bs_pokl",
+      "game_version": "22.6",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BIG BAD WOLF LIVE",
+      "game_id": "bbwl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BLACKJACK",
+      "game_id": "bjl;bjl_sportsbj1-2",
+      "game_version": "24.8.5",
+      "game_type": "LIVE DEALER TABLE GAMES"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUFFALO BLITZ LIVE",
+      "game_id": "bfbl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER SLOT GAME"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUSTED OR BAILED",
+      "game_id": "prstl",
+      "game_version": "24.11.3.6",
+      "game_type": "LIVE DEALER ARCADE- TYPE GAME"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASH COLLECT ROULETTE",
+      "game_id": "ccrol",
+      "game_version": "24.9",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CASHBACK BLACKJACK LIVE",
+      "game_id": "cbjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FASHION TV MEGA PARTY LIVE",
+      "game_id": "mjpswl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "K-POP ROULETTE LIVE",
+      "game_id": "smplrol",
+      "game_version": "23.9",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE 3 CARD BRAG",
+      "game_id": "3brgl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE AMERICAN ROULETTE",
+      "game_id": "rodzl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE BLACKJACK",
+      "game_id": "bjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE CASINO HOLD'EM",
+      "game_id": "chel",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE DRAGON TIGER",
+      "game_id": "dtl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE FOOTBALL FRENCH ROULETTE",
+      "game_id": "frofl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE FRENCH ROULETTE",
+      "game_id": "rofl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE HI-LO",
+      "game_id": "hilol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE SETTE E MEZZO",
+      "game_id": "7eml",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE SICBO DELUXE",
+      "game_id": "sbdl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE SPIN A WIN",
+      "game_id": "swl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE UNLIMITED BLACKJACK",
+      "game_id": "ubjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY BALL ROULETTE LIVE",
+      "game_id": "lbrol",
+      "game_version": "23.11.0.13",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAJORITY RULES SPEED BLACKJACK LIVE",
+      "game_id": "msbjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE BLACKJACK LIVE",
+      "game_id": "fbbjl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MEGA FIRE BLAZE ROULETTE LIVE",
+      "game_id": "fbrolj",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUANTUM BLACKJACK LIVE",
+      "game_id": "qabjlp",
+      "game_version": "19.11.103.0",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUANTUM ROULETTE LIVE",
+      "game_id": "qrol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BLACKJACK LIVE",
+      "game_id": "sbjl",
+      "game_version": "24.1",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPIN A WIN WILD LIVE",
+      "game_id": "swle",
+      "game_version": "23.4",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPORTS ALL BETS BLACKJACK",
+      "game_id": "abjl;abjl_chroma",
+      "game_version": "24.2.4",
+      "game_type": "LIVE DEALER TABLE GAMES"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPORTS BACCARAT",
+      "game_id": "ubal;bal_baccarat1",
+      "game_version": "24.2.4",
+      "game_type": "LIVE DEALER TABLE GAMES"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPORTS BACCARAT NC",
+      "game_id": "ubal;nc_bal_baccarat1",
+      "game_version": "24.2.4",
+      "game_type": "LIVE DEALER TABLE GAMES"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPORTS BET ON BACCARAT",
+      "game_id": "ubal;bal_betslipbaccarat",
+      "game_version": "24.8.5",
+      "game_type": "LIVE DEALER TABLE GAMES"
+    },
+    {
+      "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPORTS ROULETTE",
+      "game_id": "rol;rol_chroma",
+      "game_version": "24.2.4",
+      "game_type": "LIVE DEALER TABLE GAMES"
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPORTS UNLIMITED BLACKJACK",
+      "game_id": "ubjl;ubjl_unlimitedbj",
+      "game_version": "24.2.4",
+      "game_type": "LIVE DEALER TABLE GAMES"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPREAD-BET ROULETTE",
+      "game_id": "sprol",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STICKY BANDITS ROULETTE LIVE",
+      "game_id": "sbrol",
+      "game_version": "24.5.0.28",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TEEN PATTI LIVE",
+      "game_id": "tpl",
+      "game_version": "22.7",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE GREATEST CARDS SHOW LIVE",
+      "game_id": "tgsl",
+      "game_version": "24.7.0.23",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

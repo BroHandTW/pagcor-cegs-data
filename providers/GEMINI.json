@@ -1,59 +1,19 @@
 {
-  "provider": "GEMINI",
+  "provider": "GEMINI GAMING MANAGEMENT CORPORATION / GEMINI",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GEMINI.pdf",
-  "last_updated": "March 19, 2026",
-  "total_games": 36,
+  "last_updated": "July 16, 2026",
+  "total_games": 32,
   "games": [
     {
       "no": 1,
-      "game_offering": "eBINGO GAMES",
-      "game_name": "CARIBBEAN BINGO",
-      "game_id": "CaribbeanBingo",
-      "game_version": "",
-      "game_type": "eBINGO"
-    },
-    {
-      "no": 2,
-      "game_offering": "eBINGO GAMES",
-      "game_name": "CAVE BINGO",
-      "game_id": "CaveBingo",
-      "game_version": "",
-      "game_type": "eBINGO"
-    },
-    {
-      "no": 3,
-      "game_offering": "eBINGO GAMES",
-      "game_name": "LOST RUINS",
-      "game_id": "LostRuins",
-      "game_version": "",
-      "game_type": "eBINGO"
-    },
-    {
-      "no": 4,
-      "game_offering": "eBINGO GAMES",
-      "game_name": "ODIN BINGO",
-      "game_id": "OdinBingo",
-      "game_version": "",
-      "game_type": "eBINGO"
-    },
-    {
-      "no": 5,
-      "game_offering": "eBINGO GAMES",
-      "game_name": "STEAMPUNK",
-      "game_id": "Steampunk",
-      "game_version": "",
-      "game_type": "eBINGO"
-    },
-    {
-      "no": 6,
       "game_offering": "eCASINO GAMES",
       "game_name": "BACCARAT",
       "game_id": "",
       "game_version": "",
-      "game_type": "LIVE DEALER TABLE GAME"
+      "game_type": "TABLE"
     },
     {
-      "no": 7,
+      "no": 2,
       "game_offering": "eCASINO GAMES",
       "game_name": "CRASH METEOR",
       "game_id": "MultiPlayerCrash",
@@ -61,7 +21,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 8,
+      "no": 3,
       "game_offering": "eCASINO GAMES",
       "game_name": "DIAMONDS",
       "game_id": "StandAloneDiamonds",
@@ -69,7 +29,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 9,
+      "no": 4,
       "game_offering": "eCASINO GAMES",
       "game_name": "DICE",
       "game_id": "StandAloneDice",
@@ -77,15 +37,15 @@
       "game_type": "TABLE"
     },
     {
-      "no": 10,
+      "no": 5,
       "game_offering": "eCASINO GAMES",
       "game_name": "DRAGON TIGER",
       "game_id": "",
       "game_version": "",
-      "game_type": "LIVE DEALER TABLE GAME"
+      "game_type": "TABLE"
     },
     {
-      "no": 11,
+      "no": 6,
       "game_offering": "eCASINO GAMES",
       "game_name": "HILO",
       "game_id": "StandAloneHilo",
@@ -93,7 +53,7 @@
       "game_type": "TABLE"
     },
     {
-      "no": 12,
+      "no": 7,
       "game_offering": "eCASINO GAMES",
       "game_name": "HILO CLASSIC",
       "game_id": "StandAloneHiloCL",
@@ -101,7 +61,7 @@
       "game_type": "TABLE"
     },
     {
-      "no": 13,
+      "no": 8,
       "game_offering": "eCASINO GAMES",
       "game_name": "HILO GOLD RUSH",
       "game_id": "StandAloneHiloGR",
@@ -109,7 +69,7 @@
       "game_type": "TABLE"
     },
     {
-      "no": 14,
+      "no": 9,
       "game_offering": "eCASINO GAMES",
       "game_name": "HILO NEON",
       "game_id": "StandAloneHiloNE",
@@ -117,7 +77,7 @@
       "game_type": "TABLE"
     },
     {
-      "no": 15,
+      "no": 10,
       "game_offering": "eCASINO GAMES",
       "game_name": "LIMBO",
       "game_id": "StandAloneLimbo",
@@ -125,7 +85,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 16,
+      "no": 11,
       "game_offering": "eCASINO GAMES",
       "game_name": "LIMBO CLASSIC",
       "game_id": "StandAloneLimboCL",
@@ -133,7 +93,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 17,
+      "no": 12,
       "game_offering": "eCASINO GAMES",
       "game_name": "LIMBO GOLD RUSH",
       "game_id": "StandAloneLimboGR",
@@ -141,7 +101,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 18,
+      "no": 13,
       "game_offering": "eCASINO GAMES",
       "game_name": "LIMBO NEON",
       "game_id": "StandAloneLimboNE",
@@ -149,7 +109,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 19,
+      "no": 14,
       "game_offering": "eCASINO GAMES",
       "game_name": "LUCKY HILO",
       "game_id": "StandAloneLuckyHilo",
@@ -157,7 +117,7 @@
       "game_type": "TABLE"
     },
     {
-      "no": 20,
+      "no": 15,
       "game_offering": "eCASINO GAMES",
       "game_name": "MINES",
       "game_id": "StandAloneMines",
@@ -165,7 +125,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 21,
+      "no": 16,
       "game_offering": "eCASINO GAMES",
       "game_name": "MINES CLASSIC",
       "game_id": "StandAloneMinesCL",
@@ -173,7 +133,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 22,
+      "no": 17,
       "game_offering": "eCASINO GAMES",
       "game_name": "MINES GOLD RUSH",
       "game_id": "StandAloneMinesGR",
@@ -181,7 +141,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 23,
+      "no": 18,
       "game_offering": "eCASINO GAMES",
       "game_name": "MINES MAPLE",
       "game_id": "StandAloneMinesMA",
@@ -189,7 +149,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 24,
+      "no": 19,
       "game_offering": "eCASINO GAMES",
       "game_name": "MINES NEON",
       "game_id": "StandAloneMinesNE",
@@ -197,7 +157,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 25,
+      "no": 20,
       "game_offering": "eCASINO GAMES",
       "game_name": "MINES RAIDER",
       "game_id": "StandAloneMinesRaider",
@@ -205,7 +165,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 26,
+      "no": 21,
       "game_offering": "eCASINO GAMES",
       "game_name": "PLINKO",
       "game_id": "StandAlonePlinko",
@@ -213,7 +173,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 27,
+      "no": 22,
       "game_offering": "eCASINO GAMES",
       "game_name": "PLINKO CLASSIC",
       "game_id": "StandAlonePlinkoCL",
@@ -221,7 +181,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 28,
+      "no": 23,
       "game_offering": "eCASINO GAMES",
       "game_name": "PLINKO GOLD RUSH",
       "game_id": "StandAlonePlinkoGR",
@@ -229,7 +189,7 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 29,
+      "no": 24,
       "game_offering": "eCASINO GAMES",
       "game_name": "PLINKO NEON",
       "game_id": "StandAlonePlinkoNE",
@@ -237,15 +197,15 @@
       "game_type": "ARCADE-TYPE"
     },
     {
-      "no": 30,
+      "no": 25,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPEED BACCARAT",
       "game_id": "",
       "game_version": "",
-      "game_type": "LIVE DEALER TABLE GAME"
+      "game_type": "TABLE"
     },
     {
-      "no": 31,
+      "no": 26,
       "game_offering": "eCASINO GAMES",
       "game_name": "VIDEO POKER",
       "game_id": "StandAloneVideoPoker",
@@ -253,7 +213,7 @@
       "game_type": "TABLE"
     },
     {
-      "no": 32,
+      "no": 27,
       "game_offering": "eCASINO GAMES",
       "game_name": "WHEEL",
       "game_id": "StandAloneWheel",
@@ -261,36 +221,44 @@
       "game_type": "TABLE"
     },
     {
-      "no": 33,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "6 MARBLES",
-      "game_id": "Abu Dhabi",
+      "no": 28,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "CARIBBEAN BINGO",
+      "game_id": "CaribbeanBingo",
       "game_version": "",
-      "game_type": "LIVE SPECIALTY GAME"
+      "game_type": "eBINGO"
     },
     {
-      "no": 34,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "MARBLE M-PRIX",
-      "game_id": "Las Vegas",
+      "no": 29,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "CAVE BINGO",
+      "game_id": "CaveBingo",
       "game_version": "",
-      "game_type": "LIVE SPECIALTY GAME"
+      "game_type": "eBINGO"
     },
     {
-      "no": 35,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "MARBLES 1V1",
-      "game_id": "",
+      "no": 30,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "LOST RUINS",
+      "game_id": "LostRuins",
       "game_version": "",
-      "game_type": "LIVE SPECIALTY GAME"
+      "game_type": "eBINGO"
     },
     {
-      "no": 36,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "MARBLES 5V5",
-      "game_id": "Monaco",
+      "no": 31,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "ODIN BINGO",
+      "game_id": "OdinBingo",
       "game_version": "",
-      "game_type": "LIVE SPECIALTY GAME"
+      "game_type": "eBINGO"
+    },
+    {
+      "no": 32,
+      "game_offering": "eBINGO GAMES",
+      "game_name": "STEAMPUNK",
+      "game_id": "Steampunk",
+      "game_version": "",
+      "game_type": "eBINGO"
     }
   ]
 }

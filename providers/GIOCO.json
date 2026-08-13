@@ -1,8 +1,8 @@
 {
   "provider": "GIOCO",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GIOCO.pdf",
-  "last_updated": "March 19, 2026",
-  "total_games": 2,
+  "last_updated": "July 16, 2026",
+  "total_games": 4,
   "games": [
     {
       "no": 1,
@@ -18,6 +18,22 @@
       "game_name": "JEEPNEY GO",
       "game_id": "jeepneygo1",
       "game_version": "v1.3.16",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SLICE N GO!",
+      "game_id": "gic_slice_n_go",
+      "game_version": "1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TUK TUK GOLD",
+      "game_id": "gic_tuk_tuk_gold",
+      "game_version": "1.3.16",
       "game_type": "ARCADE-TYPE"
     }
   ]

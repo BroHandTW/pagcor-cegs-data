@@ -1,15 +1,15 @@
 {
-  "provider": "EVOLUTION: NETENT",
+  "provider": "ONE VISAYA GAMING CORPORATION / EVOLUTION: NETENT",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/EVOLUTION-NETENT.pdf",
-  "last_updated": "March 19, 2026",
-  "total_games": 217,
+  "last_updated": "July 16, 2026",
+  "total_games": 220,
   "games": [
     {
       "no": 1,
       "game_offering": "eCASINO GAMES",
       "game_name": "101 CANDIES",
       "game_id": "101candiesr94f10",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
@@ -105,7 +105,7 @@
       "game_offering": "eCASINO GAMES",
       "game_name": "BIG BANG BOOM",
       "game_id": "bigbangboomr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
@@ -113,7 +113,7 @@
       "game_offering": "eCASINO GAMES",
       "game_name": "BIG MONEY WHEEL",
       "game_id": "bigmoneywher94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
@@ -225,7 +225,7 @@
       "game_offering": "eCASINO GAMES",
       "game_name": "CORNELIUS MILK HUNTER MEGAWAYS",
       "game_id": "corneliusmir94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
@@ -281,7 +281,7 @@
       "game_offering": "eCASINO GAMES",
       "game_name": "DAZZLE ME CHRISTMAS",
       "game_id": "dazzlemechrr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
@@ -319,13 +319,21 @@
     {
       "no": 40,
       "game_offering": "eCASINO GAMES",
-      "game_name": "DEAD WEST",
-      "game_id": "deadwestr94f1000",
-      "game_version": "1.0",
+      "game_name": "DEAD OR ALIVE 3, WANTED",
+      "game_id": "deadalive3r94f10",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
       "no": 41,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DEAD WEST",
+      "game_id": "deadwestr94f1000",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 42,
       "game_offering": "eCASINO GAMES",
       "game_name": "DISCO DANNY",
       "game_id": "discodanny000000",
@@ -333,15 +341,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 42,
+      "no": 43,
       "game_offering": "eCASINO GAMES",
       "game_name": "DIVINE FORTUNE BLACK",
       "game_id": "divinefortur94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 43,
+      "no": 44,
       "game_offering": "eCASINO GAMES",
       "game_name": "DIVINE FORTUNE MEGAWAYS",
       "game_id": "divinemegaways00",
@@ -349,7 +357,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 44,
+      "no": 45,
       "game_offering": "eCASINO GAMES",
       "game_name": "DON’T EAT THE CANDY",
       "game_id": "donteatthecandy0",
@@ -357,7 +365,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 45,
+      "no": 46,
       "game_offering": "eCASINO GAMES",
       "game_name": "DOUBLE STACKS",
       "game_id": "doublestacks0000",
@@ -365,7 +373,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 46,
+      "no": 47,
       "game_offering": "eCASINO GAMES",
       "game_name": "DRACULA",
       "game_id": "dracula000000000",
@@ -373,7 +381,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 47,
+      "no": 48,
       "game_offering": "eCASINO GAMES",
       "game_name": "DRAGONS PLAYGROUND",
       "game_id": "dragonsplaygroun",
@@ -381,7 +389,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 48,
+      "no": 49,
       "game_offering": "eCASINO GAMES",
       "game_name": "DRIVE: MULTIPLIER MAYHEM",
       "game_id": "multipliermayhem",
@@ -389,7 +397,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 49,
+      "no": 50,
       "game_offering": "eCASINO GAMES",
       "game_name": "DRUIDS' DREAM",
       "game_id": "druidsdream00000",
@@ -397,7 +405,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 50,
+      "no": 51,
       "game_offering": "eCASINO GAMES",
       "game_name": "DRUID'S MAGIC",
       "game_id": "druidsmagic00000",
@@ -405,7 +413,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 51,
+      "no": 52,
       "game_offering": "eCASINO GAMES",
       "game_name": "EAST SEA DRAGON KING",
       "game_id": "eastseadrgonking",
@@ -413,7 +421,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 52,
+      "no": 53,
       "game_offering": "eCASINO GAMES",
       "game_name": "EGGOMATIC",
       "game_id": "eggomatic0000000",
@@ -421,7 +429,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 53,
+      "no": 54,
       "game_offering": "eCASINO GAMES",
       "game_name": "ELEMENTS: THE AWAKENING",
       "game_id": "elements00000000",
@@ -429,15 +437,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 54,
+      "no": 55,
       "game_offering": "eCASINO GAMES",
       "game_name": "ELK HUNTER",
       "game_id": "elkhunterr94f100",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 55,
+      "no": 56,
       "game_offering": "eCASINO GAMES",
       "game_name": "EXCALIBUR",
       "game_id": "excalibur0000000",
@@ -445,7 +453,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 56,
+      "no": 57,
       "game_offering": "eCASINO GAMES",
       "game_name": "FAIRYTALE LEGENDS: HANSEL AND GRETEL",
       "game_id": "fairyhansel00000",
@@ -453,7 +461,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 57,
+      "no": 58,
       "game_offering": "eCASINO GAMES",
       "game_name": "FAIRYTALE LEGENDS: MIRROR MIRROR",
       "game_id": "fairymirror00000",
@@ -461,7 +469,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 58,
+      "no": 59,
       "game_offering": "eCASINO GAMES",
       "game_name": "FAIRYTALE LEGENDS: RED RIDING HOOD",
       "game_id": "fairyred00000000",
@@ -469,23 +477,23 @@
       "game_type": "SLOT"
     },
     {
-      "no": 59,
+      "no": 60,
       "game_offering": "eCASINO GAMES",
       "game_name": "FINN AND THE CANDY SPIN",
       "game_id": "finncandyspr94f1",
-      "game_version": "1.0",
-      "game_type": "SLOT"
-    },
-    {
-      "no": 60,
-      "game_offering": "eCASINO GAMES",
-      "game_name": "FINN AND THE DRAGON TALES",
-      "game_id": "finndragontr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
       "no": 61,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FINN AND THE DRAGON TALES",
+      "game_id": "finndragontr94f1",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 62,
       "game_offering": "eCASINO GAMES",
       "game_name": "FINN AND THE SWIRLY SPIN",
       "game_id": "finn000000000000",
@@ -493,7 +501,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 62,
+      "no": 63,
       "game_offering": "eCASINO GAMES",
       "game_name": "FINN'S GOLDEN TAVERN",
       "game_id": "goldentavern0000",
@@ -501,7 +509,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 63,
+      "no": 64,
       "game_offering": "eCASINO GAMES",
       "game_name": "FIRE SIEGE FORTRESS",
       "game_id": "firesiege0000000",
@@ -509,15 +517,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 64,
+      "no": 65,
       "game_offering": "eCASINO GAMES",
       "game_name": "FLOCK ME",
       "game_id": "flockmer94f10000",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 65,
+      "no": 66,
       "game_offering": "eCASINO GAMES",
       "game_name": "FLOWERS",
       "game_id": "flowers000000000",
@@ -525,7 +533,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 66,
+      "no": 67,
       "game_offering": "eCASINO GAMES",
       "game_name": "FLOWERS CHRISTMAS EDITION",
       "game_id": "flowerschristmas",
@@ -533,7 +541,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 67,
+      "no": 68,
       "game_offering": "eCASINO GAMES",
       "game_name": "FOOTBALL: CHAMPIONS CUP",
       "game_id": "football00000000",
@@ -541,7 +549,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 68,
+      "no": 69,
       "game_offering": "eCASINO GAMES",
       "game_name": "FORTUNE RANGERS",
       "game_id": "fortunerangers00",
@@ -549,7 +557,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 69,
+      "no": 70,
       "game_offering": "eCASINO GAMES",
       "game_name": "FRUIT CASE",
       "game_id": "fruitsne00000000",
@@ -557,7 +565,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 70,
+      "no": 71,
       "game_offering": "eCASINO GAMES",
       "game_name": "FRUIT SHOP",
       "game_id": "fruitshopr400000",
@@ -565,7 +573,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 71,
+      "no": 72,
       "game_offering": "eCASINO GAMES",
       "game_name": "FRUIT SHOP CHRISTMAS EDITION",
       "game_id": "fruitshopchristm",
@@ -573,7 +581,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 72,
+      "no": 73,
       "game_offering": "eCASINO GAMES",
       "game_name": "FRUIT SHOP FRENZY",
       "game_id": "fruitshopfrenzy0",
@@ -581,7 +589,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 73,
+      "no": 74,
       "game_offering": "eCASINO GAMES",
       "game_name": "FRUIT SHOP MEGAWAYS",
       "game_id": "fruitshopawaysr3",
@@ -589,7 +597,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 74,
+      "no": 75,
       "game_offering": "eCASINO GAMES",
       "game_name": "FRUIT SPIN",
       "game_id": "jewelfruits00000",
@@ -597,7 +605,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 75,
+      "no": 76,
       "game_offering": "eCASINO GAMES",
       "game_name": "FUNK MASTER",
       "game_id": "funkmaster000000",
@@ -605,7 +613,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 76,
+      "no": 77,
       "game_offering": "eCASINO GAMES",
       "game_name": "GEM CRUSH",
       "game_id": "gemcrush00000000",
@@ -613,7 +621,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 77,
+      "no": 78,
       "game_offering": "eCASINO GAMES",
       "game_name": "GHOST PIRATES",
       "game_id": "ghostpirates0000",
@@ -621,7 +629,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 78,
+      "no": 79,
       "game_offering": "eCASINO GAMES",
       "game_name": "GLADIATOR CLASH",
       "game_id": "gladiatorclash00",
@@ -629,7 +637,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 79,
+      "no": 80,
       "game_offering": "eCASINO GAMES",
       "game_name": "GO BANANAS!",
       "game_id": "monkeys000000000",
@@ -637,7 +645,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 80,
+      "no": 81,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GODBREAKER",
+      "game_id": "godbreakerr94f10",
+      "game_version": "1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 82,
       "game_offering": "eCASINO GAMES",
       "game_name": "GODS OF GOLD: INFINIREELS",
       "game_id": "godsofgold000000",
@@ -645,15 +661,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 81,
+      "no": 83,
       "game_offering": "eCASINO GAMES",
       "game_name": "GOLDEN EGG INVADERS",
       "game_id": "goldeneggirs94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 82,
+      "no": 84,
       "game_offering": "eCASINO GAMES",
       "game_name": "GOLDEN GRIMOIRE",
       "game_id": "goldengrimoire00",
@@ -661,23 +677,23 @@
       "game_type": "SLOT"
     },
     {
-      "no": 83,
+      "no": 85,
       "game_offering": "eCASINO GAMES",
       "game_name": "GOLDEN REALMS",
       "game_id": "goldenrealmr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 84,
+      "no": 86,
       "game_offering": "eCASINO GAMES",
       "game_name": "GOLDEN WHEELS OF EGYPT",
       "game_id": "goldenwheelr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 85,
+      "no": 87,
       "game_offering": "eCASINO GAMES",
       "game_name": "GONZO'S GOLD",
       "game_id": "gonzosgoldr20000",
@@ -685,7 +701,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 86,
+      "no": 88,
       "game_offering": "eCASINO GAMES",
       "game_name": "GONZO'S QUEST",
       "game_id": "eldorado00000000",
@@ -693,15 +709,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 87,
+      "no": 89,
       "game_offering": "eCASINO GAMES",
       "game_name": "GONZO'S QUEST 2: RETURN TO EL DORADO",
       "game_id": "gonzosquestr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 88,
+      "no": 90,
       "game_offering": "eCASINO GAMES",
       "game_name": "GOOD OLD 7’S",
       "game_id": "goodold7s0000000",
@@ -709,7 +725,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 89,
+      "no": 91,
       "game_offering": "eCASINO GAMES",
       "game_name": "GORDON RAMSAY HELL’S KITCHEN",
       "game_id": "hellskitchenr000",
@@ -717,7 +733,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 90,
+      "no": 92,
       "game_offering": "eCASINO GAMES",
       "game_name": "GORILLA KINGDOM",
       "game_id": "gorillakingdom00",
@@ -725,7 +741,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 91,
+      "no": 93,
       "game_offering": "eCASINO GAMES",
       "game_name": "GRAND SPINN",
       "game_id": "grandspinn000000",
@@ -733,7 +749,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 92,
+      "no": 94,
       "game_offering": "eCASINO GAMES",
       "game_name": "HALLOWEEN JACK",
       "game_id": "halloweenjack000",
@@ -741,7 +757,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 93,
+      "no": 95,
       "game_offering": "eCASINO GAMES",
       "game_name": "HAPPY RICHES",
       "game_id": "happyriches00000",
@@ -749,7 +765,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 94,
+      "no": 96,
       "game_offering": "eCASINO GAMES",
       "game_name": "HOOK'S HEROES",
       "game_id": "hooksheroes00000",
@@ -757,7 +773,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 95,
+      "no": 97,
       "game_offering": "eCASINO GAMES",
       "game_name": "HOTLINE",
       "game_id": "hotline000000000",
@@ -765,7 +781,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 96,
+      "no": 98,
       "game_offering": "eCASINO GAMES",
       "game_name": "HOTLINE 2",
       "game_id": "hotline2f1g10000",
@@ -773,7 +789,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 97,
+      "no": 99,
       "game_offering": "eCASINO GAMES",
       "game_name": "IRISH POT LUCK",
       "game_id": "irishpotluck0000",
@@ -781,7 +797,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 98,
+      "no": 100,
       "game_offering": "eCASINO GAMES",
       "game_name": "JACK AND THE BEANSTALK",
       "game_id": "jackandbeanstalk",
@@ -789,15 +805,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 99,
+      "no": 101,
       "game_offering": "eCASINO GAMES",
       "game_name": "JACK AND THE BEANSTALK REMASTERED",
       "game_id": "jackandbeanr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 100,
+      "no": 102,
       "game_offering": "eCASINO GAMES",
       "game_name": "JACK HAMMER",
       "game_id": "jackhammerj0r400",
@@ -805,23 +821,23 @@
       "game_type": "SLOT"
     },
     {
-      "no": 101,
+      "no": 103,
       "game_offering": "eCASINO GAMES",
       "game_name": "JACK HAMMER 3: DIAMOND AFFAIR",
       "game_id": "jackhammer3r94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 102,
+      "no": 104,
       "game_offering": "eCASINO GAMES",
       "game_name": "JACK HAMMER 4: CHASING THE DRAGON",
       "game_id": "jackhammer4r94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 103,
+      "no": 105,
       "game_offering": "eCASINO GAMES",
       "game_name": "JACKS OR BETTER DOUBLE UP",
       "game_id": "jacksmultihandn1",
@@ -829,7 +845,7 @@
       "game_type": "TABLE"
     },
     {
-      "no": 104,
+      "no": 106,
       "game_offering": "eCASINO GAMES",
       "game_name": "JELLY BELLY MEGAWAYS",
       "game_id": "jellybellymegawa",
@@ -837,7 +853,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 105,
+      "no": 107,
       "game_offering": "eCASINO GAMES",
       "game_name": "JIMI HENDRIX ONLINE SLOT",
       "game_id": "jimihendrix00000",
@@ -845,7 +861,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 106,
+      "no": 108,
       "game_offering": "eCASINO GAMES",
       "game_name": "JINGLE BELLS BONANZA",
       "game_id": "jinglebellsbonan",
@@ -853,7 +869,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 107,
+      "no": 109,
       "game_offering": "eCASINO GAMES",
       "game_name": "JINGLE SPIN",
       "game_id": "jinglespin000000",
@@ -861,7 +877,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 108,
+      "no": 110,
       "game_offering": "eCASINO GAMES",
       "game_name": "JOKER PRO",
       "game_id": "jokerpro00000000",
@@ -869,7 +885,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 109,
+      "no": 111,
       "game_offering": "eCASINO GAMES",
       "game_name": "JUMANJI",
       "game_id": "jumanji000000000",
@@ -877,15 +893,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 110,
+      "no": 112,
       "game_offering": "eCASINO GAMES",
       "game_name": "JUNGLE SPIRIT MEGAWAYS",
       "game_id": "junglespirir94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 111,
+      "no": 113,
       "game_offering": "eCASINO GAMES",
       "game_name": "JUNGLE SPIRIT: CALL OF THE WILD",
       "game_id": "junglespirit0000",
@@ -893,7 +909,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 112,
+      "no": 114,
       "game_offering": "eCASINO GAMES",
       "game_name": "KING OF 3 KINGDOMS",
       "game_id": "kingof3kingdoms0",
@@ -901,7 +917,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 113,
+      "no": 115,
       "game_offering": "eCASINO GAMES",
       "game_name": "KING OF SLOTS",
       "game_id": "kingofslots00000",
@@ -909,7 +925,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 114,
+      "no": 116,
       "game_offering": "eCASINO GAMES",
       "game_name": "KNIGHT RIDER",
       "game_id": "knightrider00000",
@@ -917,7 +933,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 115,
+      "no": 117,
       "game_offering": "eCASINO GAMES",
       "game_name": "KOI PRINCESS",
       "game_id": "koiprincess00000",
@@ -925,7 +941,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 116,
+      "no": 118,
       "game_offering": "eCASINO GAMES",
       "game_name": "LEPRECHAUN JOY",
       "game_id": "leprechaunjoy000",
@@ -933,7 +949,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 117,
+      "no": 119,
       "game_offering": "eCASINO GAMES",
       "game_name": "LET IT BURN",
       "game_id": "letitburnr94f101",
@@ -941,7 +957,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 118,
+      "no": 120,
       "game_offering": "eCASINO GAMES",
       "game_name": "LIGHTS",
       "game_id": "fireflies0000000",
@@ -949,7 +965,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 119,
+      "no": 121,
       "game_offering": "eCASINO GAMES",
       "game_name": "LIGHTS, CAMERA, CASH!",
       "game_id": "lightscameracash",
@@ -957,15 +973,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 120,
+      "no": 122,
       "game_offering": "eCASINO GAMES",
       "game_name": "LOCK AND POP",
       "game_id": "lockandpopr94f10",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 121,
+      "no": 123,
       "game_offering": "eCASINO GAMES",
       "game_name": "LONG PAO",
       "game_id": "longpao000000000",
@@ -973,7 +989,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 122,
+      "no": 124,
       "game_offering": "eCASINO GAMES",
       "game_name": "LOST RELICS",
       "game_id": "lostrelics000000",
@@ -981,7 +997,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 123,
+      "no": 125,
       "game_offering": "eCASINO GAMES",
       "game_name": "LUCKY ANGLER: A SNOWY CATCH",
       "game_id": "luckyangler00000",
@@ -989,7 +1005,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 124,
+      "no": 126,
       "game_offering": "eCASINO GAMES",
       "game_name": "MAGIC LAB",
       "game_id": "magiclab00000000",
@@ -997,7 +1013,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 125,
+      "no": 127,
       "game_offering": "eCASINO GAMES",
       "game_name": "MAGIC PORTALS",
       "game_id": "magicportals0000",
@@ -1005,7 +1021,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 126,
+      "no": 128,
       "game_offering": "eCASINO GAMES",
       "game_name": "MERMAIDS",
       "game_id": "mermaids00000000",
@@ -1013,7 +1029,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 127,
+      "no": 129,
       "game_offering": "eCASINO GAMES",
       "game_name": "MILKSHAKE XXXTREME",
       "game_id": "milkshakexxr94f1",
@@ -1021,7 +1037,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 128,
+      "no": 130,
       "game_offering": "eCASINO GAMES",
       "game_name": "MINE BLOWN",
       "game_id": "mineblown0000000",
@@ -1029,7 +1045,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 129,
+      "no": 131,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MONOPOLY MONEY LINE",
+      "game_id": "monopolymonr94f1",
+      "game_version": "1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 132,
       "game_offering": "eCASINO GAMES",
       "game_name": "MOONSHINE RICHES",
       "game_id": "moonshine0000000",
@@ -1037,7 +1061,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 130,
+      "no": 133,
       "game_offering": "eCASINO GAMES",
       "game_name": "MOTORHEAD VIDEO SLOT",
       "game_id": "motorhead0000000",
@@ -1045,7 +1069,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 131,
+      "no": 134,
       "game_offering": "eCASINO GAMES",
       "game_name": "MS ROBIN HOOD",
       "game_id": "msrobinhood00000",
@@ -1053,7 +1077,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 132,
+      "no": 135,
       "game_offering": "eCASINO GAMES",
       "game_name": "MUMMY MEGAWAYS",
       "game_id": "mummymegaways000",
@@ -1061,7 +1085,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 133,
+      "no": 136,
       "game_offering": "eCASINO GAMES",
       "game_name": "MYTHIC MAIDEN",
       "game_id": "mythicmaiden0000",
@@ -1069,7 +1093,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 134,
+      "no": 137,
       "game_offering": "eCASINO GAMES",
       "game_name": "NARCOS",
       "game_id": "narcos0000000000",
@@ -1077,7 +1101,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 135,
+      "no": 138,
       "game_offering": "eCASINO GAMES",
       "game_name": "NEON STAXX",
       "game_id": "neonstaxx0000000",
@@ -1085,7 +1109,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 136,
+      "no": 139,
       "game_offering": "eCASINO GAMES",
       "game_name": "OZZY OSBOURNE VIDEO SLOTS",
       "game_id": "ozzy000000000000",
@@ -1093,7 +1117,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 137,
+      "no": 140,
       "game_offering": "eCASINO GAMES",
       "game_name": "PANDORA’S TREASURE",
       "game_id": "pandorastreasure",
@@ -1101,7 +1125,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 138,
+      "no": 141,
       "game_offering": "eCASINO GAMES",
       "game_name": "PARTHENON: QUEST FOR IMMORTALITY",
       "game_id": "parthenonr200000",
@@ -1109,7 +1133,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 139,
+      "no": 142,
       "game_offering": "eCASINO GAMES",
       "game_name": "PIGGY RICHES",
       "game_id": "piggyriches00000",
@@ -1117,15 +1141,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 140,
+      "no": 143,
       "game_offering": "eCASINO GAMES",
       "game_name": "PIGGY RICHES 3: HOG HEAVEN",
       "game_id": "piggyriche3r94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 141,
+      "no": 144,
       "game_offering": "eCASINO GAMES",
       "game_name": "PIRATE FROM THE EAST",
       "game_id": "piratefrotheeast",
@@ -1133,7 +1157,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 142,
+      "no": 145,
       "game_offering": "eCASINO GAMES",
       "game_name": "PIRATES PARTY",
       "game_id": "piratesparty0000",
@@ -1141,7 +1165,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 143,
+      "no": 146,
       "game_offering": "eCASINO GAMES",
       "game_name": "PYRAMID: QUEST FOR IMMORTALITY",
       "game_id": "pyramid000000000",
@@ -1149,23 +1173,23 @@
       "game_type": "SLOT"
     },
     {
-      "no": 144,
+      "no": 147,
       "game_offering": "eCASINO GAMES",
       "game_name": "RABID RANDY",
       "game_id": "rabidrandyr95000",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 145,
+      "no": 148,
       "game_offering": "eCASINO GAMES",
       "game_name": "RABID RANDY DARK TRAILS",
       "game_id": "rabidrandydr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 146,
+      "no": 149,
       "game_offering": "eCASINO GAMES",
       "game_name": "RAGE",
       "game_id": "rager94f10000000",
@@ -1173,7 +1197,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 147,
+      "no": 150,
       "game_offering": "eCASINO GAMES",
       "game_name": "RAGE OF THE SEAS",
       "game_id": "rageoftheseas000",
@@ -1181,7 +1205,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 148,
+      "no": 151,
       "game_offering": "eCASINO GAMES",
       "game_name": "RAINFOREST GOLD",
       "game_id": "rainforestgold00",
@@ -1189,7 +1213,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 149,
+      "no": 152,
       "game_offering": "eCASINO GAMES",
       "game_name": "REEF RAIDER",
       "game_id": "reefraiderr20000",
@@ -1197,7 +1221,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 150,
+      "no": 153,
       "game_offering": "eCASINO GAMES",
       "game_name": "REEL RUSH",
       "game_id": "reelrushr4000000",
@@ -1205,7 +1229,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 151,
+      "no": 154,
       "game_offering": "eCASINO GAMES",
       "game_name": "REEL RUSH 2",
       "game_id": "reelrush20000000",
@@ -1213,15 +1237,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 152,
+      "no": 155,
       "game_offering": "eCASINO GAMES",
       "game_name": "REEL RUSH XXXTREME",
       "game_id": "reelrushxxxr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 153,
+      "no": 156,
       "game_offering": "eCASINO GAMES",
       "game_name": "RICHES OF MIDGARD: LAND AND EXPAND",
       "game_id": "richesofmdgardf1",
@@ -1229,7 +1253,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 154,
+      "no": 157,
       "game_offering": "eCASINO GAMES",
       "game_name": "RISE OF MAYA",
       "game_id": "riseofmaya000000",
@@ -1237,7 +1261,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 155,
+      "no": 158,
       "game_offering": "eCASINO GAMES",
       "game_name": "ROBIN HOOD: SHIFTING RICHES",
       "game_id": "robinhood0000000",
@@ -1245,7 +1269,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 156,
+      "no": 159,
       "game_offering": "eCASINO GAMES",
       "game_name": "ROME:THE GOLDEN AGE",
       "game_id": "romer00000000000",
@@ -1253,15 +1277,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 157,
+      "no": 160,
       "game_offering": "eCASINO GAMES",
       "game_name": "ROYAL NUTS",
       "game_id": "royalnutsr94f100",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 158,
+      "no": 161,
       "game_offering": "eCASINO GAMES",
       "game_name": "SANTA VS RUDOLF",
       "game_id": "santavsrudolf000",
@@ -1269,7 +1293,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 159,
+      "no": 162,
       "game_offering": "eCASINO GAMES",
       "game_name": "SCRUFFY DUCK",
       "game_id": "scruffyduck00000",
@@ -1277,7 +1301,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 160,
+      "no": 163,
       "game_offering": "eCASINO GAMES",
       "game_name": "SCUDAMORE'S SUPER STAKES",
       "game_id": "scudamore0000000",
@@ -1285,7 +1309,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 161,
+      "no": 164,
       "game_offering": "eCASINO GAMES",
       "game_name": "SECRET OF THE STONES",
       "game_id": "secretofthestone",
@@ -1293,7 +1317,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 162,
+      "no": 165,
       "game_offering": "eCASINO GAMES",
       "game_name": "SECRETS OF CHRISTMAS",
       "game_id": "secretsofchristm",
@@ -1301,7 +1325,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 163,
+      "no": 166,
       "game_offering": "eCASINO GAMES",
       "game_name": "SERENGETI KINGS",
       "game_id": "serengetikings00",
@@ -1309,7 +1333,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 164,
+      "no": 167,
       "game_offering": "eCASINO GAMES",
       "game_name": "SILVERBACK GOLD",
       "game_id": "silverback000000",
@@ -1317,7 +1341,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 165,
+      "no": 168,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPACE WARS",
       "game_id": "spacewars0000000",
@@ -1325,7 +1349,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 166,
+      "no": 169,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPACE WARS 2",
       "game_id": "spacewars2000000",
@@ -1333,15 +1357,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 167,
+      "no": 170,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPACE WARS MEGAWAYS XXXTREME",
       "game_id": "spacewarsmwr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 168,
+      "no": 171,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPARKS",
       "game_id": "sparks0000000000",
@@ -1349,7 +1373,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 169,
+      "no": 172,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPELLCAST",
       "game_id": "wizards000000000",
@@ -1357,7 +1381,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 170,
+      "no": 173,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPIÑATA GRANDE",
       "game_id": "colossalpinatas0",
@@ -1365,7 +1389,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 171,
+      "no": 174,
       "game_offering": "eCASINO GAMES",
       "game_name": "SPINSANE",
       "game_id": "spinsane00000000",
@@ -1373,7 +1397,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 172,
+      "no": 175,
       "game_offering": "eCASINO GAMES",
       "game_name": "STARBURST",
       "game_id": "starburstr400000",
@@ -1381,7 +1405,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 173,
+      "no": 176,
       "game_offering": "eCASINO GAMES",
       "game_name": "STARBURST GALAXY",
       "game_id": "starburstgar94f1",
@@ -1389,7 +1413,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 174,
+      "no": 177,
       "game_offering": "eCASINO GAMES",
       "game_name": "STARBURST XXXTREME",
       "game_id": "starbursttremef1",
@@ -1397,7 +1421,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 175,
+      "no": 178,
       "game_offering": "eCASINO GAMES",
       "game_name": "STEAM TOWER",
       "game_id": "steamtowerj0r200",
@@ -1405,7 +1429,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 176,
+      "no": 179,
       "game_offering": "eCASINO GAMES",
       "game_name": "STICKERS",
       "game_id": "stickers00000000",
@@ -1413,7 +1437,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 177,
+      "no": 180,
       "game_offering": "eCASINO GAMES",
       "game_name": "STROLLING STAXX: CUBIC FRUITS",
       "game_id": "strollingstaxx00",
@@ -1421,7 +1445,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 178,
+      "no": 181,
       "game_offering": "eCASINO GAMES",
       "game_name": "SUPER STRIKER",
       "game_id": "superstrikerf100",
@@ -1429,7 +1453,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 179,
+      "no": 182,
       "game_offering": "eCASINO GAMES",
       "game_name": "SUPERSTARS",
       "game_id": "superstarsr1f100",
@@ -1437,7 +1461,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 180,
+      "no": 183,
       "game_offering": "eCASINO GAMES",
       "game_name": "SWEETY HONEY FRUITY",
       "game_id": "sweetyhoneyfruit",
@@ -1445,7 +1469,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 181,
+      "no": 184,
       "game_offering": "eCASINO GAMES",
       "game_name": "SWIPE AND ROLL",
       "game_id": "swipe00000000000",
@@ -1453,7 +1477,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 182,
+      "no": 185,
       "game_offering": "eCASINO GAMES",
       "game_name": "TACO FURY XXXTREME",
       "game_id": "tacofuryr94f1000",
@@ -1461,7 +1485,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 183,
+      "no": 186,
       "game_offering": "eCASINO GAMES",
       "game_name": "TEMPLE OF NUDGES",
       "game_id": "templeofnudges00",
@@ -1469,7 +1493,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 184,
+      "no": 187,
       "game_offering": "eCASINO GAMES",
       "game_name": "THE INVISIBLE MAN",
       "game_id": "invisibleman0000",
@@ -1477,7 +1501,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 185,
+      "no": 188,
       "game_offering": "eCASINO GAMES",
       "game_name": "THE LEGEND OF SHANGRI-LA: CLUSTER PAYS",
       "game_id": "shangrila0000000",
@@ -1485,7 +1509,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 186,
+      "no": 189,
       "game_offering": "eCASINO GAMES",
       "game_name": "THE WISH MASTER",
       "game_id": "wishmasteroct000",
@@ -1493,7 +1517,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 187,
+      "no": 190,
       "game_offering": "eCASINO GAMES",
       "game_name": "THE WISH MASTER MEGAWAYS",
       "game_id": "thewishmastermeg",
@@ -1501,7 +1525,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 188,
+      "no": 191,
       "game_offering": "eCASINO GAMES",
       "game_name": "THE WOLF'S BANE",
       "game_id": "thewolfsnight000",
@@ -1509,7 +1533,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 189,
+      "no": 192,
       "game_offering": "eCASINO GAMES",
       "game_name": "THEME PARK: TICKETS OF FORTUNE",
       "game_id": "themepark0000000",
@@ -1517,15 +1541,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 190,
+      "no": 193,
       "game_offering": "eCASINO GAMES",
       "game_name": "THRILL TO GRILL",
       "game_id": "thrilltogrir94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 191,
+      "no": 194,
       "game_offering": "eCASINO GAMES",
       "game_name": "TICKET TO WILD",
       "game_id": "tickettowild0000",
@@ -1533,7 +1557,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 192,
+      "no": 195,
       "game_offering": "eCASINO GAMES",
       "game_name": "TROLLPOT 5000",
       "game_id": "trollpot00000000",
@@ -1541,7 +1565,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 193,
+      "no": 196,
       "game_offering": "eCASINO GAMES",
       "game_name": "TURN YOUR FORTUNE",
       "game_id": "turnyourfortune0",
@@ -1549,7 +1573,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 194,
+      "no": 197,
       "game_offering": "eCASINO GAMES",
       "game_name": "TWIN HAPPINESS",
       "game_id": "twinhappiness000",
@@ -1557,7 +1581,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 195,
+      "no": 198,
       "game_offering": "eCASINO GAMES",
       "game_name": "TWIN SPIN",
       "game_id": "twinspinr4000000",
@@ -1565,7 +1589,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 196,
+      "no": 199,
       "game_offering": "eCASINO GAMES",
       "game_name": "TWIN SPIN DELUXE",
       "game_id": "twinspindeluxe00",
@@ -1573,7 +1597,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 197,
+      "no": 200,
       "game_offering": "eCASINO GAMES",
       "game_name": "TWIN SPIN MEGAWAYS",
       "game_id": "twinspinmw000000",
@@ -1581,23 +1605,23 @@
       "game_type": "SLOT"
     },
     {
-      "no": 198,
+      "no": 201,
       "game_offering": "eCASINO GAMES",
       "game_name": "TWIN SPIN XXXTREME",
       "game_id": "twinspinextr94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 199,
+      "no": 202,
       "game_offering": "eCASINO GAMES",
       "game_name": "TWISTER",
       "game_id": "twisterr94f10000",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 200,
+      "no": 203,
       "game_offering": "eCASINO GAMES",
       "game_name": "VICTORIOUS",
       "game_id": "victorious000000",
@@ -1605,7 +1629,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 201,
+      "no": 204,
       "game_offering": "eCASINO GAMES",
       "game_name": "WARLORDS: CRYSTALS OF POWER",
       "game_id": "warlords00000000",
@@ -1613,7 +1637,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 202,
+      "no": 205,
       "game_offering": "eCASINO GAMES",
       "game_name": "WHO'S THE BRIDE",
       "game_id": "whosthebride0000",
@@ -1621,7 +1645,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 203,
+      "no": 206,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD BAZAAR",
       "game_id": "wildbazaar000000",
@@ -1629,15 +1653,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 204,
+      "no": 207,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD MINING XXXTREME",
       "game_id": "wildminingxx94f1",
-      "game_version": "1.0",
+      "game_version": "1",
       "game_type": "SLOT"
     },
     {
-      "no": 205,
+      "no": 208,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD TURKEY",
       "game_id": "wildturkey000000",
@@ -1645,7 +1669,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 206,
+      "no": 209,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD TURKEY MEGAWAYS",
       "game_id": "wildturkeymegawa",
@@ -1653,7 +1677,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 207,
+      "no": 210,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD WATER",
       "game_id": "wildwater0000000",
@@ -1661,7 +1685,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 208,
+      "no": 211,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD WILD WEST: THE GREAT TRAIN HEIST",
       "game_id": "wildwildwest0000",
@@ -1669,7 +1693,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 209,
+      "no": 212,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD WORLDS",
       "game_id": "wildworlds000000",
@@ -1677,7 +1701,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 210,
+      "no": 213,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILDERLAND",
       "game_id": "wilderland000000",
@@ -1685,7 +1709,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 211,
+      "no": 214,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILD-O-TRON 3000",
       "game_id": "wildotron3000000",
@@ -1693,7 +1717,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 212,
+      "no": 215,
       "game_offering": "eCASINO GAMES",
       "game_name": "WILLY'S HOT CHILLIES",
       "game_id": "willyshotchillie",
@@ -1701,7 +1725,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 213,
+      "no": 216,
       "game_offering": "eCASINO GAMES",
       "game_name": "WINGS OF RICHES",
       "game_id": "wingsofriches000",
@@ -1709,7 +1733,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 214,
+      "no": 217,
       "game_offering": "eCASINO GAMES",
       "game_name": "WITCHCRAFT ACADEMY",
       "game_id": "witchcrafacademy",
@@ -1717,7 +1741,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 215,
+      "no": 218,
       "game_offering": "eCASINO GAMES",
       "game_name": "WOLF CUB",
       "game_id": "wolfcub000000000",
@@ -1725,7 +1749,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 216,
+      "no": 219,
       "game_offering": "eCASINO GAMES",
       "game_name": "WONDERLAND PROTECTOR",
       "game_id": "wonderlanotector",
@@ -1733,7 +1757,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 217,
+      "no": 220,
       "game_offering": "eCASINO GAMES",
       "game_name": "WONDERS OF CHRISTMAS",
       "game_id": "wondersofmasr0f0",

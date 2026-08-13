@@ -1,0 +1,16 @@
+{
+  "provider": "PLAYGROUND STUDIO INC. (PLAYGROUND)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PLAYGROUND.pdf",
+  "last_updated": "July 16, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "NUMERIC GAME",
+      "game_name": "NUMBER 2 PINOY",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "LIVE NUMERIC GAME"
+    }
+  ]
+}

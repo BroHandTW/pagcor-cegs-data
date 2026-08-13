@@ -1,0 +1,16 @@
+{
+  "provider": "GAMEMASTER INTEGRATED, INC. (GII)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GAMEMASTER.pdf",
+  "last_updated": "July 16, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "ONLINE POKER GAME",
+      "game_name": "POKER PLUS TOURNAMENT",
+      "game_id": "2032",
+      "game_version": "V1.0.0.30",
+      "game_type": "ONLINE POKER"
+    }
+  ]
+}

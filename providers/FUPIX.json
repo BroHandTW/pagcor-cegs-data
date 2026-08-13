@@ -1,0 +1,16 @@
+{
+  "provider": "FUPIX SOLUTIONS CORPORATION / FUPIX",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/FUPIX.pdf",
+  "last_updated": "July 16, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "SPORTS BETTING",
+      "game_name": "ROYAL GRANDPRIX DERBY",
+      "game_id": "FS-SB 01 - ROYAL GRANDPRIX DERBY",
+      "game_version": "",
+      "game_type": "RNG-BASED VIRTUAL SPORTS"
+    }
+  ]
+}

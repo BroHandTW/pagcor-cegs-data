@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.pagcor.ph/regulatory/cegs.php",
-  "total_providers": 85,
-  "total_games": 5065,
+  "total_providers": 106,
+  "total_games": 6218,
   "providers": [
     {
       "name": "5G GAMES",
@@ -54,6 +54,11 @@
       "total_games": 195
     },
     {
+      "name": "DARWIN GAMING",
+      "file": "DARWIN-GAMING.json",
+      "total_games": 42
+    },
+    {
       "name": "DW TECHNOLOGIES ASIA INC. / DW GAMES",
       "file": "DW-GAMES.json",
       "total_games": 42
@@ -99,14 +104,34 @@
       "total_games": 82
     },
     {
+      "name": "FUPIX SOLUTIONS CORPORATION / FUPIX",
+      "file": "FUPIX.json",
+      "total_games": 1
+    },
+    {
       "name": "GALATIC EVENTS CORP. / FA CHAI",
       "file": "FA-CHAI.json",
       "total_games": 70
     },
     {
+      "name": "GALATIC EVENTS CORP. / FA CHAI (FC)",
+      "file": "FA-CHAI.json",
+      "total_games": 71
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / JDB",
+      "file": "JDB.json",
+      "total_games": 112
+    },
+    {
       "name": "GALATIC EVENTS CORP. / JDB",
       "file": "JDB.json",
       "total_games": 108
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / OMNIPLAY",
+      "file": "OMNIPLAY.json",
+      "total_games": 15
     },
     {
       "name": "GALATIC EVENTS CORP. / OMNIPLAY",
@@ -119,7 +144,17 @@
       "total_games": 27
     },
     {
+      "name": "GALATIC EVENTS CORP. / VERTEXPLAY",
+      "file": "VERTEXPLAY.json",
+      "total_games": 27
+    },
+    {
       "name": "GALATIC EVENTS CORP. / YELLOW BAT",
+      "file": "YELLOW-BAT.json",
+      "total_games": 51
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / YELLOW BAT (YB)",
       "file": "YELLOW-BAT.json",
       "total_games": 51
     },
@@ -127,6 +162,11 @@
       "name": "GALAXSYS",
       "file": "GALAXSYS.json",
       "total_games": 18
+    },
+    {
+      "name": "GAMEMASTER INTEGRATED, INC. (GII)",
+      "file": "GAMEMASTER-INTEGRATED-INC.json",
+      "total_games": 1
     },
     {
       "name": "GAMESPHERE SOLUTIONS, INC. / ADVANTPLAY",
@@ -156,12 +196,12 @@
     {
       "name": "GEMINI GAMING MANAGEMENT CORPORATION / GEMINI",
       "file": "GEMINI.json",
-      "total_games": 36
+      "total_games": 32
     },
     {
       "name": "GIOCO",
       "file": "GIOCO.json",
-      "total_games": 2
+      "total_games": 4
     },
     {
       "name": "HABANERO",
@@ -172,6 +212,21 @@
       "name": "HACKSAW GAMING",
       "file": "HACKSAW-GAMING.json",
       "total_games": 156
+    },
+    {
+      "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / OCTOPLAY",
+      "file": "OCTOPLAY.json",
+      "total_games": 88
+    },
+    {
+      "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / OCTOPLAY: PENGUIN KING",
+      "file": "OCTOPLAY-PENGUIN-KING.json",
+      "total_games": 4
+    },
+    {
+      "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / SPIN MASTER",
+      "file": "SPIN-MASTER.json",
+      "total_games": 46
     },
     {
       "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / SPIN MASTER",
@@ -219,9 +274,9 @@
       "total_games": 1
     },
     {
-      "name": "NEMO INTERACTIVE GROUP CORPORATION / NEMO-IG",
+      "name": "NEMO INTERACTIVE GROUP CORPORATION/ NEMO-IG",
       "file": "NEMO-IG.json",
-      "total_games": 7
+      "total_games": 3
     },
     {
       "name": "NEXTPLAY INTERNATIONAL INC. / TAISHAN",
@@ -254,9 +309,24 @@
       "total_games": 67
     },
     {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: BIG TIME GAMING",
+      "file": "EVOLUTION-BIG-TIME-GAMING.json",
+      "total_games": 72
+    },
+    {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: FIRST PERSON",
       "file": "EVOLUTION-FIRST-PERSON.json",
       "total_games": 13
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: FIRST PERSON",
+      "file": "EVOLUTION-FIRST-PERSON.json",
+      "total_games": 13
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: LIVE DEALER",
+      "file": "EVOLUTION-LIVE-DEALER.json",
+      "total_games": 108
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: LIVE DEALER GAMES",
@@ -266,7 +336,7 @@
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: NETENT",
       "file": "EVOLUTION-NETENT.json",
-      "total_games": 217
+      "total_games": 220
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: NO LIMIT CITY",
@@ -274,9 +344,24 @@
       "total_games": 115
     },
     {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: NO LIMIT CITY",
+      "file": "EVOLUTION-NO-LIMIT-CITY.json",
+      "total_games": 125
+    },
+    {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: RED TIGER",
       "file": "EVOLUTION-RED-TIGER.json",
       "total_games": 360
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: RED TIGER",
+      "file": "EVOLUTION-RED-TIGER.json",
+      "total_games": 360
+    },
+    {
+      "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: TAP-A-ROO",
+      "file": "EVOLUTION-TAP-A-ROO.json",
+      "total_games": 6
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: TAP-A-ROO",
@@ -294,9 +379,19 @@
       "total_games": 2
     },
     {
+      "name": "PAUL JS GAMING STATION, INC. / PAUL JS",
+      "file": "PAUL-JS.json",
+      "total_games": 5
+    },
+    {
       "name": "PETER SONS",
       "file": "PETER-SONS.json",
       "total_games": 49
+    },
+    {
+      "name": "PLAYGROUND STUDIO INC. (PLAYGROUND)",
+      "file": "PLAYGROUND-STUDIO-INC.json",
+      "total_games": 1
     },
     {
       "name": "PLAYSON",
@@ -311,7 +406,12 @@
     {
       "name": "PLAYTECH",
       "file": "PLAYTECH.json",
-      "total_games": 283
+      "total_games": 244
+    },
+    {
+      "name": "PLAYTECH LIVE",
+      "file": "PLAYTECH-LIVE.json",
+      "total_games": 46
     },
     {
       "name": "POCKET GAMES SOFT",
@@ -417,6 +517,11 @@
       "name": "WORLD PLATINUM TECHNOLOGIES INC. / WPTI",
       "file": "WPTI.json",
       "total_games": 17
+    },
+    {
+      "name": "XN INTERACTIVE INC.",
+      "file": "XN-INTERACTIVE-INC.json",
+      "total_games": 1
     },
     {
       "name": "YGGDRASIL",

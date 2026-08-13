@@ -1,43 +1,11 @@
 {
-  "provider": "NEMO-IG",
+  "provider": "NEMO INTERACTIVE GROUP CORPORATION/ NEMO-IG",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/NEMO-IG.pdf",
-  "last_updated": "March 19, 2026",
-  "total_games": 7,
+  "last_updated": "July 16, 2026",
+  "total_games": 3,
   "games": [
     {
       "no": 1,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "KARAMBOLA CLASSIC WITH CARRY OVER",
-      "game_id": "",
-      "game_version": "",
-      "game_type": "CLASSIC"
-    },
-    {
-      "no": 2,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "KARAMBOLA XO",
-      "game_id": "",
-      "game_version": "",
-      "game_type": "XO"
-    },
-    {
-      "no": 3,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "LUCKY SIGNS",
-      "game_id": "",
-      "game_version": "",
-      "game_type": ""
-    },
-    {
-      "no": 4,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "LUCKY SIGNS 36",
-      "game_id": "",
-      "game_version": "",
-      "game_type": ""
-    },
-    {
-      "no": 5,
       "game_offering": "SPORTS BETTING",
       "game_name": "BK2024",
       "game_id": "",
@@ -45,7 +13,7 @@
       "game_type": "RED / BLUE / GREEN (DEAD HEAT)"
     },
     {
-      "no": 6,
+      "no": 2,
       "game_offering": "SPORTS BETTING",
       "game_name": "INTERNATIONAL HORSE RACING CLASSIC WITH CARRY OVER",
       "game_id": "",
@@ -53,7 +21,7 @@
       "game_type": "CLASSIC"
     },
     {
-      "no": 7,
+      "no": 3,
       "game_offering": "SPORTS BETTING",
       "game_name": "INTERNATIONAL HORSE RACING ODD/EVEN",
       "game_id": "",

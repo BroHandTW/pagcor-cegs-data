@@ -1,0 +1,104 @@
+{
+  "provider": "GAMESPHERE SOLUTIONS, INC. / MI SLOTS (WITH JACKPOT FEATURE)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GAMESPHERE-MI-SLOTS-WITH-JACKPOT-FEATURE.pdf",
+  "last_updated": "August 13, 2026",
+  "total_games": 12,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ABU'S LUCKY",
+      "game_id": "8",
+      "game_version": "v1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOUNTY HUNTER",
+      "game_id": "12",
+      "game_version": "v1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY CARNIVAL",
+      "game_id": "10",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE ACE",
+      "game_id": "3",
+      "game_version": "v1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "FORTUNE TREE",
+      "game_id": "20",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GEM KINGDOM",
+      "game_id": "4",
+      "game_version": "v1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LAICAI MAHJONG",
+      "game_id": "2",
+      "game_version": "v1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LAICAI MAHJONG-CLASSIC",
+      "game_id": "31",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYA GOLDEN PROPHECY",
+      "game_id": "5",
+      "game_version": "v1.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MIGHT OF ZEUS",
+      "game_id": "9",
+      "game_version": "v1.2",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "QUEEN OF HALLOWEEN",
+      "game_id": "15",
+      "game_version": "v1.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WILD BREAKER",
+      "game_id": "1",
+      "game_version": "v1.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

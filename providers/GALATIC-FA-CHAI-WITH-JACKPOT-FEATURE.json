@@ -1,0 +1,16 @@
+{
+  "provider": "GALATIC EVENTS CORP. / FA CHAI (WITH PROGRESSIVE JACKPOT FEATURE)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GALATIC-FA-CHAI-WITH-JACKPOT-FEATURE.pdf",
+  "last_updated": "August 13, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LUCKY FORTUNES JACKPOT",
+      "game_id": "22068",
+      "game_version": "1.0.6",
+      "game_type": "SLOT"
+    }
+  ]
+}

@@ -15,13 +15,20 @@ PAGCOR (Philippine Amusement and Gaming Corporation) publishes PDF lists of appr
     └── ...
 ```
 
+One JSON file per PDF listed on the CEGS page. Files are named after the
+provider brand, except where PAGCOR lists the same brand under several PDFs —
+a legacy list plus an operator-prefixed one (`FA-CHAI.json` and
+`GALATIC-FA-CHAI.json`), or a `(WITH JACKPOT FEATURE)` variant. Those are named
+after their source PDF instead, so no list is ever merged into or hidden behind
+another. Every `index.json` entry maps to exactly one file.
+
 ## index.json
 
 ```json
 {
   "source_url": "https://www.pagcor.ph/regulatory/cegs.php",
-  "total_providers": 78,
-  "total_games": 4834,
+  "total_providers": 117,
+  "total_games": 7268,
   "providers": [
     { "name": "JILI", "file": "JILI.json", "total_games": 217 }
   ]

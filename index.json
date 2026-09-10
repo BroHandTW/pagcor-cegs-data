@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.pagcor.ph/regulatory/cegs.php",
-  "total_providers": 106,
-  "total_games": 6218,
+  "total_providers": 117,
+  "total_games": 7268,
   "providers": [
     {
       "name": "5G GAMES",
@@ -59,6 +59,11 @@
       "total_games": 42
     },
     {
+      "name": "DG OPERATIVE INC. / KING MIDAS",
+      "file": "DG-KING-MIDAS.json",
+      "total_games": 65
+    },
+    {
       "name": "DW TECHNOLOGIES ASIA INC. / DW GAMES",
       "file": "DW-GAMES.json",
       "total_games": 42
@@ -82,6 +87,26 @@
       "name": "ESAT PILIPINAS TEKNIK, OPC / ESAT",
       "file": "ESAT.json",
       "total_games": 3
+    },
+    {
+      "name": "EURO GAMES TECHNOLOGY PHILIPPINES CORP. / EGT DIGITAL (WITH JACKPOT FEATURE)",
+      "file": "EGT-WITH-JACKPOT-FEATURE.json",
+      "total_games": 176
+    },
+    {
+      "name": "EVOLUTION: BIG TIME GAMING (ONE VISAYA GAMING CORPORATION)",
+      "file": "EVOLUTION-BIG-TIME-GAMING-OVGC.json",
+      "total_games": 74
+    },
+    {
+      "name": "EVOLUTION: NETENT (ONE VISAYA GAMING CORPORATION)",
+      "file": "EVOLUTION-NETENT-OVGC.json",
+      "total_games": 222
+    },
+    {
+      "name": "EVOLUTION: NO LIMIT CITY (ONE VISAYA GAMING CORPORATION)",
+      "file": "EVOLUTION-NO-LIMIT-CITY-OVGC.json",
+      "total_games": 129
     },
     {
       "name": "EVOPLAY",
@@ -114,14 +139,19 @@
       "total_games": 70
     },
     {
-      "name": "GALATIC EVENTS CORP. / FA CHAI (FC)",
-      "file": "FA-CHAI.json",
-      "total_games": 71
+      "name": "GALATIC EVENTS CORP. / FA CHAI",
+      "file": "GALATIC-FA-CHAI.json",
+      "total_games": 87
+    },
+    {
+      "name": "GALATIC EVENTS CORP. / FA CHAI (WITH PROGRESSIVE JACKPOT FEATURE)",
+      "file": "GALATIC-FA-CHAI-WITH-JACKPOT-FEATURE.json",
+      "total_games": 1
     },
     {
       "name": "GALATIC EVENTS CORP. / JDB",
-      "file": "JDB.json",
-      "total_games": 112
+      "file": "GALATIC-JDB.json",
+      "total_games": 115
     },
     {
       "name": "GALATIC EVENTS CORP. / JDB",
@@ -130,7 +160,7 @@
     },
     {
       "name": "GALATIC EVENTS CORP. / OMNIPLAY",
-      "file": "OMNIPLAY.json",
+      "file": "GALATIC-OMNIPLAY.json",
       "total_games": 15
     },
     {
@@ -139,8 +169,13 @@
       "total_games": 10
     },
     {
+      "name": "GALATIC EVENTS CORP. / OMNIPLAY (WITH JACKPOT FEATURE)",
+      "file": "GALATIC-OMNIPLAY-WITH-JACKPOT-FEATURE.json",
+      "total_games": 24
+    },
+    {
       "name": "GALATIC EVENTS CORP. / VERTEXPLAY",
-      "file": "VERTEXPLAY.json",
+      "file": "GALATIC-VERTEXPLAY.json",
       "total_games": 27
     },
     {
@@ -150,11 +185,11 @@
     },
     {
       "name": "GALATIC EVENTS CORP. / YELLOW BAT",
-      "file": "YELLOW-BAT.json",
+      "file": "GALATIC-YELLOW-BAT.json",
       "total_games": 51
     },
     {
-      "name": "GALATIC EVENTS CORP. / YELLOW BAT (YB)",
+      "name": "GALATIC EVENTS CORP. / YELLOW BAT",
       "file": "YELLOW-BAT.json",
       "total_games": 51
     },
@@ -175,8 +210,18 @@
     },
     {
       "name": "GAMESPHERE SOLUTIONS, INC. / MI SLOTS",
+      "file": "GAMESPHERE-MI-SLOTS.json",
+      "total_games": 13
+    },
+    {
+      "name": "GAMESPHERE SOLUTIONS, INC. / MI SLOTS",
       "file": "MI-SLOTS.json",
       "total_games": 13
+    },
+    {
+      "name": "GAMESPHERE SOLUTIONS, INC. / MI SLOTS (WITH JACKPOT FEATURE)",
+      "file": "GAMESPHERE-MI-SLOTS-WITH-JACKPOT-FEATURE.json",
+      "total_games": 12
     },
     {
       "name": "GAMESPHERE SOLUTIONS, INC. / VICTORY ARK GAMING",
@@ -215,18 +260,18 @@
     },
     {
       "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / OCTOPLAY",
-      "file": "OCTOPLAY.json",
-      "total_games": 88
+      "file": "IGO-OCTOPLAY.json",
+      "total_games": 93
     },
     {
       "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / OCTOPLAY: PENGUIN KING",
-      "file": "OCTOPLAY-PENGUIN-KING.json",
+      "file": "IGO-OCTOPLAY-PENGUIN-KING.json",
       "total_games": 4
     },
     {
       "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / SPIN MASTER",
-      "file": "SPIN-MASTER.json",
-      "total_games": 46
+      "file": "IGO-SPIN-MASTER.json",
+      "total_games": 50
     },
     {
       "name": "IGO DIGITAL HIGH TECHNOLOGY INC. / SPIN MASTER",
@@ -242,6 +287,11 @@
       "name": "JILI",
       "file": "JILI.json",
       "total_games": 217
+    },
+    {
+      "name": "JILI (I-SLOT GAMING CORPORATION)",
+      "file": "JILI-I-SLOT-GAMING-CORPORATION.json",
+      "total_games": 219
     },
     {
       "name": "JK8 IT SOLUTIONS DEVELOPMENT AND SERVICES INC. / JK8",
@@ -264,9 +314,9 @@
       "total_games": 34
     },
     {
-      "name": "LIGHT AND WONDER SERVICES PHILIPPINES, INC. / LIGHT AND WONDER - ELK STUDIOS",
+      "name": "LIGHT AND WONDER SERVICES PHILIPPINES, INC. / LIGHT AND WONDER: ELK STUDIOS",
       "file": "LIGHT-AND-WONDER-ELK-STUDIOS.json",
-      "total_games": 26
+      "total_games": 22
     },
     {
       "name": "MARBOYS88 CORPORATION / MARBOYS88",
@@ -310,7 +360,7 @@
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: BIG TIME GAMING",
-      "file": "EVOLUTION-BIG-TIME-GAMING.json",
+      "file": "OVGC-EVOLUTION-BIG-TIME-GAMING.json",
       "total_games": 72
     },
     {
@@ -320,7 +370,7 @@
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: FIRST PERSON",
-      "file": "EVOLUTION-FIRST-PERSON.json",
+      "file": "OVGC-EVOLUTION-FIRST-PERSON.json",
       "total_games": 13
     },
     {
@@ -345,7 +395,7 @@
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: NO LIMIT CITY",
-      "file": "EVOLUTION-NO-LIMIT-CITY.json",
+      "file": "OVGC-EVOLUTION-NO-LIMIT-CITY.json",
       "total_games": 125
     },
     {
@@ -355,8 +405,8 @@
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: RED TIGER",
-      "file": "EVOLUTION-RED-TIGER.json",
-      "total_games": 360
+      "file": "OVGC-EVOLUTION-RED-TIGER.json",
+      "total_games": 364
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: TAP-A-ROO",
@@ -365,7 +415,7 @@
     },
     {
       "name": "ONE VISAYA GAMING CORPORATION / EVOLUTION: TAP-A-ROO",
-      "file": "EVOLUTION-TAP-A-ROO.json",
+      "file": "OVGC-EVOLUTION-TAP-A-ROO.json",
       "total_games": 6
     },
     {
@@ -384,9 +434,19 @@
       "total_games": 5
     },
     {
-      "name": "PETER SONS",
-      "file": "PETER-SONS.json",
+      "name": "PETER AND SONS",
+      "file": "PETER-AND-SONS.json",
       "total_games": 49
+    },
+    {
+      "name": "PHILWEB CORPORATION / PRAGMATIC PLAY",
+      "file": "PRAGMATIC-PLAY.json",
+      "total_games": 502
+    },
+    {
+      "name": "PHILWEB CORPORATION / PRAGMATIC PLAY: ARRISE",
+      "file": "PRAGMATIC-PLAY-ARRISE.json",
+      "total_games": 43
     },
     {
       "name": "PLAYGROUND STUDIO INC. (PLAYGROUND)",
@@ -422,16 +482,6 @@
       "name": "POPOK GAMING",
       "file": "POPOK-GAMING.json",
       "total_games": 24
-    },
-    {
-      "name": "PRAGMATIC PLAY",
-      "file": "PRAGMATIC-PLAY.json",
-      "total_games": 416
-    },
-    {
-      "name": "PRAGMATIC PLAY (PP): ARRISE",
-      "file": "PRAGMATIC-PLAY-ARRISE.json",
-      "total_games": 43
     },
     {
       "name": "PRAGMATIC PLAY (PP): LIVE",
@@ -487,6 +537,11 @@
       "name": "TOTAL GAMEZONE XTREME INCORPORATED / REELX",
       "file": "REELX.json",
       "total_games": 22
+    },
+    {
+      "name": "TOTAL GAMEZONE XTREME INCORPORATED / REELX (WITH JACKPOT FEATURE)",
+      "file": "TGXI-REELX-WITH-JACKPOT-FEATURE.json",
+      "total_games": 1
     },
     {
       "name": "TRIPLE PROFIT GAMES",

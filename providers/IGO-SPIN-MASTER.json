@@ -1,0 +1,408 @@
+{
+  "provider": "IGO DIGITAL HIGH TECHNOLOGY INC. / SPIN MASTER",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/IGO-SPIN-MASTER.pdf",
+  "last_updated": "August 13, 2026",
+  "total_games": 50,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ANITUN FURY",
+      "game_id": "slot019",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "6011",
+      "game_version": "1.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAKUNAWA",
+      "game_id": "zhumeng005",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAKUNAWA 2",
+      "game_id": "slot006",
+      "game_version": "1.0.11",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAKUNAWA VS MINOKAWA",
+      "game_id": "slot017",
+      "game_version": "Ver.1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BATHALA",
+      "game_id": "6005",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BATHALA BONUS",
+      "game_id": "6014",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BATHALA'S BLESSING",
+      "game_id": "6013",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BAYANIHAN RISING",
+      "game_id": "zhumeng011",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOXING KING",
+      "game_id": "slot005",
+      "game_version": "1.0.25",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOXING KING 2",
+      "game_id": "slot016",
+      "game_version": "ver.1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BUNGISNGIS",
+      "game_id": "6012",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDY INFINITY",
+      "game_id": "slot015",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 14,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CHICKEN DASH",
+      "game_id": "zhumeng102",
+      "game_version": "1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 15,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR GAME SLOT",
+      "game_id": "6002",
+      "game_version": "-",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 16,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "COLOR RUSH",
+      "game_id": "6001",
+      "game_version": "-",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 17,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRYSTAL RUSH",
+      "game_id": "slot001",
+      "game_version": "-",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 18,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DIWATA MAYARI",
+      "game_id": "zhumeng006",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 19,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DROP BALL",
+      "game_id": "6008",
+      "game_version": "1.0.0",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 20,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "afdcbbcd-1e29-42d8-97ac- 82d97d742064 pc: a0b8a208-bf89-",
+      "game_id": "DROP BALL SLOT",
+      "game_version": "",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 21,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN PURSUIT",
+      "game_id": "zhumeng013",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 22,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GRAFFITI RUSH",
+      "game_id": "slot010",
+      "game_version": "1.0.11",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 23,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HAMPAS PALAYOK",
+      "game_id": "6017",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 24,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOOPS LEGENDS",
+      "game_id": "slot004",
+      "game_version": "1.0.31",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 25,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IBONG ADARNA",
+      "game_id": "zhumeng003",
+      "game_version": "-",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 26,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "IDOL POP",
+      "game_id": "zhumeng012",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 27,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JEEPNEY DASH",
+      "game_id": "zhumeng111",
+      "game_version": "1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 28,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "JEEPNEY RUSH",
+      "game_id": "slot007",
+      "game_version": "1.0.30",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 29,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KANTO FEAST",
+      "game_id": "slot009",
+      "game_version": "1.0.12",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 30,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "KAPRE",
+      "game_id": "zhumeng007",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 31,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LAM-ANG DELUXE",
+      "game_id": "zhumeng018",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 32,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MALAKAS AT MAGANDA",
+      "game_id": "zhumeng002",
+      "game_version": "-",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 33,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MANGKUKULAM",
+      "game_id": "zhumeng008",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 34,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MARIA MAKILING",
+      "game_id": "zhumeng001",
+      "game_version": "-",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 35,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAYON'S BLESSING",
+      "game_id": "slot013",
+      "game_version": "1.0.11",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 36,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINE TYCOON",
+      "game_id": "slot014",
+      "game_version": "1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 37,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MINES",
+      "game_id": "zhumeng101",
+      "game_version": "1.0.0",
+      "game_type": "ARCADE-TYPE"
+    },
+    {
+      "no": 38,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MULTO: THE FINAL WISH",
+      "game_id": "slot011",
+      "game_version": "ver.1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 39,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SIRENA",
+      "game_id": "zhumeng009",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 40,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SOLITAIRE",
+      "game_id": "slot018",
+      "game_version": "Ver.1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 41,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "SPIN MASTER KARA KRUS",
+      "game_id": "6010",
+      "game_version": "1.0.0",
+      "game_type": ""
+    },
+    {
+      "no": 42,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "h5: bd5fbf11-789c-47e2-b77c- d559b64bb87c - 1.0.0",
+      "game_id": "SPIN MASTER PULA PUTI",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 43,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPIN THE NIGHT",
+      "game_id": "slot012",
+      "game_version": "ver.1.0.1",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 44,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "STAR FRUITS 777",
+      "game_id": "slot003",
+      "game_version": "1.0.27",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 45,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUGAR FRENZY",
+      "game_id": "slot002",
+      "game_version": "1.0.27",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 46,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER COLOR",
+      "game_id": "6003",
+      "game_version": "-",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 47,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TIKBALANG",
+      "game_id": "slot008",
+      "game_version": "1.0.24",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 48,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TONGITS SPIN",
+      "game_id": "6006",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 49,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "TREASURES OF ATLANTIS",
+      "game_id": "zhumeng010",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 50,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZUMA'S TREASURE",
+      "game_id": "6007",
+      "game_version": "1.0.0",
+      "game_type": "ARCADE-TYPE"
+    }
+  ]
+}

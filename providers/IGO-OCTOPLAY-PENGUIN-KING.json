@@ -1,0 +1,40 @@
+{
+  "provider": "IGO DIGITAL HIGH TECHNOLOGY INC. / OCTOPLAY: PENGUIN KING",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/IGO-OCTOPLAY-PENGUIN-KING.pdf",
+  "last_updated": "August 13, 2026",
+  "total_games": 4,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "5 RELICS OF POWER: HOLD & WIN",
+      "game_id": "103112",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CANDYLAND JACKPOTS",
+      "game_id": "103117",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "CRACK & SMASH THE PIGGY BANK",
+      "game_id": "103134",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WISH OF A LIFETIME: HOLD & WIN",
+      "game_id": "103155",
+      "game_version": "1.0.0",
+      "game_type": "SLOT"
+    }
+  ]
+}

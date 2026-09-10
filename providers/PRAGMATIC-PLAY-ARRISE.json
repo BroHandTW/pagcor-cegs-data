@@ -1,7 +1,7 @@
 {
-  "provider": "PRAGMATIC PLAY (PP): ARRISE",
+  "provider": "PHILWEB CORPORATION / PRAGMATIC PLAY: ARRISE",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/PRAGMATIC-PLAY-ARRISE.pdf",
-  "last_updated": "May 19, 2026",
+  "last_updated": "August 13, 2026",
   "total_games": 43,
   "games": [
     {
@@ -255,17 +255,17 @@
     {
       "no": 32,
       "game_offering": "eCASINO GAMES",
-      "game_name": "SWEET RUSH BONANZA",
-      "game_id": "vs20swrbon",
-      "game_version": "cv109.50720",
+      "game_name": "SWEET BONANZA 2500",
+      "game_id": "vs20swbon2500",
+      "game_version": "cv114.50725",
       "game_type": "SLOT"
     },
     {
       "no": 33,
       "game_offering": "eCASINO GAMES",
-      "game_name": "SWEET BONANZA 2500",
-      "game_id": "vs20swbon2500",
-      "game_version": "cv114.50725",
+      "game_name": "SWEET RUSH BONANZA",
+      "game_id": "vs20swrbon",
+      "game_version": "cv109.50720",
       "game_type": "SLOT"
     },
     {

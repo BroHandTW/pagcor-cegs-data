@@ -1,0 +1,16 @@
+{
+  "provider": "TOTAL GAMEZONE XTREME INCORPORATED / REELX (WITH JACKPOT FEATURE)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/TGXI-REELX-WITH-JACKPOT-FEATURE.pdf",
+  "last_updated": "August 13, 2026",
+  "total_games": 1,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LIVE MINES",
+      "game_id": "20",
+      "game_version": "1.0.17",
+      "game_type": "ARCADE-TYPE"
+    }
+  ]
+}

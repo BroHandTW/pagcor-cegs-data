@@ -1,0 +1,56 @@
+{
+  "provider": "ONLIVE (GAMESPHERE SOLUTIONS, INC.)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/ONLIVE.pdf",
+  "last_updated": "September 23, 2026",
+  "total_games": 6,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BACCARAT",
+      "game_id": "SB01 to 05 - sb.20250912",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "DRAGON TIGER",
+      "game_id": "DT02",
+      "game_version": "dt.20250912",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ROULETTE",
+      "game_id": "RL01",
+      "game_version": "rt.20250912",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SEDIE",
+      "game_id": "SD01 to 02 - sd.20250912",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SICBO",
+      "game_id": "TS01",
+      "game_version": "ts.20250912",
+      "game_type": "LIVE DEALER TABLE GAME"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SPEED BACCARAT",
+      "game_id": "ON01 to 05, VNB01 - on.20250912",
+      "game_version": "",
+      "game_type": "LIVE DEALER TABLE GAME"
+    }
+  ]
+}

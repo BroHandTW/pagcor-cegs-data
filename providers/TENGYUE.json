@@ -1,0 +1,112 @@
+{
+  "provider": "TENGYUE (TENGYUE TECHNOLOGIES INC.)",
+  "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/TENGYUE.pdf",
+  "last_updated": "September 15, 2026",
+  "total_games": 13,
+  "games": [
+    {
+      "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "A SONG OF ICE AND FIRE",
+      "game_id": "102",
+      "game_version": "Ver: e4c7406897 (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "GOLDEN TOAD",
+      "game_id": "99",
+      "game_version": "Ver: a9016afb64 (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "HOCKEY LEAGUE",
+      "game_id": "92",
+      "game_version": "Ver: 52708bb283 (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 4,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "LEPRECHAUN RICHES",
+      "game_id": "73",
+      "game_version": "Ver: 5698ac98ed (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 5,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG WINS",
+      "game_id": "100",
+      "game_version": "Ver: 7279e5aa29 (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 6,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG WINS 2",
+      "game_id": "103",
+      "game_version": "Ver: 5339cf65d5 (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 7,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "MAHJONG WINS 5",
+      "game_id": "87",
+      "game_version": "Ver: 101619072d (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 8,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "SUPER ACE",
+      "game_id": "104",
+      "game_version": "Ver: 907478334f (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 9,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "THE FIRST SLAM DUNK",
+      "game_id": "78",
+      "game_version": "Ver: eb24aec41e (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 10,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "VEGAS ROCKETS",
+      "game_id": "101",
+      "game_version": "Ver: 789c424daa (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 11,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WESTERN SHERIFF",
+      "game_id": "96",
+      "game_version": "Ver: 4fb89c5836 (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 12,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "WING CHUN",
+      "game_id": "79",
+      "game_version": "Vers: 2339ebe337 (PHP)",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 13,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ZEUS",
+      "game_id": "82",
+      "game_version": "Ver: fd2111dd5b (PHP)",
+      "game_type": "SLOT"
+    }
+  ]
+}

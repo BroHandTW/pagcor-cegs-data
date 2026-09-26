@@ -1,11 +1,27 @@
 {
-  "provider": "TOTAL GAMEZONE XTREME INCORPORATED / GAMEZONE",
+  "provider": "GAMEZONE (TOTAL GAMEZONE XTREME INCORPORATED)",
   "source_url": "https://www.pagcor.ph/regulatory/pdf/App%20Kits/GAMEZONE.pdf",
-  "last_updated": "May 19, 2026",
-  "total_games": 12,
+  "last_updated": "September 15, 2026",
+  "total_games": 14,
   "games": [
     {
       "no": 1,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "ASWANG FIESTA",
+      "game_id": "aswangfiesta",
+      "game_version": "2.2.0.284",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 2,
+      "game_offering": "eCASINO GAMES",
+      "game_name": "BOUNTY RAID",
+      "game_id": "bountyraid",
+      "game_version": "2.2.0.274",
+      "game_type": "SLOT"
+    },
+    {
+      "no": 3,
       "game_offering": "eCASINO GAMES",
       "game_name": "EPIC ACE",
       "game_id": "epicace",
@@ -13,7 +29,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 2,
+      "no": 4,
       "game_offering": "eCASINO GAMES",
       "game_name": "GRAND ACE",
       "game_id": "grandace",
@@ -21,7 +37,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 3,
+      "no": 5,
       "game_offering": "eCASINO GAMES",
       "game_name": "MAHJONG FORTUNE",
       "game_id": "mahjongfortune",
@@ -29,7 +45,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 4,
+      "no": 6,
       "game_offering": "eCASINO GAMES",
       "game_name": "MAJOR ACE",
       "game_id": "majorace",
@@ -37,7 +53,7 @@
       "game_type": "SLOT"
     },
     {
-      "no": 5,
+      "no": 7,
       "game_offering": "eCASINO GAMES",
       "game_name": "SUPER GEMS 3",
       "game_id": "supergemthree",
@@ -45,15 +61,15 @@
       "game_type": "SLOT"
     },
     {
-      "no": 6,
+      "no": 8,
       "game_offering": "SPECIALTY GAMES",
       "game_name": "COLOR GAME WITH LIGHTNING BONUS FEATURE",
       "game_id": "5.2.0",
       "game_version": "",
-      "game_type": "LIVE DEALER TABLE GAME"
+      "game_type": "TABLE"
     },
     {
-      "no": 7,
+      "no": 9,
       "game_offering": "SPECIALTY GAMES",
       "game_name": "LUCKY 9 PLUS",
       "game_id": "",
@@ -61,25 +77,9 @@
       "game_type": "TABLE"
     },
     {
-      "no": 8,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "PA PULA, PA PUTI",
-      "game_id": "",
-      "game_version": "",
-      "game_type": "LIVE DEALER TABLE GAME"
-    },
-    {
-      "no": 9,
-      "game_offering": "SPECIALTY GAMES",
-      "game_name": "PINOY DROP BALL",
-      "game_id": "",
-      "game_version": "",
-      "game_type": "LIVE DEALER TABLE GAME"
-    },
-    {
       "no": 10,
       "game_offering": "SPECIALTY GAMES",
-      "game_name": "PUSOY PLUS",
+      "game_name": "PA PULA, PA PUTI",
       "game_id": "",
       "game_version": "",
       "game_type": "TABLE"
@@ -87,13 +87,29 @@
     {
       "no": 11,
       "game_offering": "SPECIALTY GAMES",
-      "game_name": "TONGITS PLUS",
+      "game_name": "PINOY DROP BALL",
       "game_id": "",
       "game_version": "",
       "game_type": "TABLE"
     },
     {
       "no": 12,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "PUSOY PLUS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 13,
+      "game_offering": "SPECIALTY GAMES",
+      "game_name": "TONGITS PLUS",
+      "game_id": "",
+      "game_version": "",
+      "game_type": "TABLE"
+    },
+    {
+      "no": 14,
       "game_offering": "SPECIALTY GAMES",
       "game_name": "TONGITS QUICK",
       "game_id": "",

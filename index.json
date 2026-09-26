@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.pagcor.ph/regulatory/cegs.php",
-  "total_providers": 117,
-  "total_games": 7268,
+  "total_providers": 120,
+  "total_games": 7356,
   "providers": [
     {
       "name": "5G GAMES",
@@ -164,11 +164,6 @@
       "total_games": 15
     },
     {
-      "name": "GALATIC EVENTS CORP. / OMNIPLAY",
-      "file": "OMNIPLAY.json",
-      "total_games": 10
-    },
-    {
       "name": "GALATIC EVENTS CORP. / OMNIPLAY (WITH JACKPOT FEATURE)",
       "file": "GALATIC-OMNIPLAY-WITH-JACKPOT-FEATURE.json",
       "total_games": 24
@@ -227,6 +222,11 @@
       "name": "GAMESPHERE SOLUTIONS, INC. / VICTORY ARK GAMING",
       "file": "VICTORY-ARK-GAMING.json",
       "total_games": 42
+    },
+    {
+      "name": "GAMEZONE (TOTAL GAMEZONE XTREME INCORPORATED)",
+      "file": "GAMEZONE.json",
+      "total_games": 14
     },
     {
       "name": "GAMING PANDA",
@@ -349,6 +349,11 @@
       "total_games": 1
     },
     {
+      "name": "OMNIPLAY (GALATIC EVENTS CORP.)",
+      "file": "OMNIPLAY.json",
+      "total_games": 25
+    },
+    {
       "name": "ONE VISAYA GAMING CORPORATION / COMBO GAMING",
       "file": "COMBO-GAMING.json",
       "total_games": 10
@@ -427,6 +432,11 @@
       "name": "ONE VISAYA GAMING CORPORATION / SEXY CASINO",
       "file": "SEXY-CASINO.json",
       "total_games": 2
+    },
+    {
+      "name": "ONLIVE (GAMESPHERE SOLUTIONS, INC.)",
+      "file": "ONLIVE.json",
+      "total_games": 6
     },
     {
       "name": "PAUL JS GAMING STATION, INC. / PAUL JS",
@@ -529,9 +539,9 @@
       "total_games": 13
     },
     {
-      "name": "TOTAL GAMEZONE XTREME INCORPORATED / GAMEZONE",
-      "file": "GAMEZONE.json",
-      "total_games": 12
+      "name": "TENGYUE (TENGYUE TECHNOLOGIES INC.)",
+      "file": "TENGYUE.json",
+      "total_games": 13
     },
     {
       "name": "TOTAL GAMEZONE XTREME INCORPORATED / REELX",
@@ -577,6 +587,11 @@
       "name": "XN INTERACTIVE INC.",
       "file": "XN-INTERACTIVE-INC.json",
       "total_games": 1
+    },
+    {
+      "name": "YELLOW BAT (GALATIC EVENTS CORP.)",
+      "file": "YELLOW_BAT.json",
+      "total_games": 52
     },
     {
       "name": "YGGDRASIL",
